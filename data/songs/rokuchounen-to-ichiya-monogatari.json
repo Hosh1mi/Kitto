@@ -1,0 +1,22 @@
+
+{
+  "id": "rokuchounen-to-ichiya-monogatari",
+  "title": "六兆年と一夜物語",
+  "producers": ["kemu"],
+  "vocalists": ["IA"],
+  "bpm": 186,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": 4,
+    "melody": 4,
+    "rhythm": 5,
+    "breath": 5,
+    "pronunciation": 5,
+    "technique": 4,
+    "stability": 5
+  },
+  "comments": "这首歌的副歌非常忙碌，无论是快速咬字、旋律的上下跳动，还是换气安排，都具有相当大的挑战。如果难以准确掌握歌词进入的时机，推荐一边原地踏步一边演唱，或者配合左右交替迈步，通过全身的动作感受节拍，从而更自然地掌握演唱时机。"
+}

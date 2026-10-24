@@ -1,0 +1,22 @@
+
+{
+  "id": "matryoshka",
+  "title": "マトリョシカ",
+  "producers": ["ハチ"],
+  "vocalists": ["初音ミク", "GUMI"],
+  "bpm": 205,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": 3,
+    "melody": 4,
+    "rhythm": 4,
+    "breath": 3,
+    "pronunciation": 3,
+    "technique": 3,
+    "stability": 3
+  },
+  "comments": "从B段过渡到副歌时，出人意料的转调带来了极强的冲击力！不过，这种独特的展开也直接增加了演唱难度。尤其是B段结尾到副歌开头的部分，还包含明显的音程跳跃，需要反复聆听并进行大量演唱练习，才能准确掌握。"
+}

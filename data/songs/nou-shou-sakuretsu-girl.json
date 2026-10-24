@@ -1,0 +1,22 @@
+
+{
+  "id": "nou-shou-sakuretsu-girl",
+  "title": "脳漿炸裂ガール",
+  "producers": ["れるりり"],
+  "vocalists": ["初音ミク", "GUMI"],
+  "bpm": 155,
+  "vocal_range": {
+    "min": "C4",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": 2,
+    "melody": 3,
+    "rhythm": 5,
+    "breath": 5,
+    "pronunciation": 5,
+    "technique": 3,
+    "stability": 5
+  },
+  "comments": "整首歌曲对气息控制和咬字清晰度都有很高的要求，而且节奏模式会随着段落不断变化。对于第一段主歌，最好以能够一口气唱完「自問自答～マカロン食べたい」为最终目标！副歌部分可以尝试每拍用手指画一个圆，同时配合演唱，这样会更容易掌握重音的位置。"
+}
