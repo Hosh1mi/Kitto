@@ -1,0 +1,33 @@
+{
+  "id": "wo-ai-maiden",
+  "title": "我愛メイデン",
+  "producers": [
+    "羽生まゐご"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/475404"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

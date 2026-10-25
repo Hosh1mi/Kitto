@@ -1,0 +1,37 @@
+{
+  "id": "himitsu-keisatsu",
+  "title": "秘密警察",
+  "producers": [
+    "ぶりるP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 200,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "C#6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/373"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/373"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

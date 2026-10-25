@@ -1,0 +1,35 @@
+{
+  "id": "ima-o-kakeru-shoujo",
+  "title": "今をかける少女",
+  "producers": [
+    "40mP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 132,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/124981"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/124981"
+    ],
+    "vocal_range": []
+  }
+}

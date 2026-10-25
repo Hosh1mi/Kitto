@@ -1,0 +1,37 @@
+{
+  "id": "apricot",
+  "title": "アプリコット",
+  "producers": [
+    "いよわ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 160,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/363570"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/363570"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

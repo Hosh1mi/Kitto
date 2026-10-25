@@ -1,0 +1,37 @@
+{
+  "id": "campanella",
+  "title": "カムパネルラ",
+  "producers": [
+    "sasakure.UK"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 162,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5240"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/5240"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

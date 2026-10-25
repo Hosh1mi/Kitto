@@ -1,0 +1,35 @@
+{
+  "id": "hanabira-aika",
+  "title": "花びら哀歌",
+  "producers": [
+    "MIMI"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)"
+  ],
+  "bpm": 170,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/920277"
+    ],
+    "bpm": [
+      "https://www.chord-rinne.jp/dcode.php?id=9821"
+    ],
+    "vocal_range": []
+  }
+}

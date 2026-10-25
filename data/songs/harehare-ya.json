@@ -1,0 +1,35 @@
+{
+  "id": "harehare-ya",
+  "title": "ハレハレヤ",
+  "producers": [
+    "羽生まゐご"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 92,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/192638"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40yu-sheng-mawigo/harehareya"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "himitsu",
+  "title": "ヒミツ",
+  "producers": [
+    "MIMI"
+  ],
+  "vocalists": [
+    "可不"
+  ],
+  "bpm": 168,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/419160"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/kamitsubakiensemble/pages/18.html"
+    ],
+    "vocal_range": []
+  }
+}

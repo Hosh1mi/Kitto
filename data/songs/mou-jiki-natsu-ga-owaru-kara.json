@@ -1,0 +1,35 @@
+{
+  "id": "mou-jiki-natsu-ga-owaru-kara",
+  "title": "もうじき夏が終わるから",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 120,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/87451"
+    ],
+    "bpm": [
+      "https://keytube.net/song/detail/115173"
+    ],
+    "vocal_range": []
+  }
+}

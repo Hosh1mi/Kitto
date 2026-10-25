@@ -1,0 +1,35 @@
+{
+  "id": "spot-late",
+  "title": "スポットレイト",
+  "producers": [
+    "稲葉曇"
+  ],
+  "vocalists": [
+    "歌愛ユキ"
+  ],
+  "bpm": 140,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/906031"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/906031"
+    ],
+    "vocal_range": []
+  }
+}

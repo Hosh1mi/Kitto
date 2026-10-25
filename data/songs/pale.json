@@ -1,0 +1,33 @@
+{
+  "id": "pale",
+  "title": "Pale",
+  "producers": [
+    "MIMI"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/306258"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

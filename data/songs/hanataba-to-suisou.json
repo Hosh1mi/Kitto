@@ -1,0 +1,35 @@
+{
+  "id": "hanataba-to-suisou",
+  "title": "花束と水葬",
+  "producers": [
+    "ハチ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 80,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1580"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1580"
+    ],
+    "vocal_range": []
+  }
+}

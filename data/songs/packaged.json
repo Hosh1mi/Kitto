@@ -1,0 +1,37 @@
+{
+  "id": "packaged",
+  "title": "Packaged",
+  "producers": [
+    "kz"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 125,
+  "vocal_range": {
+    "min": "C4",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/100671"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/Packaged"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

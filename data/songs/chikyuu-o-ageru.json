@@ -1,0 +1,35 @@
+{
+  "id": "chikyuu-o-ageru",
+  "title": "地球をあげる",
+  "producers": [
+    "はるまきごはん"
+  ],
+  "vocalists": [
+    "ルミ"
+  ],
+  "bpm": 107,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/186984"
+    ],
+    "bpm": [
+      "https://piapro.jp/t/kSAi"
+    ],
+    "vocal_range": []
+  }
+}

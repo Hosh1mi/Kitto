@@ -1,0 +1,35 @@
+{
+  "id": "fuyuu-gekkougai",
+  "title": "浮遊月光街",
+  "producers": [
+    "稲葉曇"
+  ],
+  "vocalists": [
+    "歌愛ユキ"
+  ],
+  "bpm": 178,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/218509"
+    ],
+    "bpm": [
+      "https://keytube.net/song/detail/92097"
+    ],
+    "vocal_range": []
+  }
+}

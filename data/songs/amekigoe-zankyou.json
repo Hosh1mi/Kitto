@@ -1,0 +1,37 @@
+{
+  "id": "amekigoe-zankyou",
+  "title": "雨き声残響",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 82,
+  "vocal_range": {
+    "min": "F3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/68657"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E9%9B%A8%E3%81%8D%E5%A3%B0%E6%AE%8B%E9%9F%BF"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

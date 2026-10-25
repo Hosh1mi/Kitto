@@ -1,0 +1,37 @@
+{
+  "id": "chikyuu-no-ura",
+  "title": "地球の裏",
+  "producers": [
+    "いよわ"
+  ],
+  "vocalists": [
+    "裏命"
+  ],
+  "bpm": 188,
+  "vocal_range": {
+    "min": "C3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/456845"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/kamitsubakiensemble/pages/27.html"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

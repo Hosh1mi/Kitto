@@ -1,0 +1,35 @@
+{
+  "id": "ai-zokusei",
+  "title": "愛属性",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 145,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/846213"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/846213"
+    ],
+    "vocal_range": []
+  }
+}

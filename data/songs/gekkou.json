@@ -1,0 +1,39 @@
+{
+  "id": "gekkou",
+  "title": "月光",
+  "producers": [
+    "はるまきごはん",
+    "キタニタツヤ"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "鏡音リン"
+  ],
+  "bpm": 109,
+  "vocal_range": {
+    "min": "A3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/410288"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/410288"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

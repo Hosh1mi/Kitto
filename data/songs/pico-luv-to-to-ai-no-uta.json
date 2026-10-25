@@ -1,0 +1,35 @@
+{
+  "id": "pico-luv-to-to-ai-no-uta",
+  "title": "PICO＠LUV (☆彡とvとAIのウタ。)",
+  "producers": [
+    "sasakure.UK"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 105,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5238"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/5238"
+    ],
+    "vocal_range": []
+  }
+}
