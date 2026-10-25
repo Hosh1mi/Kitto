@@ -1,0 +1,35 @@
+{
+  "id": "bungakusha-no-koibumi",
+  "title": "文学者の恋文",
+  "producers": [
+    "doriko"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 122,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/59447"
+    ],
+    "bpm": [
+      "https://keytube.net/song/detail/72378"
+    ],
+    "vocal_range": []
+  }
+}

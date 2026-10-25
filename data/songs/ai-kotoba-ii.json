@@ -1,0 +1,38 @@
+{
+  "id": "ai-kotoba-ii",
+  "title": "愛言葉Ⅱ",
+  "producers": [
+    "DECO*27",
+    "kous"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 137,
+  "vocal_range": {
+    "min": "G3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/41545"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E6%84%9B%E8%A8%80%E8%91%89%E2%85%A1"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "roshin-yuukai",
+  "title": "炉心融解",
+  "producers": [
+    "iroha(sasaki)"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 165,
+  "vocal_range": {
+    "min": "A3",
+    "max": "C#6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3022"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3022"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

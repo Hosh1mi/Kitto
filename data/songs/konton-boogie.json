@@ -1,0 +1,37 @@
+{
+  "id": "konton-boogie",
+  "title": "混沌ブギ",
+  "producers": [
+    "jon-YAKITORY"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "G3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/525760"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E6%B7%B7%E6%B2%8C%E3%83%96%E3%82%AE"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-konton-boogie-composed-by-jon-yakitory/"
+    ]
+  }
+}

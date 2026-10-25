@@ -1,0 +1,39 @@
+{
+  "id": "unknown-mother-goose",
+  "title": "アンノウン・マザーグース",
+  "producers": [
+    "wowaka"
+  ],
+  "vocalists": [
+    "wowaka",
+    "初音ミク"
+  ],
+  "bpm": 222,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "C#6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/164107"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/164107"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-unknown-mother-goose-composed-by-wowaka/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

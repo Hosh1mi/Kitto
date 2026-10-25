@@ -1,0 +1,35 @@
+{
+  "id": "kirai-kirai-jiga-hidai",
+  "title": "キライ・キライ・ジガヒダイ！",
+  "producers": [
+    "和田たけあき"
+  ],
+  "vocalists": [
+    "音街ウナ"
+  ],
+  "bpm": 120,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/129549"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40he-tiantakeaki-kuragep/kiraikiraizigahidai"
+    ],
+    "vocal_range": []
+  }
+}

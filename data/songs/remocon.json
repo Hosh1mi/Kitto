@@ -1,0 +1,39 @@
+{
+  "id": "remocon",
+  "title": "リモコン",
+  "producers": [
+    "じーざすP"
+  ],
+  "vocalists": [
+    "鏡音リン",
+    "鏡音レン"
+  ],
+  "bpm": 165,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3387"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3387"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

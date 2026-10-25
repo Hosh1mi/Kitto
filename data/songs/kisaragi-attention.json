@@ -1,0 +1,38 @@
+{
+  "id": "kisaragi-attention",
+  "title": "如月アテンション",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 100,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/12518"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/12518"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

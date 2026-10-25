@@ -1,0 +1,35 @@
+{
+  "id": "twinkle",
+  "title": "トゥインクル",
+  "producers": [
+    "Junky"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "B3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5361"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

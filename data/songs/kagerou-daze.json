@@ -1,0 +1,38 @@
+{
+  "id": "kagerou-daze",
+  "title": "カゲロウデイズ",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 199,
+  "vocal_range": {
+    "min": "B3",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/4979"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/4979"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-kagerou-days-composed-by-jin/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

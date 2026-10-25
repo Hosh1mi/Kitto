@@ -1,0 +1,38 @@
+{
+  "id": "fireflower",
+  "title": "Fire◎Flower",
+  "producers": [
+    "halyosy",
+    "中村博"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 175,
+  "vocal_range": {
+    "min": "D3",
+    "max": "C5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/6387"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/6387"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "yi-er-fanclub",
+  "title": "いーあるふぁんくらぶ",
+  "producers": [
+    "みきとP"
+  ],
+  "vocalists": [
+    "GUMI",
+    "鏡音リン"
+  ],
+  "bpm": 145,
+  "vocal_range": {
+    "min": "G3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/15785"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/15785"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

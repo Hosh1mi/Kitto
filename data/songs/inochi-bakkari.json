@@ -1,0 +1,38 @@
+{
+  "id": "inochi-bakkari",
+  "title": "命ばっかり",
+  "producers": [
+    "ぬゆり"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 128,
+  "vocal_range": {
+    "min": "D4",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/164101"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E5%91%BD%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

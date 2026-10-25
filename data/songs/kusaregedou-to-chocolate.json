@@ -1,0 +1,37 @@
+{
+  "id": "kusaregedou-to-chocolate",
+  "title": "腐れ外道とチョコレゐト",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 260,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/136"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/136"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/"
+    ]
+  }
+}

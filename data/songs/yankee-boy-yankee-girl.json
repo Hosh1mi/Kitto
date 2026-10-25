@@ -1,0 +1,33 @@
+{
+  "id": "yankee-boy-yankee-girl",
+  "title": "ヤンキーボーイ・ヤンキーガール",
+  "producers": [
+    "トーマ"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/21210"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

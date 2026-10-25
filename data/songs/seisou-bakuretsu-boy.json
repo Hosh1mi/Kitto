@@ -1,0 +1,38 @@
+{
+  "id": "seisou-bakuretsu-boy",
+  "title": "聖槍爆裂ボーイ",
+  "producers": [
+    "れるりり",
+    "もじゃ"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 165,
+  "vocal_range": {
+    "min": "A3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/38393"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/38393"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/"
+    ]
+  }
+}

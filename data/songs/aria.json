@@ -1,0 +1,35 @@
+{
+  "id": "aria",
+  "title": "ARiA",
+  "producers": [
+    "とくP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 172,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1723"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1723"
+    ],
+    "vocal_range": []
+  }
+}

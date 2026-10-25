@@ -1,0 +1,37 @@
+{
+  "id": "shinkai-shoujo",
+  "title": "深海少女",
+  "producers": [
+    "ゆうゆ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 137,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8735"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/8735"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

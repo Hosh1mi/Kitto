@@ -1,0 +1,41 @@
+{
+  "id": "koshitantan",
+  "title": "虎視眈々",
+  "producers": [
+    "梅とら"
+  ],
+  "vocalists": [
+    "GUMI",
+    "IA",
+    "鏡音リン",
+    "巡音ルカ",
+    "初音ミク"
+  ],
+  "bpm": 134,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/42554"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E8%99%8E%E8%A6%96%E7%9C%88%E3%80%85"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

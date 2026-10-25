@@ -1,0 +1,37 @@
+{
+  "id": "tetoris",
+  "title": "テトリス",
+  "producers": [
+    "柊マグネタイト"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)"
+  ],
+  "bpm": 170,
+  "vocal_range": {
+    "min": "C4",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/696221"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/696221"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-tetoris-composed-by-hiiragi-magnetite/"
+    ]
+  }
+}

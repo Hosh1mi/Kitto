@@ -1,0 +1,35 @@
+{
+  "id": "kokuhaku-yokou-renshuu",
+  "title": "告白予行練習",
+  "producers": [
+    "使徒"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "B3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/17514"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

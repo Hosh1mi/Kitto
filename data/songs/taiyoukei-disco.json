@@ -1,0 +1,38 @@
+{
+  "id": "taiyoukei-disco",
+  "title": "太陽系デスコ",
+  "producers": [
+    "ナユタン星人"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "F#4",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/129109"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/129109"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

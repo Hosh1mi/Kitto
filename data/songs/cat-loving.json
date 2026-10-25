@@ -1,0 +1,38 @@
+{
+  "id": "cat-loving",
+  "title": "キャットラビング",
+  "producers": [
+    "香椎モイミ"
+  ],
+  "vocalists": [
+    "可不"
+  ],
+  "bpm": 163,
+  "vocal_range": {
+    "min": "E3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/344094"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/344094"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

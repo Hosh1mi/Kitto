@@ -1,0 +1,37 @@
+{
+  "id": "otsukimi-recital",
+  "title": "オツキミリサイタル",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": "110~~195",
+  "vocal_range": {
+    "min": "B3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/25901"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E3%82%AA%E3%83%84%E3%82%AD%E3%83%9F%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BF%E3%83%AB"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

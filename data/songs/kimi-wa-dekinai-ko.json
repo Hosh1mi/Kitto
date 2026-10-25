@@ -1,0 +1,33 @@
+{
+  "id": "kimi-wa-dekinai-ko",
+  "title": "君はできない子",
+  "producers": [
+    "きくお"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/25725"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

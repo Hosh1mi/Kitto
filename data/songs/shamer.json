@@ -1,0 +1,37 @@
+{
+  "id": "shamer",
+  "title": "シェーマ",
+  "producers": [
+    "Chinozo"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 124,
+  "vocal_range": {
+    "min": "G3",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/295177"
+    ],
+    "bpm": [
+      "https://keytube.net/song/detail/189008"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

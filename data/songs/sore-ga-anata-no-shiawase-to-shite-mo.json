@@ -1,0 +1,37 @@
+{
+  "id": "sore-ga-anata-no-shiawase-to-shite-mo",
+  "title": "それがあなたの幸せとしても",
+  "producers": [
+    "Heavenz"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 77,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/26010"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/26010"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

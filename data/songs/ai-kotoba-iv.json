@@ -1,0 +1,39 @@
+{
+  "id": "ai-kotoba-iv",
+  "title": "愛言葉Ⅳ",
+  "producers": [
+    "DECO*27",
+    "Rockwell"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 139,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/409527"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40deco-27/ai-yan-xie-iv-AnM7VxEbxJ"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

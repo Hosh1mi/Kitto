@@ -1,0 +1,38 @@
+{
+  "id": "shinjinrui",
+  "title": "新人類",
+  "producers": [
+    "まらしぃ",
+    "kemu",
+    "びび",
+    "じん"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 144,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/480295"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/480295"
+    ],
+    "vocal_range": []
+  }
+}

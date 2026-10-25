@@ -1,0 +1,37 @@
+{
+  "id": "just-be-friends",
+  "title": "Just Be Friends",
+  "producers": [
+    "Dixie Flatline"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 128,
+  "vocal_range": {
+    "min": "A3",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1360"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1360"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

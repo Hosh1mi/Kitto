@@ -1,0 +1,36 @@
+{
+  "id": "lustrous",
+  "title": "ラストラス",
+  "producers": [
+    "*Luna",
+    "びび"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 148,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/789209"
+    ],
+    "bpm": [
+      "https://www.chord-rinne.jp/dcode.php?id=8817"
+    ],
+    "vocal_range": []
+  }
+}

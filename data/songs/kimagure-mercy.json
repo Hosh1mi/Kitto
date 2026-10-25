@@ -1,0 +1,38 @@
+{
+  "id": "kimagure-mercy",
+  "title": "気まぐれメルシィ",
+  "producers": [
+    "八王子P"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 160,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/121935"
+    ],
+    "bpm": [
+      "https://gamerch.com/d4dj/663161"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

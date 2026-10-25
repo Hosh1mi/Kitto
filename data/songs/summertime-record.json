@@ -1,0 +1,38 @@
+{
+  "id": "summertime-record",
+  "title": "サマータイムレコード",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 185,
+  "vocal_range": {
+    "min": "E3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/28648"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/28648"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-sam-our-time-record-composed-by-jin/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

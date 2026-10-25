@@ -1,0 +1,37 @@
+{
+  "id": "sarishi-no-hara",
+  "title": "サリシノハラ",
+  "producers": [
+    "みきとP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "F3",
+    "max": "C#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/16783"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/16783"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

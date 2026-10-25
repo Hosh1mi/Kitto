@@ -1,0 +1,39 @@
+{
+  "id": "rettou-joutou",
+  "title": "劣等上等",
+  "producers": [
+    "Giga"
+  ],
+  "vocalists": [
+    "鏡音リン",
+    "鏡音レン"
+  ],
+  "bpm": 160,
+  "vocal_range": {
+    "min": "A3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/192291"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/192291"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

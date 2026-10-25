@@ -1,0 +1,38 @@
+{
+  "id": "children-record",
+  "title": "チルドレンレコード",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 104,
+  "vocal_range": {
+    "min": "B3",
+    "max": "F#6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/14484"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/14484"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

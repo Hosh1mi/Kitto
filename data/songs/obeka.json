@@ -1,0 +1,34 @@
+{
+  "id": "obeka",
+  "title": "おべか",
+  "producers": [
+    "すりぃ"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)",
+    "鏡音レン"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/662691"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

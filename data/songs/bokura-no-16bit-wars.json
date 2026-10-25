@@ -1,0 +1,35 @@
+{
+  "id": "bokura-no-16bit-wars",
+  "title": "ぼくらの16bit戦争",
+  "producers": [
+    "sasakure.UK"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 122,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5244"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/5244"
+    ],
+    "vocal_range": []
+  }
+}

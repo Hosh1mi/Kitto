@@ -1,0 +1,37 @@
+{
+  "id": "imitation-black",
+  "title": "IMITATION BLACK",
+  "producers": [
+    "natsuP"
+  ],
+  "vocalists": [
+    "KAITO",
+    "神威がくぽ",
+    "鏡音レン"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "A2",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1250"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

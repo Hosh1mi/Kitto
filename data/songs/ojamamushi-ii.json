@@ -1,0 +1,38 @@
+{
+  "id": "ojamamushi-ii",
+  "title": "おじゃま虫Ⅱ",
+  "producers": [
+    "DECO*27",
+    "TeddyLoid"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 143,
+  "vocal_range": {
+    "min": "B3",
+    "max": "C#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/340768"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E3%81%8A%E3%81%98%E3%82%83%E3%81%BE%E8%99%AB%E2%85%A1%EF%BC%88DECO27%EF%BC%89"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

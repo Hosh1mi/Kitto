@@ -1,0 +1,35 @@
+{
+  "id": "leia-remind",
+  "title": "Leia - Remind",
+  "producers": [
+    "ゆよゆっぺ"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/210407"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/210407"
+    ],
+    "vocal_range": []
+  }
+}

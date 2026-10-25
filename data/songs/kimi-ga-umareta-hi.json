@@ -1,0 +1,35 @@
+{
+  "id": "kimi-ga-umareta-hi",
+  "title": "君が生まれた日",
+  "producers": [
+    "DATEKEN"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 89,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2291"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2291"
+    ],
+    "vocal_range": []
+  }
+}

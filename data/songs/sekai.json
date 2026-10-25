@@ -1,0 +1,37 @@
+{
+  "id": "sekai",
+  "title": "セカイ",
+  "producers": [
+    "DECO*27",
+    "kemu",
+    "Rockwell"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 133,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/290231"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%82%BB%E3%82%AB%E3%82%A4"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "yomosugara-kimi-omou",
+  "title": "夜もすがら君想ふ",
+  "producers": [
+    "TOKOTOKO"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 148,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "C#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/51262"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/51262"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-yomosugara-kimiomou-composed-by-tokotoko/"
+    ]
+  }
+}

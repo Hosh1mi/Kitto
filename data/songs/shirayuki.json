@@ -1,0 +1,35 @@
+{
+  "id": "shirayuki",
+  "title": "白ゆき",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 210,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/119843"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E7%99%BD%E3%82%86%E3%81%8D"
+    ],
+    "vocal_range": []
+  }
+}

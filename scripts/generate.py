@@ -27,6 +27,10 @@ NOTE_VALUES = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
 DIFFICULTY_LEVELS = ("B", "A", "S", "SS", "SSS")
 
 
+def is_blank(value: object) -> bool:
+    return value is None or value == ""
+
+
 class SongDataError(ValueError):
     """JSON 数据不符合歌曲格式。"""
 
@@ -58,52 +62,78 @@ def validate(song: object, path: Path) -> dict:
 
     for field in ("producers", "vocalists"):
         items = song.get(field)
-        if not isinstance(items, list) or not items:
-            raise SongDataError(f"{field} 必须是非空字符串数组")
+        if not isinstance(items, list):
+            raise SongDataError(f"{field} 必须是字符串数组（未知时使用 []）")
         for index, item in enumerate(items):
             check_nonempty_string(item, f"{field}[{index}]")
 
     bpm = song.get("bpm")
-    if type(bpm) is not int or bpm <= 0:
-        raise SongDataError("bpm 必须是正整数")
+    if not is_blank(bpm):
+        if type(bpm) in (int, float):
+            valid_bpm = math.isfinite(bpm) and bpm > 0
+        elif isinstance(bpm, str):
+            valid_bpm = bool(re.fullmatch(r"\d+(?:\.\d+)?(?:~~\d+(?:\.\d+)?)?", bpm))
+            if valid_bpm:
+                bounds = [float(part) for part in bpm.split("~~")]
+                valid_bpm = all(math.isfinite(n) and n > 0 for n in bounds) and bounds == sorted(bounds)
+        else:
+            valid_bpm = False
+        if not valid_bpm:
+            raise SongDataError('bpm 必须是正数、数字字符串或递增区间（如 "200~~205"），也可留空')
 
     vocal_range = song.get("vocal_range")
+    if is_blank(vocal_range):
+        vocal_range = {"min": "", "max": ""}
+        song["vocal_range"] = vocal_range
     if not isinstance(vocal_range, dict) or set(vocal_range) != {"min", "max"}:
         raise SongDataError("vocal_range 必须包含且仅包含 min、max")
     for name in ("min", "max"):
-        check_nonempty_string(vocal_range[name], f"vocal_range.{name}")
-    if pitch_number(vocal_range["min"]) > pitch_number(vocal_range["max"]):
+        if not is_blank(vocal_range[name]):
+            check_nonempty_string(vocal_range[name], f"vocal_range.{name}")
+            pitch_number(vocal_range[name])
+    if all(not is_blank(vocal_range[n]) for n in ("min", "max")) and pitch_number(vocal_range["min"]) > pitch_number(vocal_range["max"]):
         raise SongDataError("vocal_range.min 不能高于 vocal_range.max")
 
     scores = song.get("scores")
+    if is_blank(scores):
+        scores = {}
+        song["scores"] = scores
     if not isinstance(scores, dict):
         raise SongDataError("scores 必须是对象")
-    missing = set(SCORE_FIELDS) - set(scores)
     extra = set(scores) - set(SCORE_FIELDS)
-    if missing or extra:
-        raise SongDataError(f"scores 字段错误：缺少 {sorted(missing)}；多余 {sorted(extra)}")
+    if extra:
+        raise SongDataError(f"scores 字段错误：多余 {sorted(extra)}")
     for field in SCORE_FIELDS:
-        value = scores[field]
-        if type(value) is not int or not 1 <= value <= 5:
-            raise SongDataError(f"scores.{field} 必须是 1～5 的整数")
+        value = scores.get(field)
+        if not is_blank(value) and (type(value) is not int or not 1 <= value <= 5):
+            raise SongDataError(f"scores.{field} 必须是 1～5 的整数或留空")
 
-    if "difficulty" in song:
-        raise SongDataError("difficulty 是自动计算字段，请从歌曲 JSON 中删除")
+    if not is_blank(song.get("difficulty")) and song["difficulty"] not in DIFFICULTY_LEVELS:
+        raise SongDataError("difficulty 必须是 B、A、S、SS、SSS 或留空")
 
     if "comments" in song and not isinstance(song["comments"], str):
         raise SongDataError("comments 必须是字符串")
     return song
 
 
-def load_difficulty_thresholds(config_path: Path) -> dict[str, float]:
-    """读取等级的最低综合分，严格要求 B < A < S < SS < SSS。"""
+def load_config(config_path: Path) -> tuple[dict[str, float], dict[str, float]]:
+    """读取评分权重和等级最低综合分，要求 B < A < S < SS < SSS。"""
     try:
         config = json.loads(config_path.read_text(encoding="utf-8-sig"))
     except (json.JSONDecodeError, UnicodeError, OSError) as exc:
         raise SongDataError(f"无法读取配置文件 {config_path}：{exc}") from exc
 
-    if not isinstance(config, dict) or set(config) != {"difficulty_thresholds"}:
-        raise SongDataError("config.json 只能包含 difficulty_thresholds 对象")
+    if not isinstance(config, dict) or set(config) != {"difficulty_thresholds", "score_weights"}:
+        raise SongDataError("配置必须包含且仅包含 difficulty_thresholds、score_weights 对象")
+
+    weights = config["score_weights"]
+    if not isinstance(weights, dict) or set(weights) != set(SCORE_FIELDS):
+        raise SongDataError("score_weights 必须包含且仅包含七项评分维度")
+    for field, weight in weights.items():
+        if type(weight) not in (int, float) or not math.isfinite(weight) or weight < 0:
+            raise SongDataError(f"score_weights.{field} 必须是非负有限数字")
+    if not math.isfinite(sum(weights.values())) or sum(weights.values()) <= 0:
+        raise SongDataError("score_weights 权重之和必须是大于 0 的有限数字")
 
     thresholds = config["difficulty_thresholds"]
     if not isinstance(thresholds, dict) or set(thresholds) != set(DIFFICULTY_LEVELS):
@@ -119,12 +149,19 @@ def load_difficulty_thresholds(config_path: Path) -> dict[str, float]:
         previous = cutoff
     if thresholds["B"] != 1:
         raise SongDataError("difficulty_thresholds.B 必须为 1，才能覆盖所有评分")
-    return {level: float(thresholds[level]) for level in DIFFICULTY_LEVELS}
+    return ({level: float(thresholds[level]) for level in DIFFICULTY_LEVELS},
+            {field: float(weights[field]) for field in SCORE_FIELDS})
 
 
-def overall_score(song: dict) -> float:
-    """七项评分的算术平均值，不提前舍入。"""
-    return sum(song["scores"][key] for key in SCORE_FIELDS) / len(SCORE_FIELDS)
+def overall_score(song: dict, weights: dict[str, float]) -> float | None:
+    """七项全部填写后才计算加权平均值，不提前舍入。"""
+    scores = song.get("scores") or {}
+    if any(is_blank(scores.get(key)) for key in SCORE_FIELDS):
+        return None
+    scale = max(weights.values())
+    scaled_weights = {key: weights[key] / scale for key in SCORE_FIELDS}
+    return (math.fsum(scores[key] * scaled_weights[key] for key in SCORE_FIELDS)
+            / math.fsum(scaled_weights.values()))
 
 
 def calculate_difficulty(overall: float, thresholds: dict[str, float]) -> str:
@@ -166,43 +203,50 @@ def load_songs(data_dir: Path) -> list[dict]:
         ids.add(song["id"])
         songs.append(song)
 
-    # 按七项综合难度从易到难；同分时按 id 排序，确保输出稳定。
-    songs.sort(key=lambda s: (sum(s["scores"][k] for k in SCORE_FIELDS), s["id"]))
     return songs
 
 
 def md_cell(value: object) -> str:
     """将普通文本安全放入 Markdown 单元格。"""
     value = html.escape(str(value), quote=False)
+    # 避免 BPM 中的 ~~ 被 Markdown 渲染为删除线。
+    value = value.replace("~", "&#126;")
     value = value.replace("\\", "\\\\").replace("|", "\\|")
     return value.replace("\r\n", " ").replace("\n", " ").replace("\r", " ")
 
 
-def render_content(songs: list[dict], thresholds: dict[str, float]) -> str:
+def render_content(songs: list[dict], thresholds: dict[str, float], weights: dict[str, float]) -> str:
     headers = (
         "歌曲", "制作人", "歌姬", "BPM", "音高范围",
         "音域", "旋律", "节奏", "气息", "咬字", "技巧", "稳定性", "综合难度", "难度等级",
     )
     lines = [
-        "> 综合难度为七项评分的算术平均值（满分 5 分，包含稳定性）；按综合难度升序排列。",
-        f"> 等级根据 `config.json` 中的阈值自动计算（左闭右开）：{difficulty_ranges(thresholds)}。",
+        "> 综合难度为七项评分的加权平均值（满分 5 分），权重见 `config.json`；七项全部填写后才计算。按综合难度升序排列，未评分歌曲按 id 排在最后。",
+        f"> 等级可由歌曲的 `difficulty` 手动指定，否则根据配置阈值自动计算（左闭右开）：{difficulty_ranges(thresholds)}。",
         "",
         "| " + " | ".join(headers) + " |",
         "| " + " | ".join("---" for _ in headers) + " |",
     ]
 
+    def sort_key(song: dict) -> tuple:
+        overall = overall_score(song, weights)
+        return (overall is None, overall if overall is not None else 0, song["id"])
+
+    songs = sorted(songs, key=sort_key)
     for song in songs:
         score = song["scores"]
-        overall = overall_score(song)
+        overall = overall_score(song, weights)
+        vocal_range = song["vocal_range"]
+        range_text = "～".join(vocal_range.get(n) or "" for n in ("min", "max")) if any(vocal_range.values()) else ""
         values = [
             song["title"],
             "、".join(song["producers"]),
             "、".join(song["vocalists"]),
-            song["bpm"],
-            f"{song['vocal_range']['min']}～{song['vocal_range']['max']}",
-            *(score[k] for k in SCORE_FIELDS),
-            f"{overall:.2f}",
-            calculate_difficulty(overall, thresholds),
+            song.get("bpm") or "",
+            range_text,
+            *(score.get(k) or "" for k in SCORE_FIELDS),
+            f"{overall:.2f}" if overall is not None else "",
+            song.get("difficulty") or (calculate_difficulty(overall, thresholds) if overall is not None else ""),
         ]
         lines.append("| " + " | ".join(map(md_cell, values)) + " |")
 
@@ -240,17 +284,17 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="生成 VOCALOID 歌曲翻唱难度 Markdown 表格")
     parser.add_argument("--data-dir", type=Path, default=ROOT / "data" / "songs", help="歌曲 JSON 目录")
     parser.add_argument("--readme", type=Path, default=ROOT / "README.md", help="目标 Markdown 文件")
-    parser.add_argument("--config", type=Path, default=ROOT / "config.json", help="难度等级阈值配置")
+    parser.add_argument("--config", type=Path, default=ROOT / "config.json", help="难度等级阈值和评分权重配置")
     parser.add_argument("--check", action="store_true", help="仅检查 README 是否已与 JSON 同步")
     args = parser.parse_args()
 
     try:
         songs = load_songs(args.data_dir)
-        thresholds = load_difficulty_thresholds(args.config)
+        thresholds, weights = load_config(args.config)
         current = args.readme.read_text(encoding="utf-8") if args.readme.exists() else ""
         if not current and not args.readme.exists():
             current = "# VOCALOID 翻唱难度表\n"
-        result = update_readme(current, render_content(songs, thresholds))
+        result = update_readme(current, render_content(songs, thresholds, weights))
         if args.check:
             if result != current:
                 print(f"README 需要更新：{args.readme}", file=sys.stderr)

@@ -1,0 +1,35 @@
+{
+  "id": "bakushou",
+  "title": "爆笑",
+  "producers": [
+    "syudou"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 176,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/336190"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40syudou/54ig56yr-neh6h"
+    ],
+    "vocal_range": []
+  }
+}

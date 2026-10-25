@@ -1,0 +1,35 @@
+{
+  "id": "boku-wa-hatsune-miku-to-kiss-o-shita",
+  "title": "僕は初音ミクとキスをした",
+  "producers": [
+    "みきとP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/26013"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/26013"
+    ],
+    "vocal_range": []
+  }
+}

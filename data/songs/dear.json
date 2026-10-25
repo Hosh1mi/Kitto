@@ -1,0 +1,35 @@
+{
+  "id": "dear",
+  "title": "Dear",
+  "producers": [
+    "19 -iku-"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3478"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3478"
+    ],
+    "vocal_range": []
+  }
+}

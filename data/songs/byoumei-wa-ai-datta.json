@@ -1,0 +1,38 @@
+{
+  "id": "byoumei-wa-ai-datta",
+  "title": "病名は愛だった",
+  "producers": [
+    "Neru"
+  ],
+  "vocalists": [
+    "鏡音レン",
+    "鏡音リン"
+  ],
+  "bpm": 88,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/164262"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/164262"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tokyo-retro",
+  "title": "東京レトロ",
+  "producers": [
+    "すこっぷ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 126,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/31714"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E6%9D%B1%E4%BA%AC%E3%83%AC%E3%83%88%E3%83%AD"
+    ],
+    "vocal_range": []
+  }
+}

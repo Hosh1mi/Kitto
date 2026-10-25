@@ -1,0 +1,37 @@
+{
+  "id": "inochi-no-uta",
+  "title": "いのちの歌",
+  "producers": [
+    "トラボルタ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 162,
+  "vocal_range": {
+    "min": "A3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2947"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2947"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

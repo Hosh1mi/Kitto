@@ -1,0 +1,35 @@
+{
+  "id": "fascinator",
+  "title": "ファシネイター",
+  "producers": [
+    "MARETU"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "84~~140",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/891732"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/891732"
+    ],
+    "vocal_range": []
+  }
+}

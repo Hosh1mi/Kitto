@@ -1,0 +1,35 @@
+{
+  "id": "ultra-trailer",
+  "title": "ウルトラトレーラー",
+  "producers": [
+    "マサラダ"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)"
+  ],
+  "bpm": 155,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/552563"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%A9%E3%83%BC"
+    ],
+    "vocal_range": []
+  }
+}

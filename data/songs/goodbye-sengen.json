@@ -1,0 +1,38 @@
+{
+  "id": "goodbye-sengen",
+  "title": "グッバイ宣言",
+  "producers": [
+    "Chinozo"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 170,
+  "vocal_range": {
+    "min": "C4",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/278267"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/278267"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rinkai-diver",
+  "title": "臨界ダイバー",
+  "producers": [
+    "こじろー"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "B3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/146648"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

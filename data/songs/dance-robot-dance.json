@@ -1,0 +1,38 @@
+{
+  "id": "dance-robot-dance",
+  "title": "ダンスロボットダンス",
+  "producers": [
+    "ナユタン星人"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "A4",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/141649"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/141649"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

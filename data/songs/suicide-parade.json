@@ -1,0 +1,37 @@
+{
+  "id": "suicide-parade",
+  "title": "スーサイドパレヱド",
+  "producers": [
+    "ユリイ・カノン"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 176,
+  "vocal_range": {
+    "min": "F4",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/161926"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/161926"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/"
+    ]
+  }
+}

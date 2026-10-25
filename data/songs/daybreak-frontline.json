@@ -1,0 +1,37 @@
+{
+  "id": "daybreak-frontline",
+  "title": "DAYBREAK FRONTLINE",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 136,
+  "vocal_range": {
+    "min": "G3",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/141339"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/DAYBREAK%20FRONTLINE"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-daybreak-frontline-composed-by-ia/"
+    ]
+  }
+}

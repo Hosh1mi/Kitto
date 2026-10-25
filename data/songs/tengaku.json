@@ -1,0 +1,37 @@
+{
+  "id": "tengaku",
+  "title": "天樂",
+  "producers": [
+    "ゆうゆ"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 232,
+  "vocal_range": {
+    "min": "A3",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3269"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3269"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

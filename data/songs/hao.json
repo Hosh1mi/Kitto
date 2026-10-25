@@ -1,0 +1,38 @@
+{
+  "id": "hao",
+  "title": "ハオ",
+  "producers": [
+    "DECO*27",
+    "山本隼人"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "130~~176",
+  "vocal_range": {
+    "min": "G3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/640212"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/640212"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

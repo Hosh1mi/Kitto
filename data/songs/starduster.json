@@ -1,0 +1,35 @@
+{
+  "id": "starduster",
+  "title": "Starduster",
+  "producers": [
+    "ジミーサムP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "82~~164",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2913"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2913"
+    ],
+    "vocal_range": []
+  }
+}

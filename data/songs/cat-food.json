@@ -1,0 +1,35 @@
+{
+  "id": "cat-food",
+  "title": "キャットフード",
+  "producers": [
+    "doriko"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 174,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1024"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1024"
+    ],
+    "vocal_range": []
+  }
+}

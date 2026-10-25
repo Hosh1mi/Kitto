@@ -1,0 +1,38 @@
+{
+  "id": "shikabane-no-odori",
+  "title": "しかばねの踊り",
+  "producers": [
+    "きくお"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/36002"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40kikuo/sikabaneno-yongri"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

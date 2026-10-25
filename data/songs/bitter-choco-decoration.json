@@ -1,0 +1,38 @@
+{
+  "id": "bitter-choco-decoration",
+  "title": "ビターチョコデコレーション",
+  "producers": [
+    "syudou"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 174,
+  "vocal_range": {
+    "min": "D4",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/221277"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/musedash/%E3%83%93%E3%82%BF%E3%83%BC%E3%83%81%E3%83%A7%E3%82%B3%E3%83%87%E3%82%B3%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

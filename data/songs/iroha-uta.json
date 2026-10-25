@@ -1,0 +1,37 @@
+{
+  "id": "iroha-uta",
+  "title": "いろは唄",
+  "producers": [
+    "銀サク"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 115,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2738"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2738"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

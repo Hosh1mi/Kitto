@@ -1,0 +1,38 @@
+{
+  "id": "unhappy-refrain",
+  "title": "アンハッピーリフレイン",
+  "producers": [
+    "wowaka"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 205,
+  "vocal_range": {
+    "min": "E4",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1500"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1500"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

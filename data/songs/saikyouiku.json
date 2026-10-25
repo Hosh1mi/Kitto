@@ -1,0 +1,38 @@
+{
+  "id": "saikyouiku",
+  "title": "再教育",
+  "producers": [
+    "Neru"
+  ],
+  "vocalists": [
+    "鏡音リン",
+    "鏡音レン"
+  ],
+  "bpm": 163,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/13728"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/reflec_beat/pages/978.html"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

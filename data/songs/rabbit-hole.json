@@ -1,0 +1,38 @@
+{
+  "id": "rabbit-hole",
+  "title": "ラビットホール",
+  "producers": [
+    "DECO*27",
+    "tepe"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 173,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/500519"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/500519"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/"
+    ]
+  }
+}

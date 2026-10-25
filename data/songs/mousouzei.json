@@ -1,0 +1,38 @@
+{
+  "id": "mousouzei",
+  "title": "妄想税",
+  "producers": [
+    "kous",
+    "DECO*27"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 134,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/38916"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E5%A6%84%E6%83%B3%E7%A8%8E"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

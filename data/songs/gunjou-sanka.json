@@ -1,0 +1,36 @@
+{
+  "id": "gunjou-sanka",
+  "title": "群青讃歌",
+  "producers": [
+    "Eve",
+    "沼能友樹"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 168,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/356981"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E7%BE%A4%E9%9D%92%E8%AE%83%E6%AD%8C"
+    ],
+    "vocal_range": []
+  }
+}

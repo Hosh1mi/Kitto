@@ -1,0 +1,35 @@
+{
+  "id": "paradichlorobenzene",
+  "title": "パラジクロロベンゼン",
+  "producers": [
+    "オワタP"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 120,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1890"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1890"
+    ],
+    "vocal_range": []
+  }
+}

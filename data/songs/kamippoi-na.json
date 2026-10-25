@@ -1,0 +1,36 @@
+{
+  "id": "kamippoi-na",
+  "title": "神っぽいな",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "ピノキオピー",
+    "初音ミク"
+  ],
+  "bpm": 142,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/354245"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/354245"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "amatsu-kitsune",
+  "title": "アマツキツネ",
+  "producers": [
+    "まらしぃ"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/15691"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/15691"
+    ],
+    "vocal_range": []
+  }
+}

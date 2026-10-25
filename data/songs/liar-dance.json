@@ -1,0 +1,39 @@
+{
+  "id": "liar-dance",
+  "title": "ライアーダンス",
+  "producers": [
+    "DECO*27",
+    "板井直樹"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 200,
+  "vocal_range": {
+    "min": "C4",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/125735"
+    ],
+    "bpm": [
+      "https://www.chord-rinne.jp/scode.php?id=5633"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

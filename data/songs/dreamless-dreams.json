@@ -1,0 +1,37 @@
+{
+  "id": "dreamless-dreams",
+  "title": "ドリームレス・ドリームス",
+  "producers": [
+    "はるまきごはん"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 80,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/156001"
+    ],
+    "bpm": [
+      "https://www.piapro.jp/t/4vtA"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

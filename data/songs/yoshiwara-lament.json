@@ -1,0 +1,39 @@
+{
+  "id": "yoshiwara-lament",
+  "title": "吉原ラメント",
+  "producers": [
+    "小山乃舞世",
+    "亜沙"
+  ],
+  "vocalists": [
+    "小山乃舞世",
+    "重音テト"
+  ],
+  "bpm": 96,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "B4"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/14435"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/14435"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

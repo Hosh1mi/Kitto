@@ -1,0 +1,35 @@
+{
+  "id": "kimi-koishi",
+  "title": "君恋し",
+  "producers": [
+    "EasyPop"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 105,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3183"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3183"
+    ],
+    "vocal_range": []
+  }
+}

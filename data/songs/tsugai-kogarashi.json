@@ -1,0 +1,36 @@
+{
+  "id": "tsugai-kogarashi",
+  "title": "番凩",
+  "producers": [
+    "hinayukki"
+  ],
+  "vocalists": [
+    "KAITO",
+    "MEIKO"
+  ],
+  "bpm": 128,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8241"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/8241"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "netsu-ijou",
+  "title": "熱異常",
+  "producers": [
+    "いよわ"
+  ],
+  "vocalists": [
+    "足立レイ"
+  ],
+  "bpm": 183,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/443534"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/443534"
+    ],
+    "vocal_range": []
+  }
+}

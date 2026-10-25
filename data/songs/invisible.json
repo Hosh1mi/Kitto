@@ -1,0 +1,39 @@
+{
+  "id": "invisible",
+  "title": "インビジブル",
+  "producers": [
+    "kemu"
+  ],
+  "vocalists": [
+    "GUMI",
+    "鏡音リン"
+  ],
+  "bpm": 192,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8251"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/8251"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

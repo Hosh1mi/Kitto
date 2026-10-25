@@ -1,0 +1,35 @@
+{
+  "id": "migikata-no-chou",
+  "title": "右肩の蝶",
+  "producers": [
+    "のりぴー"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 140,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1952"
+    ],
+    "bpm": [
+      "https://www.chord-rinne.jp/scode.php?id=10328"
+    ],
+    "vocal_range": []
+  }
+}

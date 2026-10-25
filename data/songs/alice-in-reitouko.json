@@ -1,0 +1,38 @@
+{
+  "id": "alice-in-reitouko",
+  "title": "Alice in 冷凍庫",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 176,
+  "vocal_range": {
+    "min": "F4",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/114987"
+    ],
+    "bpm": [
+      "https://dxrating.net/songs/Alice%20in%20%E5%86%B7%E5%87%8D%E5%BA%AB/dx/master"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

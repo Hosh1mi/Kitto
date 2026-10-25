@@ -1,0 +1,37 @@
+{
+  "id": "musunde-hiraite-rasetsu-to-mukuro",
+  "title": "結ンデ開イテ羅刹ト骸",
+  "producers": [
+    "ハチ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 169,
+  "vocal_range": {
+    "min": "A3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2982"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2982"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

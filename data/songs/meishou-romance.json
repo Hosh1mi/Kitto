@@ -1,0 +1,36 @@
+{
+  "id": "meishou-romance",
+  "title": "明正ロマン",
+  "producers": [
+    "亜沙",
+    "シリア"
+  ],
+  "vocalists": [
+    "重音テト"
+  ],
+  "bpm": 188,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/28602"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/28602"
+    ],
+    "vocal_range": []
+  }
+}

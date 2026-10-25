@@ -1,0 +1,37 @@
+{
+  "id": "hana-furashi",
+  "title": "花降らし",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 100,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/124846"
+    ],
+    "bpm": [
+      "https://music-chord.com/songs/%E8%8A%B1%E9%99%8D%E3%82%89%E3%81%97-n-buna/"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

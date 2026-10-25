@@ -1,0 +1,38 @@
+{
+  "id": "chikyuu-saigo-no-kokuhaku-o",
+  "title": "地球最後の告白を",
+  "producers": [
+    "kemu"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "F3",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/13615"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E5%9C%B0%E7%90%83%E6%9C%80%E5%BE%8C%E3%81%AE%E5%91%8A%E7%99%BD%E3%82%92"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-the-last-confession-on-the-earth-composed-by-kemu/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

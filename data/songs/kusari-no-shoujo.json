@@ -1,0 +1,37 @@
+{
+  "id": "kusari-no-shoujo",
+  "title": "鎖の少女",
+  "producers": [
+    "のぼる↑"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "A3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2655"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2655"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

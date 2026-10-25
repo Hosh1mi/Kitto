@@ -1,0 +1,36 @@
+{
+  "id": "ai-kotoba-iii",
+  "title": "愛言葉Ⅲ",
+  "producers": [
+    "DECO*27",
+    "Rockwell"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 137,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/207153"
+    ],
+    "bpm": [
+      "https://gamerch.com/d4dj/276987"
+    ],
+    "vocal_range": []
+  }
+}

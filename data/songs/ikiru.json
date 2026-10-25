@@ -1,0 +1,37 @@
+{
+  "id": "ikiru",
+  "title": "生きる",
+  "producers": [
+    "水野あつ"
+  ],
+  "vocalists": [
+    "可不"
+  ],
+  "bpm": 112,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/344714"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E7%94%9F%E3%81%8D%E3%82%8B"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/"
+    ]
+  }
+}

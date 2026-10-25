@@ -1,0 +1,39 @@
+{
+  "id": "telepathy",
+  "title": "テレパシ",
+  "producers": [
+    "DECO*27",
+    "tepe"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 205,
+  "vocal_range": {
+    "min": "G3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/752940"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/gameongeki/%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-telepathy-composed-by-deco27/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kokoronashi",
+  "title": "心做し",
+  "producers": [
+    "蝶々P"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 84,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/46115"
+    ],
+    "bpm": [
+      "https://music-chord.com/songs/%E5%BF%83%E5%81%9A%E3%81%97-%E8%9D%B6%E3%80%85P/"
+    ],
+    "vocal_range": []
+  }
+}

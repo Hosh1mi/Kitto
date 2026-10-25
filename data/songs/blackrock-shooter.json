@@ -1,0 +1,37 @@
+{
+  "id": "blackrock-shooter",
+  "title": "ブラック★ロックシューター",
+  "producers": [
+    "ryo"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 165,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1323"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1323"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

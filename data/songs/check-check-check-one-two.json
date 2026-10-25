@@ -1,0 +1,37 @@
+{
+  "id": "check-check-check-one-two",
+  "title": "チェチェ・チェック・ワンツー！",
+  "producers": [
+    "和田たけあき"
+  ],
+  "vocalists": [
+    "結月ゆかり"
+  ],
+  "bpm": 195,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/129113"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/gameongeki/%E3%83%81%E3%82%A7%E3%83%81%E3%82%A7%E3%83%BB%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AF%E3%83%B3%E3%83%84%E3%83%BC%EF%BC%81"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

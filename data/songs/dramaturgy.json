@@ -1,0 +1,38 @@
+{
+  "id": "dramaturgy",
+  "title": "ドラマツルギー",
+  "producers": [
+    "Eve",
+    "沼能友樹"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 149,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "C#6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/170110"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%83%89%E3%83%A9%E3%83%9E%E3%83%84%E3%83%AB%E3%82%AE%E3%83%BC"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

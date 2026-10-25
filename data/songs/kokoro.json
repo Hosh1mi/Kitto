@@ -1,0 +1,37 @@
+{
+  "id": "kokoro",
+  "title": "ココロ",
+  "producers": [
+    "トラボルタ"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 140,
+  "vocal_range": {
+    "min": "B3",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1357"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1357"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

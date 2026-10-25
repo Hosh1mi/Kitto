@@ -1,0 +1,37 @@
+{
+  "id": "mind-brand",
+  "title": "マインドブランド",
+  "producers": [
+    "MARETU"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 155.99,
+  "vocal_range": {
+    "min": "F3",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/89474"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/89474"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kareshi-no-jude",
+  "title": "カレシのジュード",
+  "producers": [
+    "syudou"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 165,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/347355"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%82%AB%E3%83%AC%E3%82%B7%E3%81%AE%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%89"
+    ],
+    "vocal_range": []
+  }
+}

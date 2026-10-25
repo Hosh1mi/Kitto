@@ -1,0 +1,38 @@
+{
+  "id": "last-resort",
+  "title": "ラストリゾート",
+  "producers": [
+    "Ayase"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 124,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/236272"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40ayase/44op44k544oi44oq44k44o844oi-w5usk"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

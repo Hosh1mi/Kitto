@@ -1,0 +1,39 @@
+{
+  "id": "ojamamushi",
+  "title": "おじゃま虫",
+  "producers": [
+    "DECO*27",
+    "kous"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 143,
+  "vocal_range": {
+    "min": "B3",
+    "max": "C#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/48030"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/48030"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

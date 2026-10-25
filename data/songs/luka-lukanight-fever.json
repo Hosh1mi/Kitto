@@ -1,0 +1,37 @@
+{
+  "id": "luka-lukanight-fever",
+  "title": "ルカルカ★ナイトフィーバー",
+  "producers": [
+    "samfree"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 160,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1435"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1435"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

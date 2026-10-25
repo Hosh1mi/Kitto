@@ -1,0 +1,39 @@
+{
+  "id": "additional-memory",
+  "title": "アディショナルメモリー",
+  "producers": [
+    "じん",
+    "ぐっしー",
+    "魚"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "80~~200",
+  "vocal_range": {
+    "min": "D4",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/203445"
+    ],
+    "bpm": [
+      "https://music-chord.com/songs/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC-%E3%81%98%E3%82%93/"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "alice-blue",
+  "title": "アリスブルー",
+  "producers": [
+    "HoneyWorks"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/330937"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "vocadb-400359",
+  "title": "88☆彡",
+  "producers": [
+    "まらしぃ",
+    "kemu",
+    "びび"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "KAITO"
+  ],
+  "bpm": 175,
+  "vocal_range": {
+    "min": "F#2",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/400359"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/400359"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

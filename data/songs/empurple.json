@@ -1,0 +1,35 @@
+{
+  "id": "empurple",
+  "title": "エンパープル",
+  "producers": [
+    "はるまきごはん"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 136,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/642538"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/642538"
+    ],
+    "vocal_range": []
+  }
+}

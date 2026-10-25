@@ -1,0 +1,38 @@
+{
+  "id": "shoujo-rei",
+  "title": "少女レイ",
+  "producers": [
+    "みきとP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/197929"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/197929"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-shoujo-rei-composed-by-mikitop/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

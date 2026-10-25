@@ -1,0 +1,37 @@
+{
+  "id": "imawanokiwa",
+  "title": "IMAWANOKIWA",
+  "producers": [
+    "いよわ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 178,
+  "vocal_range": {
+    "min": "C4",
+    "max": "A6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/259741"
+    ],
+    "bpm": [
+      "https://gamerch.com/maimai/796986"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-imawanokiwa-composed-by-iyowa/"
+    ]
+  }
+}

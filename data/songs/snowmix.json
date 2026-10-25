@@ -1,0 +1,37 @@
+{
+  "id": "snowmix",
+  "title": "SnowMix♪",
+  "producers": [
+    "まらしぃ",
+    "KOUICHI",
+    "びび"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 92,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/460669"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/460669"
+    ],
+    "vocal_range": []
+  }
+}

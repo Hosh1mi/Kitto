@@ -1,0 +1,38 @@
+{
+  "id": "yobanashi-deceive",
+  "title": "夜咄ディセイブ",
+  "producers": [
+    "じん"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 130,
+  "vocal_range": {
+    "min": "A3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/23087"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E5%A4%9C%E5%92%84%E3%83%87%E3%82%A3%E3%82%BB%E3%82%A4%E3%83%96"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

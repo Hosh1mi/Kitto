@@ -1,0 +1,38 @@
+{
+  "id": "kaisei",
+  "title": "快晴",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 172,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/166707"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/sonicy_memo/pages/3222.html"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-kaisei-composed-by-orangestar/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

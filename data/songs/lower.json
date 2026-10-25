@@ -1,0 +1,38 @@
+{
+  "id": "lower",
+  "title": "ロウワー",
+  "producers": [
+    "ぬゆり"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 132,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/365108"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/365108"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-lower-ones-eyes-composed-by-nulut/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

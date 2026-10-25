@@ -1,0 +1,33 @@
+{
+  "id": "white-landscape",
+  "title": "White Landscape",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/146572"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

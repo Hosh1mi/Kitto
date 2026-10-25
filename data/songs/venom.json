@@ -1,0 +1,38 @@
+{
+  "id": "venom",
+  "title": "ベノム",
+  "producers": [
+    "かいりきベア"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 152,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/199209"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/199209"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kyuukurarin",
+  "title": "きゅうくらりん",
+  "producers": [
+    "いよわ"
+  ],
+  "vocalists": [
+    "可不"
+  ],
+  "bpm": 220,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/349763"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/349763"
+    ],
+    "vocal_range": []
+  }
+}

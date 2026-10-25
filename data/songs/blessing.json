@@ -1,0 +1,40 @@
+{
+  "id": "blessing",
+  "title": "Blessing",
+  "producers": [
+    "halyosy"
+  ],
+  "vocalists": [
+    "巡音ルカ",
+    "初音ミク",
+    "鏡音リン",
+    "鏡音レン",
+    "KAITO",
+    "MEIKO"
+  ],
+  "bpm": 110,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/50703"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/50703"
+    ],
+    "vocal_range": []
+  }
+}

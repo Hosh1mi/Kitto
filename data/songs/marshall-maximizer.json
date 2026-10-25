@@ -1,0 +1,38 @@
+{
+  "id": "marshall-maximizer",
+  "title": "マーシャル・マキシマイザー",
+  "producers": [
+    "柊マグネタイト"
+  ],
+  "vocalists": [
+    "可不"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "C#4",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/348255"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/348255"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

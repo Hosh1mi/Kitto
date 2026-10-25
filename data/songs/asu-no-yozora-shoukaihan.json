@@ -1,0 +1,38 @@
+{
+  "id": "asu-no-yozora-shoukaihan",
+  "title": "アスノヨゾラ哨戒班",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 185,
+  "vocal_range": {
+    "min": "E3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/65861"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/65861"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-night-sky-patrol-of-tomorrow-composed-by-orangestar/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

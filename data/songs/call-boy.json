@@ -1,0 +1,35 @@
+{
+  "id": "call-boy",
+  "title": "コールボーイ",
+  "producers": [
+    "syudou"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "D#4",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/231791"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

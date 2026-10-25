@@ -1,0 +1,35 @@
+{
+  "id": "white-happy",
+  "title": "ホワイトハッピー",
+  "producers": [
+    "MARETU"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 160,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/160508"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40maretu/44ob44ov44kk44oi44op44od44ou44o8-kq5af"
+    ],
+    "vocal_range": []
+  }
+}

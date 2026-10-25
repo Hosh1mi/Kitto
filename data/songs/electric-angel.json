@@ -1,0 +1,37 @@
+{
+  "id": "electric-angel",
+  "title": "えれくとりっく・えんじぇぅ",
+  "producers": [
+    "ヤスオ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2915"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2915"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "shinshou-shinkirou",
+  "title": "心象蜃気楼",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/137377"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E5%BF%83%E8%B1%A1%E8%9C%83%E6%B0%97%E6%A5%BC"
+    ],
+    "vocal_range": []
+  }
+}

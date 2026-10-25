@@ -1,0 +1,38 @@
+{
+  "id": "nonsense-bungaku",
+  "title": "ナンセンス文学",
+  "producers": [
+    "Eve",
+    "沼能友樹"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 154,
+  "vocal_range": {
+    "min": "B3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/157227"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9%E6%96%87%E5%AD%A6"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

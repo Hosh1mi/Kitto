@@ -1,0 +1,38 @@
+{
+  "id": "shoujo-a",
+  "title": "少女A",
+  "producers": [
+    "椎名もた"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 130,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/42111"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/42111"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

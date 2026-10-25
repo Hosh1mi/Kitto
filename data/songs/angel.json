@@ -1,0 +1,37 @@
+{
+  "id": "angel",
+  "title": "アンヘル",
+  "producers": [
+    "かいりきベア"
+  ],
+  "vocalists": [
+    "鳴花ミコト"
+  ],
+  "bpm": 184,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/231284"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/231284"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

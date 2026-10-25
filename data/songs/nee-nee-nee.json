@@ -1,0 +1,40 @@
+{
+  "id": "nee-nee-nee",
+  "title": "ねぇねぇねぇ。",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "ピノキオピー",
+    "鏡音リン",
+    "初音ミク"
+  ],
+  "bpm": 145,
+  "vocal_range": {
+    "min": "D4",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/335986"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/335986"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

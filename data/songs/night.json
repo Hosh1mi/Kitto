@@ -1,0 +1,35 @@
+{
+  "id": "night",
+  "title": "nuit",
+  "producers": [
+    "春野"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 100,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/173897"
+    ],
+    "bpm": [
+      "https://keytube.net/song/detail/11459"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "umiyuri-kaitei-tan",
+  "title": "ウミユリ海底譚",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 240,
+  "vocal_range": {
+    "min": "F3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/49871"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/49871"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

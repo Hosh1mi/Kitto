@@ -1,0 +1,35 @@
+{
+  "id": "ashura-shura",
+  "title": "あしゅらしゅら",
+  "producers": [
+    "ユリイ・カノン"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 220,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/286030"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/286030"
+    ],
+    "vocal_range": []
+  }
+}

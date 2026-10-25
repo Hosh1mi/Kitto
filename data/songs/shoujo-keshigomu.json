@@ -1,0 +1,34 @@
+{
+  "id": "shoujo-keshigomu",
+  "title": "少女ケシゴム",
+  "producers": [
+    "MARETU"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "GUMI"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/45753"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

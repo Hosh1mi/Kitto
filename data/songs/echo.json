@@ -1,0 +1,35 @@
+{
+  "id": "echo",
+  "title": "ECHO",
+  "producers": [
+    "Crusher"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 140,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/68814"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/68814"
+    ],
+    "vocal_range": []
+  }
+}

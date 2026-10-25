@@ -1,0 +1,37 @@
+{
+  "id": "hoshikuzu-utopia",
+  "title": "星屑ユートピア",
+  "producers": [
+    "otetsu"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": 240,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1047"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1047"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

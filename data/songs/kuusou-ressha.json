@@ -1,0 +1,39 @@
+{
+  "id": "kuusou-ressha",
+  "title": "空奏列車",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA",
+    "初音ミク"
+  ],
+  "bpm": 175,
+  "vocal_range": {
+    "min": "D4",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/81431"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/gameongeki/%E7%A9%BA%E5%A5%8F%E5%88%97%E8%BB%8A"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

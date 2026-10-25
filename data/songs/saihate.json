@@ -1,0 +1,37 @@
+{
+  "id": "saihate",
+  "title": "サイハテ",
+  "producers": [
+    "小林オニキス"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 146,
+  "vocal_range": {
+    "min": "B3",
+    "max": "B4"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/459"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/459"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "boku-no-sainou",
+  "title": "僕のサイノウ",
+  "producers": [
+    "wowaka"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 95,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1503"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1503"
+    ],
+    "vocal_range": []
+  }
+}

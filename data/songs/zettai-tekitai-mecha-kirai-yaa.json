@@ -1,0 +1,39 @@
+{
+  "id": "zettai-tekitai-mecha-kirai-yaa",
+  "title": "絶対敵対メチャキライヤー",
+  "producers": [
+    "メドミア"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "可不"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "G5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/401500"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/401500"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

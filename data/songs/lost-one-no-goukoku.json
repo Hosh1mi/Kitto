@@ -1,0 +1,37 @@
+{
+  "id": "lost-one-no-goukoku",
+  "title": "ロストワンの号哭",
+  "producers": [
+    "Neru"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 162,
+  "vocal_range": {
+    "min": "B3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/19094"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/19094"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-lost-ones-weeping-composed-by-neru/"
+    ]
+  }
+}

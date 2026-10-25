@@ -1,0 +1,33 @@
+{
+  "id": "onomatopoeia-megane",
+  "title": "オノマトペメガネ",
+  "producers": [
+    "ササノマリイ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/68478"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

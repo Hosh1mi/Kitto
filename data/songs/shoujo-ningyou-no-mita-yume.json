@@ -1,0 +1,37 @@
+{
+  "id": "shoujo-ningyou-no-mita-yume",
+  "title": "少女人形の見た夢",
+  "producers": [
+    "ひとしずくP",
+    "やま△"
+  ],
+  "vocalists": [
+    "鏡音リン",
+    "鏡音レン"
+  ],
+  "bpm": 100,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/97903"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/97903"
+    ],
+    "vocal_range": []
+  }
+}

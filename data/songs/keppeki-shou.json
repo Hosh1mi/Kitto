@@ -1,0 +1,37 @@
+{
+  "id": "keppeki-shou",
+  "title": "ケッペキショウ",
+  "producers": [
+    "すこっぷ"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/18917"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/sdvx/pages/907.html"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

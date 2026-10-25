@@ -1,0 +1,35 @@
+{
+  "id": "jougen-no-tsuki",
+  "title": "上弦の月",
+  "producers": [
+    "黒うさP"
+  ],
+  "vocalists": [
+    "KAITO"
+  ],
+  "bpm": 82,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/22869"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E4%B8%8A%E5%BC%A6%E3%81%AE%E6%9C%88"
+    ],
+    "vocal_range": []
+  }
+}

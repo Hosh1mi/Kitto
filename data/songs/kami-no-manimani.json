@@ -1,0 +1,40 @@
+{
+  "id": "kami-no-manimani",
+  "title": "神のまにまに",
+  "producers": [
+    "れるりり"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "鏡音リン",
+    "GUMI"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/47759"
+    ],
+    "bpm": [
+      "https://music-chord.com/songs/%E7%A5%9E%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB-%E3%82%8C%E3%82%8B%E3%82%8A%E3%82%8A/"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

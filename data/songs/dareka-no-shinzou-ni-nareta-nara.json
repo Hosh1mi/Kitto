@@ -1,0 +1,38 @@
+{
+  "id": "dareka-no-shinzou-ni-nareta-nara",
+  "title": "だれかの心臓になれたなら",
+  "producers": [
+    "ユリイ・カノン"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 145,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/184133"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/184133"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

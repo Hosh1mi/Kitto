@@ -10,13 +10,13 @@
     "max": "G#5"
   },
   "scores": {
-    "range": 5,
-    "melody": 3,
-    "rhythm": 2,
-    "breath": 3,
-    "pronunciation": 2,
-    "technique": 4,
-    "stability": 4
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
   },
   "comments": "原曲的最高音为G#5。如果采用降低一个八度的方式演唱，难度则为B级。考虑到歌词所表达的情感，比起明亮轻快的声音，使用更加厚实、沉重的音色会更容易表现角色的心境。另外，歌曲最后不仅发生了转调，还进入了无伴奏清唱的部分，因此建议提前确认容易唱不准的音高！"
 }

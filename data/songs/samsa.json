@@ -1,0 +1,38 @@
+{
+  "id": "samsa",
+  "title": "ザムザ",
+  "producers": [
+    "てにをは"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 121,
+  "vocal_range": {
+    "min": "G3",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/490444"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/490444"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-samsa-composed-by-teniwoha/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

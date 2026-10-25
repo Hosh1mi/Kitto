@@ -1,0 +1,37 @@
+{
+  "id": "toumei-elegy",
+  "title": "透明エレジー",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 110,
+  "vocal_range": {
+    "min": "A3",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/23473"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40n-buna/tou-mingerezi"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

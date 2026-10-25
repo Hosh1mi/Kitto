@@ -1,0 +1,37 @@
+{
+  "id": "yume-to-hazakura",
+  "title": "夢と葉桜",
+  "producers": [
+    "ニシジマユーキ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 78,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "C5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5362"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E5%A4%A2%E3%81%A8%E8%91%89%E6%A1%9C"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

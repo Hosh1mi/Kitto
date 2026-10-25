@@ -1,0 +1,38 @@
+{
+  "id": "ego-rock",
+  "title": "エゴロック",
+  "producers": [
+    "すりぃ"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 225,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "C6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/202936"
+    ],
+    "bpm": [
+      "https://w.atwiki.jp/asagaolabo/pages/5482.html"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kokuhaku-rival-sengen",
+  "title": "告白ライバル宣言",
+  "producers": [
+    "使徒"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "G3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/48083"
+    ],
+    "bpm": [],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/"
+    ]
+  }
+}

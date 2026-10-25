@@ -1,0 +1,37 @@
+{
+  "id": "yoru-naderu-menou",
+  "title": "夜撫でるメノウ",
+  "producers": [
+    "Ayase"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 100,
+  "vocal_range": {
+    "min": "D#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/225817"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E5%A4%9C%E6%92%AB%E3%81%A7%E3%82%8B%E3%83%A1%E3%83%8E%E3%82%A6%EF%BC%88Ayase%EF%BC%89"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

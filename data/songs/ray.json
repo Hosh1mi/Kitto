@@ -1,0 +1,40 @@
+{
+  "id": "ray",
+  "title": "ray",
+  "producers": [
+    "BUMP OF CHICKEN",
+    "kz",
+    "藤原基央"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "藤原基央"
+  ],
+  "bpm": 132,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/50721"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40bump-of-chicken/ray-bc041c9f-c2f6-4f6c-8209-5e817ee81f4d"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

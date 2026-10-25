@@ -1,0 +1,37 @@
+{
+  "id": "suna-no-wakusei",
+  "title": "砂の惑星",
+  "producers": [
+    "ハチ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 95,
+  "vocal_range": {
+    "min": "F3",
+    "max": "G#4"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/157860"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/157860"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-suna-no-wakusei-composed-by-hachi/"
+    ]
+  }
+}

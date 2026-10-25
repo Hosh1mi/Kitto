@@ -1,0 +1,37 @@
+{
+  "id": "musekinin-shuugoutai",
+  "title": "㋰責任集合体",
+  "producers": [
+    "マサラダ"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)"
+  ],
+  "bpm": 135,
+  "vocal_range": {
+    "min": "F3",
+    "max": "C#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/626191"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/626191"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

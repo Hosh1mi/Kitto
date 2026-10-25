@@ -1,0 +1,33 @@
+{
+  "id": "kurikaeshi-hitotsubu",
+  "title": "繰り返し一粒",
+  "producers": [
+    "猫虫P"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8645"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

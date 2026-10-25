@@ -1,0 +1,37 @@
+{
+  "id": "shikiori-no-hane",
+  "title": "四季折の羽",
+  "producers": [
+    "ひとしずくP",
+    "やま△"
+  ],
+  "vocalists": [
+    "鏡音リン",
+    "鏡音レン"
+  ],
+  "bpm": "115~~180",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/35874"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E5%9B%9B%E5%AD%A3%E6%8A%98%E3%81%AE%E7%BE%BD"
+    ],
+    "vocal_range": []
+  }
+}

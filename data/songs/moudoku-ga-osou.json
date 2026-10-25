@@ -1,0 +1,37 @@
+{
+  "id": "moudoku-ga-osou",
+  "title": "猛独が襲う",
+  "producers": [
+    "一二三"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 156,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/159274"
+    ],
+    "bpm": [
+      "https://songbpm.com/%40yi-er-san/meng-duga-xiu"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

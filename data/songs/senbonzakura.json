@@ -1,0 +1,38 @@
+{
+  "id": "senbonzakura",
+  "title": "千本桜",
+  "producers": [
+    "黒うさP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 154,
+  "vocal_range": {
+    "min": "G3",
+    "max": "E5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8394"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/8394"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-senbonzakura-composed-by-kurousap/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

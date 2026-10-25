@@ -1,0 +1,35 @@
+{
+  "id": "natsu-ni-sarishi-kimi-o-omou",
+  "title": "夏に去りし君を想フ",
+  "producers": [
+    "baker"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 128,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1556"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1556"
+    ],
+    "vocal_range": []
+  }
+}

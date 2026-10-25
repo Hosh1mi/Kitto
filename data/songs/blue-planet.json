@@ -1,0 +1,36 @@
+{
+  "id": "blue-planet",
+  "title": "ブループラネット",
+  "producers": [
+    "DECO*27",
+    "Rockwell"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 186,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/525396"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/525396"
+    ],
+    "vocal_range": []
+  }
+}

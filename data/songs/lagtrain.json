@@ -1,0 +1,38 @@
+{
+  "id": "lagtrain",
+  "title": "ラグトレイン",
+  "producers": [
+    "稲葉曇"
+  ],
+  "vocalists": [
+    "歌愛ユキ"
+  ],
+  "bpm": 147,
+  "vocal_range": {
+    "min": "G3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/288238"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/288238"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

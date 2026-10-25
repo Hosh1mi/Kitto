@@ -1,0 +1,37 @@
+{
+  "id": "dappou-rock",
+  "title": "脱法ロック",
+  "producers": [
+    "Neru"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 155,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/127169"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/127169"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/"
+    ]
+  }
+}

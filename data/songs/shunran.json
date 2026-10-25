@@ -1,0 +1,38 @@
+{
+  "id": "shunran",
+  "title": "春嵐",
+  "producers": [
+    "john"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 140,
+  "vocal_range": {
+    "min": "C4",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/263327"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/263327"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

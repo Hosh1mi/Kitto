@@ -1,0 +1,35 @@
+{
+  "id": "mahou-shoujo-to-chocolate",
+  "title": "魔法少女とチョコレゐト",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/387848"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/387848"
+    ],
+    "vocal_range": []
+  }
+}

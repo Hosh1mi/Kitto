@@ -1,0 +1,38 @@
+{
+  "id": "hitorinbo-envy",
+  "title": "独りんぼエンヴィー",
+  "producers": [
+    "koyori"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 132,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/18479"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/18479"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

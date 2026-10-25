@@ -1,0 +1,35 @@
+{
+  "id": "junky-night-town-orchestra",
+  "title": "ジャンキーナイトタウンオーケストラ",
+  "producers": [
+    "すりぃ"
+  ],
+  "vocalists": [
+    "鏡音レン"
+  ],
+  "bpm": 145,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/265022"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/265022"
+    ],
+    "vocal_range": []
+  }
+}

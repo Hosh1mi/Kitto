@@ -1,0 +1,37 @@
+{
+  "id": "orange",
+  "title": "オレンジ",
+  "producers": [
+    "トーマ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 90,
+  "vocal_range": {
+    "min": "D3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/19058"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%28%E3%83%88%E3%83%BC%E3%83%9E%29"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

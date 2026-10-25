@@ -1,0 +1,35 @@
+{
+  "id": "panda-hero",
+  "title": "パンダヒーロー",
+  "producers": [
+    "ハチ"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 95,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/2978"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/2978"
+    ],
+    "vocal_range": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "okochama-sensou",
+  "title": "おこちゃま戦争",
+  "producers": [
+    "Giga"
+  ],
+  "vocalists": [
+    "鏡音レン",
+    "鏡音リン"
+  ],
+  "bpm": 175,
+  "vocal_range": {
+    "min": "G3",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/44190"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/44190"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/"
+    ]
+  }
+}

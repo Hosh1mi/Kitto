@@ -1,0 +1,37 @@
+{
+  "id": "ai-kotoba",
+  "title": "愛言葉",
+  "producers": [
+    "DECO*27"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 137,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/3019"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/3019"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

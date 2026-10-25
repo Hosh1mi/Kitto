@@ -1,0 +1,39 @@
+{
+  "id": "tokyo-teddy-bear",
+  "title": "東京テディベア",
+  "producers": [
+    "Neru",
+    "おればななP"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 204,
+  "vocal_range": {
+    "min": "D4",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/555"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/555"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

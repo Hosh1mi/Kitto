@@ -1,0 +1,38 @@
+{
+  "id": "aun-no-beats",
+  "title": "阿吽のビーツ",
+  "producers": [
+    "羽生まゐご"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 103,
+  "vocal_range": {
+    "min": "A3",
+    "max": "B5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/165658"
+    ],
+    "bpm": [
+      "https://gamerch.com/maimai/534229"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

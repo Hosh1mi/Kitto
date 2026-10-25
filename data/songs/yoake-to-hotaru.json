@@ -1,0 +1,35 @@
+{
+  "id": "yoake-to-hotaru",
+  "title": "夜明けと蛍",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 80,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/71884"
+    ],
+    "bpm": [
+      "https://music-chord.com/songs/%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A8%E8%9B%8D-n-buna/"
+    ],
+    "vocal_range": []
+  }
+}

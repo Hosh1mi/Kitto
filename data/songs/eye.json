@@ -1,0 +1,38 @@
+{
+  "id": "eye",
+  "title": "EYE",
+  "producers": [
+    "Kanaria"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 137,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/345108"
+    ],
+    "bpm": [
+      "https://gamerch.com/maimai/534678"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

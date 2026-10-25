@@ -1,0 +1,38 @@
+{
+  "id": "ame-to-petra",
+  "title": "雨とペトラ",
+  "producers": [
+    "バルーン"
+  ],
+  "vocalists": [
+    "flower"
+  ],
+  "bpm": 195,
+  "vocal_range": {
+    "min": "F4",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/150978"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/150978"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

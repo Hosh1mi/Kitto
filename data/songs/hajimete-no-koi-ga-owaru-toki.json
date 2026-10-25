@@ -1,0 +1,37 @@
+{
+  "id": "hajimete-no-koi-ga-owaru-toki",
+  "title": "初めての恋が終わる時",
+  "producers": [
+    "ryo"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "100~~180",
+  "vocal_range": {
+    "min": "A#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1327"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1327"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

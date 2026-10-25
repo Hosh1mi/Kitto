@@ -1,0 +1,38 @@
+{
+  "id": "akatsuki-arrival",
+  "title": "アカツキアライヴァル",
+  "producers": [
+    "Last Note.",
+    "ラスノ",
+    "Last Note. T"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "巡音ルカ"
+  ],
+  "bpm": 125,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/9553"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/9553"
+    ],
+    "vocal_range": []
+  }
+}

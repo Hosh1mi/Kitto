@@ -1,0 +1,39 @@
+{
+  "id": "teo",
+  "title": "テオ",
+  "producers": [
+    "Kimura",
+    "Sakurai"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 185,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/161199"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/161199"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-teo-composed-by-omoi/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

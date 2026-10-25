@@ -1,0 +1,38 @@
+{
+  "id": "balleriko",
+  "title": "バレリーコ",
+  "producers": [
+    "みきとP"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "G#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/62650"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E3%83%90%E3%83%AC%E3%83%AA%E3%83%BC%E3%82%B3"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/4/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

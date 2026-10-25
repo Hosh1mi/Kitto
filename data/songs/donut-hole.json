@@ -10,13 +10,13 @@
     "max": "G5"
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
-    "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 4,
-    "technique": 3,
-    "stability": 4
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
   },
   "comments": "歌曲的BPM为126，速度稍快。尤其是A段，由于歌词比较密集，咬字和换气都是容易遇到困难的地方。不过，乐句通常以8拍或4拍为单位清晰地划分，因此推荐利用这些间隙进行换气。需要注意的是，每次吸气不宜过多，否则容易耽误下一句的进入时机。"
 }

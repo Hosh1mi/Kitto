@@ -1,0 +1,36 @@
+{
+  "id": "d-n-a",
+  "title": "D/N/A",
+  "producers": [
+    "Azari"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)",
+    "flower"
+  ],
+  "bpm": 150,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/768497"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/768497"
+    ],
+    "vocal_range": []
+  }
+}

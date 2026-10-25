@@ -1,0 +1,38 @@
+{
+  "id": "time-machine",
+  "title": "タイムマシン",
+  "producers": [
+    "40mP",
+    "1640mP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 126,
+  "vocal_range": {
+    "min": "D#3",
+    "max": "D#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1354"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1354"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

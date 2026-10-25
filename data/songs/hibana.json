@@ -1,0 +1,39 @@
+{
+  "id": "hibana",
+  "title": "ヒバナ",
+  "producers": [
+    "DECO*27",
+    "Rockwell"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 200,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/164074"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/164074"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-hibana-composed-by-deco27/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

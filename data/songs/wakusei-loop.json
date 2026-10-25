@@ -1,0 +1,37 @@
+{
+  "id": "wakusei-loop",
+  "title": "惑星ループ",
+  "producers": [
+    "ナユタン星人"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 170,
+  "vocal_range": {
+    "min": "F4",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/137609"
+    ],
+    "bpm": [
+      "https://wikiwiki.jp/chunithmwiki/%E6%83%91%E6%98%9F%E3%83%AB%E3%83%BC%E3%83%97"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "sakura-no-ame",
+  "title": "桜ノ雨",
+  "producers": [
+    "halyosy",
+    "中村博"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 76,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "D5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/8741"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/8741"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

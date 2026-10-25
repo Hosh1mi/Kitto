@@ -1,0 +1,35 @@
+{
+  "id": "kochira-koufuku-anshin-iinkai-desu",
+  "title": "こちら、幸福安心委員会です。",
+  "producers": [
+    "うたたP"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 128,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/13260"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/13260"
+    ],
+    "vocal_range": []
+  }
+}

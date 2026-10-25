@@ -1,0 +1,37 @@
+{
+  "id": "aira",
+  "title": "アイラ",
+  "producers": [
+    "n-buna"
+  ],
+  "vocalists": [
+    "GUMI"
+  ],
+  "bpm": 190,
+  "vocal_range": {
+    "min": "B3",
+    "max": "D6"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/89641"
+    ],
+    "bpm": [
+      "https://www.chord-rinne.jp/scode.php?id=10288"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/3/"
+    ]
+  }
+}

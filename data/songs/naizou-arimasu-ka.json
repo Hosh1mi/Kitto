@@ -1,0 +1,38 @@
+{
+  "id": "naizou-arimasu-ka",
+  "title": "内臓ありますか",
+  "producers": [
+    "ピノキオピー"
+  ],
+  "vocalists": [
+    "ピノキオピー",
+    "初音ミク"
+  ],
+  "bpm": 125,
+  "vocal_range": {
+    "min": "C4",
+    "max": "A5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/219729"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/219729"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

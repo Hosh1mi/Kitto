@@ -1,0 +1,38 @@
+{
+  "id": "henceforth",
+  "title": "Henceforth",
+  "producers": [
+    "Orangestar"
+  ],
+  "vocalists": [
+    "IA"
+  ],
+  "bpm": 158,
+  "vocal_range": {
+    "min": "F#3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/282574"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/282574"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-henceforth-composed-by-orangestar/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

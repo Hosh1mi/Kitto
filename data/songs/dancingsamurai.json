@@ -1,0 +1,37 @@
+{
+  "id": "dancingsamurai",
+  "title": "ダンシング☆サムライ",
+  "producers": [
+    "かにみそP"
+  ],
+  "vocalists": [
+    "神威がくぽ"
+  ],
+  "bpm": 142,
+  "vocal_range": {
+    "min": "E3",
+    "max": "F#4"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1275"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1275"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

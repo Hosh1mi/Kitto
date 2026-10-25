@@ -1,4 +1,3 @@
-
 {
   "difficulty_thresholds": {
     "B": 1.0,
@@ -6,5 +5,14 @@
     "S": 4.0,
     "SS": 4.5,
     "SSS": 4.8
+  },
+  "score_weights": {
+    "range": 1,
+    "melody": 1,
+    "rhythm": 1,
+    "breath": 1,
+    "pronunciation": 1,
+    "technique": 1,
+    "stability": 1
   }
 }

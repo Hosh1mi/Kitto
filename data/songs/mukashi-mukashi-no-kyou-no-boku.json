@@ -1,0 +1,35 @@
+{
+  "id": "mukashi-mukashi-no-kyou-no-boku",
+  "title": "むかしむかしのきょうのぼく",
+  "producers": [
+    "DECO*27"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 130,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/1273"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/1273"
+    ],
+    "vocal_range": []
+  }
+}

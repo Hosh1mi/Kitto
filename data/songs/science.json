@@ -1,0 +1,35 @@
+{
+  "id": "science",
+  "title": "サイエンス",
+  "producers": [
+    "MIMI"
+  ],
+  "vocalists": [
+    "重音テト (Synthesizer V)"
+  ],
+  "bpm": 94,
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/713636"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/713636"
+    ],
+    "vocal_range": []
+  }
+}

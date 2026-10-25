@@ -1,0 +1,37 @@
+{
+  "id": "datsugoku",
+  "title": "脱獄",
+  "producers": [
+    "Neru"
+  ],
+  "vocalists": [
+    "鏡音リン"
+  ],
+  "bpm": 189.12,
+  "vocal_range": {
+    "min": "D#4",
+    "max": "G#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/97727"
+    ],
+    "bpm": [
+      "https://ja.chordwiki.org/wiki/%E8%84%B1%E7%8D%84"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

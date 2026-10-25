@@ -1,0 +1,33 @@
+{
+  "id": "vocadb-252103",
+  "title": "8.39",
+  "producers": [
+    "*Luna"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/252103"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}

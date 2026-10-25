@@ -1,0 +1,37 @@
+{
+  "id": "irony",
+  "title": "アイロニ",
+  "producers": [
+    "すこっぷ"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 90,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/12476"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/12476"
+    ],
+    "vocal_range": [
+      "https://rainbowvoice.blog103.fc2.com/blog-entry-23.html"
+    ]
+  }
+}

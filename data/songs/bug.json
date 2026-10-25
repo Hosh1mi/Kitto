@@ -1,0 +1,38 @@
+{
+  "id": "bug",
+  "title": "バグ",
+  "producers": [
+    "かいりきベア"
+  ],
+  "vocalists": [
+    "初音ミク"
+  ],
+  "bpm": 186,
+  "vocal_range": {
+    "min": "A#3",
+    "max": "A#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/416174"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/416174"
+    ],
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-vocaloid-popular-songs/2/",
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

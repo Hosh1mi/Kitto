@@ -1,0 +1,38 @@
+{
+  "id": "magnet",
+  "title": "magnet",
+  "producers": [
+    "湊貴大"
+  ],
+  "vocalists": [
+    "初音ミク",
+    "巡音ルカ"
+  ],
+  "bpm": 108,
+  "vocal_range": {
+    "min": "A3",
+    "max": "F#5"
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5166"
+    ],
+    "bpm": [
+      "https://vocadb.net/S/5166"
+    ],
+    "vocal_range": [
+      "https://w.atwiki.jp/saikouon_dokoda/pages/472.html"
+    ]
+  }
+}

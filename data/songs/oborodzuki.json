@@ -1,0 +1,33 @@
+{
+  "id": "oborodzuki",
+  "title": "朧月",
+  "producers": [
+    "湊貴大"
+  ],
+  "vocalists": [
+    "巡音ルカ"
+  ],
+  "bpm": "",
+  "vocal_range": {
+    "min": "",
+    "max": ""
+  },
+  "scores": {
+    "range": "",
+    "melody": "",
+    "rhythm": "",
+    "breath": "",
+    "pronunciation": "",
+    "technique": "",
+    "stability": ""
+  },
+  "difficulty": "",
+  "comments": "",
+  "sources": {
+    "metadata": [
+      "https://vocadb.net/S/5172"
+    ],
+    "bpm": [],
+    "vocal_range": []
+  }
+}
