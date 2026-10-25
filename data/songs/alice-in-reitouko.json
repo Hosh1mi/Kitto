@@ -13,13 +13,13 @@
     "max": "D6"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 5,
+    "melody": 4,
+    "rhythm": 3,
+    "breath": 5,
+    "pronunciation": 4,
+    "technique": 5,
+    "stability": 5
   },
   "difficulty": "",
   "comments": "",

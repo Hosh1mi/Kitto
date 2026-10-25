@@ -14,13 +14,13 @@
     "max": "C#6"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 5,
+    "melody": 5,
+    "rhythm": 4,
+    "breath": 5,
+    "pronunciation": 5,
+    "technique": 5,
+    "stability": 5
   },
   "difficulty": "",
   "comments": "",

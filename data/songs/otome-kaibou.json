@@ -10,13 +10,13 @@
     "max": "C#6"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 5,
+    "melody": 4,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 3,
+    "technique": 4,
+    "stability": 4
   },
   "comments": "虽然整首歌曲并没有频繁出现特别困难的音程跳跃，但副歌最高音达到了C#6，因此必须具备稳定的高音演唱能力。A段和B段的演唱方式不断变化，有时需要使用略带停顿的断句，有时则需要跟随三连音的节奏。只要能够准确处理这些变化，同时稳定地唱出副歌高音，就能形成鲜明的强弱对比，让歌曲更有层次感！"
 }

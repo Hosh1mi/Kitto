@@ -10,13 +10,13 @@
     "max": "C6"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 5,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 5,
+    "technique": 4,
+    "stability": 5
   },
   "comments": "歌曲的BPM高达172，速度相当快，加上歌词十分密集，因此是一首很难流畅演唱的歌曲。对于快速咬字的部分，建议先降低速度，准确掌握发音和节奏的时机，再逐渐加速练习。另外，如果嘴角下垂，声音就容易变得含糊，即使能够跟上语速，也可能缺乏足够的清晰度，因此推荐对着镜子检查自己的口型！"
 }

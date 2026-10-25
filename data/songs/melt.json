@@ -10,13 +10,13 @@
     "max": "A5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 4,
+    "melody": 4,
+    "rhythm": 3,
+    "breath": 4,
+    "pronunciation": 3,
+    "technique": 4,
+    "stability": 4
   },
   "comments": "演唱高音时，如果表情显得过于吃力，就可能影响「溶けてしまいそう」最后长音的延展，需要特别注意！副歌结尾的「好きなの」如果能像耳语一样轻柔地唱出来，就能形成更加鲜明的强弱对比。"
 }

@@ -14,13 +14,13 @@
     "max": "D#5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 5,
+    "technique": 5,
+    "stability": 5
   },
   "difficulty": "",
   "comments": "",

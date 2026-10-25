@@ -10,13 +10,13 @@
     "max": "E5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 3,
+    "pronunciation": 4,
+    "technique": 4,
+    "stability": 4
   },
   "comments": "由于可以换气的位置相当有限，因此必须提前规划好每次换气后要一口气唱到哪里。如果能在「お互いになぁぁぁ」的部分使用帅气、有力量的嘶吼式唱法，就能留下十分强烈的印象！"
 }

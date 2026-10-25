@@ -1,0 +1,433 @@
+# 歌曲评分复核表（2026-10-25）
+
+本轮共 416 首：314 首初评，102 首待评。所有分值都是模型基于已有曲目知识的暂定判断，并非逐曲实听或测量结果。共同条件、先行校准锚及证据限制见 [评分方法](song-rating-methodology.md)。理由是判断摘要，不能视为已经由网页逐首证实的事实。
+
+## 已初评（314 首）
+
+七个分数依次为音域、旋律、节奏、气息、咬字、技巧、稳定性。总分／等级由当前等权配置计算，不使用手动等级。按 id 排列，避免总分顺序影响逐曲复核。
+
+| 歌曲（JSON） | 音域 | 旋律 | 节奏 | 气息 | 咬字 | 技巧 | 稳定性 | 总分 | 等级 | 暂定判断理由 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [1/6 -out of the gravity-](../data/songs/1-6-out-of-the-gravity.json) | 3 | 2 | 3 | 2 | 2 | 2 | 3 | 2.43 | B | 流畅重复旋律；副歌需保持音区和长句支撑。 |
+| [39みゅーじっく!](../data/songs/39-music.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 呼喊式短句与说唱感节奏交替；重拍和咬字需协调。 |
+| [アディショナルメモリー](../data/songs/additional-memory.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速推进的主歌接高区副歌；衔接时换气余量小。 |
+| [愛言葉](../data/songs/ai-kotoba.json) | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2.00 | B | 重复性强、句间空隙明确；主要难点为副歌音准。 |
+| [愛言葉Ⅱ](../data/songs/ai-kotoba-ii.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 规则副歌中加入较密集字句；音区压力适中。 |
+| [愛言葉Ⅲ](../data/songs/ai-kotoba-iii.json) | 3 | 2 | 3 | 2 | 3 | 3 | 3 | 2.71 | B | 熟悉动机重复，但句尾跳进和连续字句需控制。 |
+| [愛言葉Ⅳ](../data/songs/ai-kotoba-iv.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 较高副歌叠加紧凑歌词；需保持节奏和声区统一。 |
+| [アイラ](../data/songs/aira.json) | 5 | 4 | 3 | 4 | 4 | 4 | 4 | 4.00 | S | 高区反复是主难点；旋律较规律但整曲耐力要求高。 |
+| [愛されなくても君がいる](../data/songs/aisarenakute-mo-kimi-ga-iru.json) | 4 | 4 | 3 | 4 | 4 | 4 | 4 | 3.86 | A | 高音副歌与密集字句相接；旋律重复不能消除气息负担。 |
+| [愛して愛して愛して](../data/songs/aishite-aishite-aishite.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 音区和力度反差大；重复高音需保持音准与换声衔接。 |
+| [紅一葉](../data/songs/akahitoha.json) | 3 | 3 | 2 | 3 | 2 | 2 | 3 | 2.57 | B | 舒缓长句和跳进；气息与连贯音色比咬字更关键。 |
+| [アカツキアライヴァル](../data/songs/akatsuki-arrival.json) | 4 | 3 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 独唱承接双人主旋律，交接处音区和句尾衔接增加负担。 |
+| [悪ノ召使](../data/songs/aku-no-meshitsukai.json) | 4 | 3 | 2 | 3 | 3 | 3 | 3 | 3.00 | A | 叙事主歌相对规则；高音收尾与长句需要规划。 |
+| [悪ノ娘](../data/songs/aku-no-musume.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 叙事节奏与戏剧性旋律；高音区和段落转换较突出。 |
+| [悪魔の踊り方](../data/songs/akuma-no-odorikata.json) | 3 | 4 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 切分和短促语句需要精确落点；声区转换增加控制要求。 |
+| [悪役にキスシーンを](../data/songs/akuyaku-ni-kiss-scene-o.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 旋律流畅但含切分和副歌跳进；整体负担中等。 |
+| [Alice in 冷凍庫](../data/songs/alice-in-reitouko.json) | 5 | 4 | 3 | 5 | 4 | 5 | 5 | 4.43 | S | 长期高区且有高音延伸；密集乐句需要持续支撑和准确起音。 |
+| [エイリアンエイリアン](../data/songs/alien-alien.json) | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2.86 | B | 重复旋律降低记忆负担；节奏落点与连续副歌需要控制。 |
+| [天ノ弱](../data/songs/amanojaku.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 快节奏主歌到高区副歌；连续高音与句末支撑较难。 |
+| [アマツキツネ](../data/songs/amatsu-kitsune.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区旋律与快速字句并行；短句之间的跳进需迅速调整。 |
+| [雨とペトラ](../data/songs/ame-to-petra.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 主歌切分进入持续高区副歌；换声和高音续航突出。 |
+| [雨き声残響](../data/songs/amekigoe-zankyou.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 低区到高区反差明显；慢速长音仍需细致控制。 |
+| [アンドロイドガール](../data/songs/android-girl.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 快速连续字句与高区副歌；密集段落间恢复机会有限。 |
+| [アンヘル](../data/songs/angel.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区跳进与紧密字句；短促音型需要清楚起音和快速换气。 |
+| [アニマル](../data/songs/animal.json) | 4 | 3 | 3 | 3 | 3 | 4 | 4 | 3.43 | A | 反复短句中穿插音区跳转；快速语句需清晰收尾。 |
+| [アプリコット](../data/songs/apricot.json) | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 4.57 | SS | 曲折音高与不稳定的听感参照；高区跳转与密集衔接同时出现。 |
+| [ARiA](../data/songs/aria.json) | 4 | 4 | 3 | 4 | 3 | 4 | 4 | 3.71 | A | 宽广的副歌音型和高区延展；持续支撑比单纯速度更难。 |
+| [ありふれたせかいせいふく](../data/songs/arifureta-sekai-seifuku.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 连续叙述式字句与高区反复；咬字和气息不能放松。 |
+| [アスノヨゾラ哨戒班](../data/songs/asu-no-yozora-shoukaihan.json) | 4 | 3 | 4 | 5 | 3 | 4 | 5 | 4.00 | S | 低区主歌接持续高区副歌；后段气息与换声疲劳明显。 |
+| [阿吽のビーツ](../data/songs/aun-no-beats.json) | 4 | 4 | 3 | 3 | 3 | 4 | 4 | 3.57 | A | 装饰性转折与跳进；切分短句中的轻重和音准需统一。 |
+| [爆笑](../data/songs/bakushou.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 快速语句和突出的音区转折；节奏、发音与声区切换耦合。 |
+| [バレリーコ](../data/songs/balleriko.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 舞曲切分和跳动旋律；短促重音与音准落点需练习。 |
+| [ビターチョコデコレーション](../data/songs/bitter-choco-decoration.json) | 3 | 4 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 细密切分叠加快速词组；克制音量下仍需清晰发音。 |
+| [Black Board](../data/songs/black-board.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 钢琴律动上的切分与跳进；快速句子的起音位置关键。 |
+| [ブラック★ロックシューター](../data/songs/blackrock-shooter.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 副歌跳进和长音支撑；结构重复提供恢复机会。 |
+| [Blessing](../data/songs/blessing.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 独唱接续多人主线；音区交接、节奏风格和长句都需兼顾。 |
+| [ぼくらの16bit戦争](../data/songs/bokura-no-16bit-wars.json) | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4.43 | S | 不规则分组与跳进旋律互相牵制；节拍错位后恢复困难。 |
+| [バグ](../data/songs/bug.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 急促字句与高区跳转密集；反复段落需维持准确起音。 |
+| [ブリキノダンス](../data/songs/buriki-no-dance.json) | 5 | 3 | 4 | 4 | 5 | 4 | 5 | 4.29 | S | 高区快速连续发音；绕口词组和急促换气是主要限制。 |
+| [病名は愛だった](../data/songs/byoumei-wa-ai-datta.json) | 5 | 5 | 3 | 4 | 3 | 4 | 5 | 4.14 | S | 高区跳进和切碎旋律；按可唱主线评价，电子切片音色不计技巧。 |
+| [Calc.](../data/songs/calc.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 快拍下旋律相对规则；副歌和末段需维持支撑。 |
+| [コールボーイ](../data/songs/call-boy.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 密集叙述与副歌音区反差；不要求模仿失真或吼腔。 |
+| [カムパネルラ](../data/songs/campanella.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 轻快但不完全规则的乐句；音高转折和节奏衔接较细。 |
+| [カンタレラ](../data/songs/cantarella.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 低区主线与跳进长句；需保持低音清晰和连贯发声。 |
+| [キャットフード](../data/songs/cat-food.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 跳动旋律和切分语句；副歌保持重音与清晰咬字。 |
+| [キャットラビング](../data/songs/cat-loving.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 短促语句和较大音区落差；节奏精度比长句耐力突出。 |
+| [Catch the Wave](../data/songs/catch-the-wave.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 舞曲网格上的切分和高区副歌；重复结构减轻整曲负担。 |
+| [サンドリヨン](../data/songs/cendrillon.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 独唱跨越男女主线音区；高低声区交接比多人版本困难。 |
+| [シャルル](../data/songs/charles.json) | 4 | 4 | 3 | 4 | 3 | 4 | 4 | 3.71 | A | 副歌跳进与高区回旋；主歌和副歌的发声衔接关键。 |
+| [チェチェ・チェック・ワンツー！](../data/songs/check-check-check-one-two.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 密集的快速字句与短句切分；咬字清楚后仍需稳拍。 |
+| [地球最後の告白を](../data/songs/chikyuu-saigo-no-kokuhaku-o.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高低音区变化与快速推进；后段高区和长句增加疲劳。 |
+| [チルドレンレコード](../data/songs/children-record.json) | 5 | 4 | 4 | 4 | 4 | 4 | 5 | 4.29 | S | 高区和急促字句连续出现；末段维持音准和气息困难。 |
+| [キメラ](../data/songs/chimera.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高速短句、音区反差与高区反复；起音和换气需同步。 |
+| [チュルリラ・チュルリラ・ダッダッダ！](../data/songs/chururira-chururira-daddadda.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速重复句与高区副歌；连续辅音转换容易含混。 |
+| [シンデレラ](../data/songs/cinderella.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 切分短句和副歌跳进；结构规律，局部节奏需注意。 |
+| [シネマ](../data/songs/cinema.json) | 5 | 4 | 3 | 4 | 3 | 4 | 4 | 3.86 | A | 副歌高区与跳进突出；切分语句衔接需保持声区统一。 |
+| [カラフル×メロディ](../data/songs/colorfulmelody.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 快速但规则的主线；独唱接续双方短句，需规划换气。 |
+| [キュートなカノジョ](../data/songs/cute-na-kanojo.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 高区与大跳密集；字句短而清晰，主要压力在音高控制。 |
+| [ダンスロボットダンス](../data/songs/dance-robot-dance.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 音域虽不宽但音区很高；反复副歌的续航不可忽略。 |
+| [ダンシング☆サムライ](../data/songs/dancingsamurai.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 较低且集中的主线；节奏跳动但重复动机清楚。 |
+| [だんだん早くなる](../data/songs/dandan-hayaku-naru.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 旋律简单重复；速度变化要求主动调整拍感。 |
+| [脱法ロック](../data/songs/dappou-rock.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区副歌与快速重音；换声、节奏和发音都需要协调。 |
+| [だれかの心臓になれたなら](../data/songs/dareka-no-shinzou-ni-nareta-nara.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高音反复与快速推进；副歌连贯支撑和末段续航较难。 |
+| [ダーリンダンス](../data/songs/darling-dance.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 短促音型与密集歌词；副歌反复对气息和清晰度有要求。 |
+| [脱獄](../data/songs/datsugoku.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 高区长句与快速主歌衔接；后段持续发声负担较大。 |
+| [DAYBREAK FRONTLINE](../data/songs/daybreak-frontline.json) | 4 | 4 | 4 | 5 | 4 | 4 | 5 | 4.29 | S | 主歌密集接高区副歌；长段连续演唱限制换气和恢复。 |
+| [Dear](../data/songs/dear.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 规则旋律中的副歌高音和长音；节奏负担中等。 |
+| [DECORATOR](../data/songs/decorator.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 流畅重复副歌与切分；高区稳定和句尾支撑为主要难点。 |
+| [ドーナツホール](../data/songs/donut-hole.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 快速切分词组较密集；重复旋律仍需准确咬字和换气。 |
+| [ドラマツルギー](../data/songs/dramaturgy.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高区跳进与密集切分并行；主副歌切换需迅速调整。 |
+| [ドリームレス・ドリームス](../data/songs/dreamless-dreams.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 慢速长句与高区延伸；慢拍下音准和气息暴露明显。 |
+| [え？あぁ、そう。](../data/songs/e-aa-sou.json) | 4 | 3 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 快速跳动主歌与高区副歌；切分和声区连接较难。 |
+| [ECHO](../data/songs/echo.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 英语短句重复较多；按熟悉发音者评价，切分和重音需稳。 |
+| [エゴロック](../data/songs/ego-rock.json) | 4 | 4 | 4 | 3 | 4 | 4 | 4 | 3.86 | A | 短篇幅中节奏和跳进密集；重音与咬字切换快。 |
+| [えれくとりっく・えんじぇぅ](../data/songs/electric-angel.json) | 3 | 2 | 3 | 2 | 2 | 2 | 2 | 2.29 | B | 重复性强的级进旋律；副歌音区和拍点需要基本控制。 |
+| [エンヴィキャットウォーク](../data/songs/envy-catwalk.json) | 4 | 4 | 5 | 4 | 5 | 5 | 5 | 4.57 | SS | 密集切分、快速词组和速度变化；连续长段容错较低。 |
+| [-ERROR](../data/songs/error.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 副歌高区和长音反复；需保留气息而非模仿合成沙哑音色。 |
+| [エバ](../data/songs/eva.json) | 4 | 4 | 4 | 3 | 4 | 4 | 4 | 3.86 | A | 音高转折与切分复杂；快速词组要求精确起音。 |
+| [EYE](../data/songs/eye.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 重复的短句降低记忆负担；切分和副歌跳进需注意。 |
+| [Fire◎Flower](../data/songs/fireflower.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 较低主歌接明显升高的副歌；声区衔接和长音支撑关键。 |
+| [flos](../data/songs/flos.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 连贯短句与音高转折；语速不极端，需控制细微落点。 |
+| [FREELY TOMORROW](../data/songs/freely-tomorrow.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 舞曲中的装饰性旋律与切分；不能依赖重复节拍忽略音准。 |
+| [from Y to Y](../data/songs/from-y-to-y.json) | 3 | 3 | 2 | 4 | 3 | 3 | 3 | 3.00 | A | 慢速长句和副歌延伸；气息分配比发音速度更难。 |
+| [骸骨楽団とリリア](../data/songs/gaikotsu-gakudan-to-lilia.json) | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 4.29 | S | 快速跳进旋律和紧密节奏；乐句衔接后恢复空间小。 |
+| [ゴーストルール](../data/songs/ghost-rule.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速连续句接高区副歌；后段发声和气息疲劳累积。 |
+| [Gimme×Gimme](../data/songs/gimmegimme.json) | 4 | 4 | 4 | 3 | 4 | 4 | 4 | 3.86 | A | 切分、装饰音和快速语句；独唱交接需要稳定声区控制。 |
+| [glow](../data/songs/glow.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 缓慢长线条暴露音准和气息波动；咬字压力小。 |
+| [グッバイ宣言](../data/songs/goodbye-sengen.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 高区副歌和跳进；反复短句有规律但换声控制要求高。 |
+| [敗北の少年](../data/songs/haiboku-no-shounen.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 规则快拍中的高低音区变化；副歌支撑需练习。 |
+| [背景、夏に溺れる](../data/songs/haikei-natsu-ni-oboreru.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区旋律与连续快速字句；清晰发音和持续支撑并重。 |
+| [初めての恋が終わる時](../data/songs/hajimete-no-koi-ga-owaru-toki.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 节奏推进和副歌跳进；段落速度感转换需要注意。 |
+| [花降らし](../data/songs/hana-furashi.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 流动旋律和切分；发音相对舒缓，注意句尾音准。 |
+| [Hand in Hand](../data/songs/hand-in-hand.json) | 3 | 2 | 3 | 3 | 2 | 3 | 3 | 2.71 | B | 重复旋律降低音准负担；高区和副歌反复需要支撑。 |
+| [ハッピーシンセサイザ](../data/songs/happy-synthesizer.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 集中音域和规则短句；切分律动需要基本拍感。 |
+| [ハレハレヤ](../data/songs/harehare-ya.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 轻快切分与装饰性转折；短句减轻气息负担。 |
+| [ハロ／ハワユ](../data/songs/hello-how-are-you.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 舒缓不等于旋律简单；切分与句内转折要求稳定音准。 |
+| [＊ハロー、プラネット。](../data/songs/hello-planet.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 重复动机中有跳进和紧凑字句；副歌需保持拍点。 |
+| [Henceforth](../data/songs/henceforth.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 宽音区与快速副歌；高音反复和衔接使后段负担增加。 |
+| [ヒバナ](../data/songs/hibana.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 相对集中的音域配高速字句；英语段与日语段均按熟练发音评价。 |
+| [ヒビカセ](../data/songs/hibikase.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 高区短句与细密切分；需控制起音和连续换声。 |
+| [秘密警察](../data/songs/himitsu-keisatsu.json) | 5 | 3 | 4 | 4 | 4 | 4 | 5 | 4.14 | S | 持续高区与快速语句；短促发音和后段耐力均受考验。 |
+| [人マニア](../data/songs/hito-mania.json) | 3 | 3 | 4 | 3 | 3 | 4 | 3 | 3.29 | A | 节奏和语气切换突出；不把合成音色或采样当作人声技巧要求。 |
+| [独りんぼエンヴィー](../data/songs/hitorinbo-envy.json) | 3 | 3 | 3 | 3 | 2 | 3 | 3 | 2.86 | B | 中速切分与句尾转折；高区压力较温和，需控制连贯性。 |
+| [星屑ユートピア](../data/songs/hoshikuzu-utopia.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 较快的拍速并非持续高速咬字；旋律跳进与落点是重点。 |
+| [ハウトゥー世界征服](../data/songs/how-to-sekai-seifuku.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 独唱衔接双人主线；高区与较密集歌词提高整曲负担。 |
+| [Iなんです](../data/songs/i-nan-desu.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 音域相对集中但发音密集；急促节奏切换需要精确起音。 |
+| [アイデンティティ](../data/songs/identity.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 独唱快速接续双人主旋律；副歌反复限制气息恢复。 |
+| [いかないで](../data/songs/ikanaide.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 音域集中、重复性强；快拍下歌词实际密度较温和。 |
+| [生きる](../data/songs/ikiru.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 清晰重复主线与较高副歌；主要难点为声区衔接。 |
+| [命ばっかり](../data/songs/inochi-bakkari.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 音区反差与切分跳进；副歌需兼顾音准和连续发声。 |
+| [命に嫌われている。](../data/songs/inochi-ni-kirawarete-iru.json) | 4 | 3 | 3 | 4 | 3 | 4 | 4 | 3.57 | A | 副歌高区长段累积疲劳；不将翻唱中的嘶吼作为必要技术。 |
+| [いのちの歌](../data/songs/inochi-no-uta.json) | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2.14 | B | 规则旋律与较宽但分散的音区；句间留有恢复空间。 |
+| [インタビュア](../data/songs/interviewer.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 低区主歌到副歌的音区变化；长句和换声需控制。 |
+| [インビジブル](../data/songs/invisible.json) | 5 | 4 | 4 | 4 | 5 | 5 | 5 | 4.57 | SS | 独唱接续密集双人句；高区、快速词组与换气压力同时存在。 |
+| [いろは唄](../data/songs/iroha-uta.json) | 3 | 4 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 装饰性转折和跳进；节奏规整但音准衔接较细。 |
+| [アイロニ](../data/songs/irony.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 舒缓长句中的副歌延伸；气息、连贯音色和细节音准较重要。 |
+| [ジャックポットサッドガール](../data/songs/jack-pot-sad-girl.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 快速短句与高区跳进；发音与音高转换需同步。 |
+| [人生リセットボタン](../data/songs/jinsei-reset-button.json) | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 3.71 | A | 集中音区也有高速密集词组；气息和咬字构成主要负担。 |
+| [自傷無色](../data/songs/jishou-mushoku.json) | 2 | 3 | 2 | 2 | 2 | 2 | 2 | 2.14 | B | 温和重复主线，局部旋律转折需注意；短句容易规划换气。 |
+| [上弦の月](../data/songs/jougen-no-tsuki.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 低区长句和连贯旋律；慢速下支撑与音色均匀性较突出。 |
+| [ジャンキーナイトタウンオーケストラ](../data/songs/junky-night-town-orchestra.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 密集切分与跳进副歌；长段连续叙述要求清楚换气。 |
+| [Just Be Friends](../data/songs/just-be-friends.json) | 4 | 3 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 原版舞曲含切分和较高副歌；不按较慢的钢琴翻唱评价。 |
+| [十面相](../data/songs/juumensou.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 高区和多种旋律语气切换；音准与声区控制较突出。 |
+| [カゲロウデイズ](../data/songs/kagerou-daze.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 快速主歌到高区副歌；字句密集并有连续跳进。 |
+| [快晴](../data/songs/kaisei.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 宽音区与高区延续；副歌长句和后段支撑构成压力。 |
+| [神のまにまに](../data/songs/kami-no-manimani.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 规则副歌与较快词组；独唱交接减少原多人版的休息。 |
+| [神っぽいな](../data/songs/kamippoi-na.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 语句节奏、音区和发声方式频繁切换；不强求合成器音色复制。 |
+| [カミサマネジマキ](../data/songs/kamisama-nejimaki.json) | 4 | 3 | 4 | 4 | 5 | 5 | 5 | 4.29 | S | 急速连续字句与低高音区切换；气息和发音的恢复余量小。 |
+| [からくりピエロ](../data/songs/karakuri-pierrot.json) | 2 | 3 | 3 | 2 | 2 | 2 | 2 | 2.29 | B | 集中音域、舒缓短句；切分和句尾转折需基本控制。 |
+| [カレシのジュード](../data/songs/kareshi-no-jude.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 高区副歌与曲折切分；音准跳转比持续长句更突出。 |
+| [ケッペキショウ](../data/songs/keppeki-shou.json) | 3 | 3 | 4 | 4 | 4 | 4 | 4 | 3.71 | A | 音域集中但快词组持续；连贯咬字和呼吸规划要求较高。 |
+| [気まぐれメルシィ](../data/songs/kimagure-mercy.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 快拍舞曲切分和副歌跳进；重复结构提供预判机会。 |
+| [KING](../data/songs/king.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 重复短句配高区跳进；气息负担中等，起音和音准较关键。 |
+| [キリトリセン](../data/songs/kiritorisen.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 流畅旋律中有副歌高音；快拍下句尾支撑需要注意。 |
+| [如月アテンション](../data/songs/kisaragi-attention.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 高区副歌与短句推进；重复结构减轻节奏记忆负担。 |
+| [こちら、幸福安心委員会です。](../data/songs/kochira-koufuku-anshin-iinkai-desu.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 长段说白与歌唱交替；精确语句节奏和清楚发音是重点。 |
+| [恋は戦争](../data/songs/koi-wa-sensou.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 音域相对可控；强弱对比和副歌长音需支撑，不要求喊叫。 |
+| [ココロ](../data/songs/kokoro.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 前后段音区与力度变化；高潮持续发声需要规划。 |
+| [心做し](../data/songs/kokoronashi.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 缓慢长句和较大音区变化；高区维持与换声衔接较难。 |
+| [告白ライバル宣言](../data/songs/kokuhaku-rival-sengen.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 叙述短句与副歌跳进；普通快拍流行曲的节奏和气息负担。 |
+| [告白予行練習](../data/songs/kokuhaku-yokou-renshuu.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 旋律规则但副歌有跳进；短句切分需稳定跟随。 |
+| [混沌ブギ](../data/songs/konton-boogie.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 快速反复语句和切分；音区转换与清楚起音需协调。 |
+| [虎視眈々](../data/songs/koshitantan.json) | 3 | 3 | 4 | 3 | 3 | 4 | 3 | 3.29 | A | 音区相对集中；独唱接续多人切分短句，咬字比高音更难。 |
+| [蜘蛛糸モノポリー](../data/songs/kumo-ito-monopoly.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 旋律曲折并有密集词组；句间音高和气息调整需要练习。 |
+| [繰り返し一粒](../data/songs/kurikaeshi-hitotsubu.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 长段反复和密集词句；按初音ミク版本，重点在续航与发音。 |
+| [腐れ外道とチョコレゐト](../data/songs/kusaregedou-to-chocolate.json) | 4 | 3 | 5 | 4 | 5 | 4 | 5 | 4.29 | S | 高速紧密字句与复杂重音；反复段落的换气和清晰度容错小。 |
+| [鎖の少女](../data/songs/kusari-no-shoujo.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 副歌高区和跳进较明显；旋律与节奏总体规律。 |
+| [くうになる](../data/songs/kuu-ni-naru.json) | 4 | 3 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 音区变化配轻快切分；双人主线独唱时需连续承接。 |
+| [空想フォレスト](../data/songs/kuusou-forest.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 主副歌音区反差和高区延伸；独唱长句需要充分支撑。 |
+| [空奏列車](../data/songs/kuusou-ressha.json) | 4 | 4 | 4 | 5 | 4 | 4 | 5 | 4.29 | S | 独唱连续承接双人快速段落；高区长段换气压力突出。 |
+| [強風オールバック](../data/songs/kyoufuu-all-back.json) | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1.00 | B | 短句反复、音高走向直接且停顿充分；作为多维低端校准曲。 |
+| [きゅうくらりん](../data/songs/kyuukurarin.json) | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4.43 | S | 音高参照曲折且切分密集；快速语句与跳进交织，容错较低。 |
+| [ラグトレイン](../data/songs/lagtrain.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 重复主线伴切分和跳进；分句清楚但节奏落点不能含糊。 |
+| [Last Night, Good Night](../data/songs/last-night-good-night.json) | 4 | 4 | 2 | 4 | 4 | 5 | 4 | 3.86 | A | 高区长音、连贯换声与缓慢力度控制；歌词速度并非主要难点。 |
+| [ラストリゾート](../data/songs/last-resort.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 高区跳进和切分；短句控制减轻了持续长句压力。 |
+| [letter song](../data/songs/letter-song.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 缓慢长句需要稳定支撑；歌词清楚且节奏相对简单。 |
+| [ライアーダンス](../data/songs/liar-dance.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 快速词组、切分和多人主线衔接；气息与咬字需协调。 |
+| [ライアーダンサー](../data/songs/liar-dancer.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 重复动机配较密字句；音区适中，重点为稳拍与清楚收音。 |
+| [ロストワンの号哭](../data/songs/lost-one-no-goukoku.json) | 5 | 3 | 4 | 5 | 4 | 4 | 5 | 4.29 | S | 高区副歌反复且推进强；末段气息和发声稳定负担很大。 |
+| [ロスタイムメモリー](../data/songs/lost-time-memory.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 宽音区与快速密集主歌；副歌和结尾要求持续稳定发声。 |
+| [ロストアンブレラ](../data/songs/lost-umbrella.json) | 4 | 4 | 4 | 3 | 4 | 4 | 4 | 3.86 | A | 曲折旋律和紧密切分；句尾音准与连续发音都需精细控制。 |
+| [ラヴィット](../data/songs/loveit.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 高区短句与紧密歌词；重复旋律仍需准确起音和快速换气。 |
+| [ロウワー](../data/songs/lower.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 切分节奏中的跳进与转折；副歌高区衔接需要控制。 |
+| [ルカルカ★ナイトフィーバー](../data/songs/luka-lukanight-fever.json) | 2 | 3 | 4 | 3 | 3 | 3 | 3 | 3.00 | A | 集中音域配快速舞曲律动；短句切分和字头清晰度为重点。 |
+| [magnet](../data/songs/magnet.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 双人主线独唱时音区和气息连续；旋律与节拍相对稳定。 |
+| [魔法少女とチョコレゐト](../data/songs/mahou-shoujo-to-chocolate.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 密集字句衔接高区副歌；反复长段需稳定气息和发音。 |
+| [マネマネサイコトロピック](../data/songs/mane-mane-psychotropic.json) | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 4.43 | S | 急促连续词组与多段主线；整曲呼吸、咬字和衔接负担大。 |
+| [まにまに](../data/songs/manimani.json) | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 4.57 | SS | 高区曲折旋律和紧凑切分；音高参照与快速调整均较难。 |
+| [マーシャル・マキシマイザー](../data/songs/marshall-maximizer.json) | 3 | 3 | 4 | 4 | 5 | 4 | 4 | 3.86 | A | 集中音域内出现高速绕口词组；清晰发音和换气是核心。 |
+| [マトリョシカ](../data/songs/matryoshka.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 反复动机中有急促切分和速度感变化；咬字与换气需稳。 |
+| [回る空うさぎ](../data/songs/mawaru-sora-usagi.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 宽音区的跳进与高区长音；缓慢伴奏暴露换声和音准波动。 |
+| [メルト](../data/songs/melt.json) | 4 | 4 | 3 | 4 | 3 | 4 | 4 | 3.71 | A | 高区副歌反复和旋律跳进；句尾长音需稳定声区控制。 |
+| [メルティランドナイトメア](../data/songs/melty-land-nightmare.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 轻快切分配曲折旋律；音准与细密节奏衔接较突出。 |
+| [メリュー](../data/songs/meru.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 高区副歌与长句重复；高音的持续质量比速度更关键。 |
+| [右肩の蝶](../data/songs/migikata-no-chou.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 装饰性旋律、跳进与切分；按目录记录的鏡音リン版本评价。 |
+| [みくみくにしてあげる♪【してやんよ】](../data/songs/miku-miku-ni-shite-ageru-shite-yan-yo.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 篇幅短、主线规则且音域集中；少量快速词组需练习。 |
+| [マインドブランド](../data/songs/mind-brand.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 低高音区切换与紧密字句；不要求模仿失真或吼腔。 |
+| [ももいろの鍵](../data/songs/momoiro-no-kagi.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 高区旋律转折和切分；连续副歌对换声与支撑有要求。 |
+| [猛独が襲う](../data/songs/moudoku-ga-osou.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 副歌高区长段与快速词组；整曲换气需要稳定规划。 |
+| [妄想感傷代償連盟](../data/songs/mousou-kanshou-daishou-renmei.json) | 2 | 3 | 3 | 2 | 3 | 3 | 3 | 2.71 | B | 音区较集中、重复性强；短句切分和连续发音需细致。 |
+| [妄想税](../data/songs/mousouzei.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 密集叙述式短句与切分；高音不是唯一压力来源。 |
+| [モザイクロール](../data/songs/mozaik-role.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 副歌跳进与重复高音；结构和节奏相对直接。 |
+| [Mrs.Pumpkinの滑稽な夢](../data/songs/mrs-pumpkin-no-kokkei-na-yume.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 跳动旋律和快速切分字句；高区与节奏转换要求连续控制。 |
+| [むかしむかしのきょうのぼく](../data/songs/mukashi-mukashi-no-kyou-no-boku.json) | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2.14 | B | 重复主线、自然分句；副歌音区支撑是主要练习点。 |
+| [㋰責任集合体](../data/songs/musekinin-shuugoutai.json) | 3 | 3 | 4 | 3 | 3 | 4 | 3 | 3.29 | A | 紧密切分和语气变化；不将采样效果当作必须复制的技巧。 |
+| [結ンデ開イテ羅刹ト骸](../data/songs/musunde-hiraite-rasetsu-to-mukuro.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 反复短句中有密集词组和跳动重音；换气与清晰咬字较突出。 |
+| [内臓ありますか](../data/songs/naizou-arimasu-ka.json) | 4 | 3 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 高低音区对比与紧凑字句；旋律反复但发声衔接需控制。 |
+| [夏に去りし君を想フ](../data/songs/natsu-ni-sarishi-kimi-o-omou.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 切分律动与音区转折；句头起音和连续发音需精确。 |
+| [ニア](../data/songs/near.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 缓和主线到较高副歌；长句支撑与连贯换声需练习。 |
+| [ねぇねぇねぇ。](../data/songs/nee-nee-nee.json) | 4 | 3 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 独唱接续双人短句；高区反复与句末发声需要稳定。 |
+| [ノンブレス・オブリージュ](../data/songs/non-breath-oblige.json) | 5 | 4 | 4 | 5 | 5 | 5 | 5 | 4.71 | SS | 高速连续词句几乎不给自然换气；高区与疲劳使后续失误容易连锁。 |
+| [ナンセンス文学](../data/songs/nonsense-bungaku.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区跳进、紧密切分和连续词句；句间调整余量有限。 |
+| [脳漿炸裂ガール](../data/songs/nou-shou-sakuretsu-girl.json) | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 4.14 | S | 独唱承接双人高速词组；气息与绕口发音的连续压力大。 |
+| [おちゃめ機能](../data/songs/ochame-kinou.json) | 2 | 2 | 3 | 2 | 3 | 3 | 3 | 2.57 | B | 集中音域和重复动机；快词组与短句节奏需清晰处理。 |
+| [ODDS&ENDS](../data/songs/odds-ends.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 宽音区与高区长段；快拍下持续支撑和句尾控制较难。 |
+| [おどりゃんせ](../data/songs/odoryanse.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 高区跳进和快速双人主线；独唱衔接时气息恢复较少。 |
+| [おじゃま虫](../data/songs/ojamamushi.json) | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2.00 | B | 主线集中且重复性强；短句提供充分的换气位置。 |
+| [おじゃま虫Ⅱ](../data/songs/ojamamushi-ii.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 集中音域与重复短句；节奏细节略多，整体发声负担较轻。 |
+| [お気に召すまま](../data/songs/oki-ni-mesu-mama.json) | 4 | 3 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 高区副歌与跳动切分；主副歌间需保持音区衔接。 |
+| [おこちゃま戦争](../data/songs/okochama-sensou.json) | 4 | 4 | 4 | 4 | 5 | 5 | 5 | 4.43 | S | 独唱快速交接双人主线；密集咬字与呼吸安排是整曲难点。 |
+| [オレンジ](../data/songs/orange.json) | 5 | 4 | 2 | 4 | 3 | 4 | 4 | 3.71 | A | 低区到高区跨度大；慢速长句需稳定换声和支撑。 |
+| [乙女解剖](../data/songs/otome-kaibou.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 高区跳进和回旋频繁；短句中也需迅速切换声区。 |
+| [オツキミリサイタル](../data/songs/otsukimi-recital.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 速度感变化和较高副歌；连续字句与长音需稳定承接。 |
+| [アウターサイエンス](../data/songs/outer-science.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速紧密字句与低高音区切换；不要求模仿合成沙哑音色。 |
+| [オーバーライド](../data/songs/override.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 音域集中却有高速连串字句；清晰咬字和气息安排较难。 |
+| [p.h.](../data/songs/p-h.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 重复短句中的切分与快速词组；主要要求精确节奏和起音。 |
+| [Packaged](../data/songs/packaged.json) | 4 | 3 | 3 | 3 | 2 | 3 | 3 | 3.00 | A | 规则舞曲主线和较高副歌；句间空隙减轻连续换气负担。 |
+| [パメラ](../data/songs/pamela.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 高区旋律与跳进突出；切分短句需准确换声和收尾。 |
+| [パンダヒーロー](../data/songs/panda-hero.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 密集切分和反复词组；拍点与快速咬字比长音更突出。 |
+| [パラジクロロベンゼン](../data/songs/paradichlorobenzene.json) | 3 | 3 | 4 | 4 | 5 | 5 | 4 | 4.00 | S | 重复音型下长串快速词组持续；音准规律而气息和发音难。 |
+| [paranoia](../data/songs/paranoia.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 副歌音区抬升与连贯长句；节奏相对规则但支撑不能松。 |
+| [ペテン師が笑う頃に](../data/songs/petenshi-ga-warau-koro-ni.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 叙述性快速词组和切分；长段保持重音与清晰发音。 |
+| [フォニイ](../data/songs/phony.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高区跳进与密集切分；主副歌转换需迅速调整声区和节奏。 |
+| [ピエロ](../data/songs/pierrot.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 旋律规整但有副歌高音；完整演唱需维持长音质量。 |
+| [パズル](../data/songs/puzzle.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 流动短句与副歌跳进；节奏和气息处于中等负担。 |
+| [QUEEN](../data/songs/queen.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 高区旋律与切分短句；反复结构中仍需准确换声。 |
+| [ラビットホール](../data/songs/rabbit-hole.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速歌词和切分连续；副歌高区反复增加气息与清晰度压力。 |
+| [rain stops, good-bye](../data/songs/rain-stops-good-bye.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 舒缓长句需要连贯支撑；发音速度和节奏变化较少。 |
+| [ラプンツェル](../data/songs/rapunzel.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 高区长句与跳进；慢速下气息波动和换声更容易暴露。 |
+| [ray](../data/songs/ray.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 副歌高区与较宽音域；重叠和声不作为独唱的附加要求。 |
+| [リモコン](../data/songs/remocon.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 独唱接续双人快速短句；高区与密集咬字需稳定协调。 |
+| [恋愛裁判](../data/songs/renai-saiban.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 跳动旋律和切分；副歌音区适中但句尾落点需准确。 |
+| [劣等上等](../data/songs/rettou-joutou.json) | 5 | 4 | 4 | 4 | 5 | 5 | 5 | 4.57 | SS | 独唱接续高区双人主线和说唱；发音、换气与声区切换负担大。 |
+| [林檎売りの泡沫少女](../data/songs/ringo-uri-no-utakata-shoujo.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 宽音区与曲折叙事旋律；高区段落和乐句转换需要控制。 |
+| [臨界ダイバー](../data/songs/rinkai-diver.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 连续推进的快速字句与高区副歌；后段气息和音准容易疲劳。 |
+| [リンネ](../data/songs/rinne.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 快速切分词句与高区副歌；清晰发音和换气位置较关键。 |
+| [ロキ](../data/songs/roki.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 独唱双人主线与快速语句；不强制模仿吼腔，仍需准确重音。 |
+| [六兆年と一夜物語](../data/songs/rokuchounen-to-ichiya-monogatari.json) | 4 | 3 | 4 | 4 | 5 | 5 | 5 | 4.29 | S | 高速连续字句与高区副歌；长段气息和咬字恢复空间小。 |
+| [ローリンガール](../data/songs/rollin-girl.json) | 5 | 3 | 4 | 5 | 4 | 4 | 5 | 4.29 | S | 高区反复和连续推进构成压力；旋律规律但发声续航很难。 |
+| [ロミオとシンデレラ](../data/songs/romeo-to-cinderella.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 快速流动字句与跳进；后段高区和连续歌词需要规划换气。 |
+| [炉心融解](../data/songs/roshin-yuukai.json) | 5 | 4 | 4 | 4 | 3 | 5 | 5 | 4.29 | S | 极高音延伸与声区衔接；按原曲可唱主线含尾声高音评价。 |
+| [ルマ](../data/songs/ruma.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 短促重复句和快速发音；旋律不极端但节奏和起音要求明确。 |
+| [サイハテ](../data/songs/saihate.json) | 1 | 2 | 2 | 2 | 2 | 2 | 2 | 1.86 | B | 主线音域约一八度，作为音域低端锚；仍有流动字句和句尾控制。 |
+| [再教育](../data/songs/saikyouiku.json) | 4 | 3 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 独唱衔接双人主线且跨音区；副歌和句尾支撑需练习。 |
+| [桜ノ雨](../data/songs/sakura-no-ame.json) | 3 | 2 | 1 | 3 | 1 | 3 | 3 | 2.29 | B | 规则慢拍和较从容发音；长音、跨度与气息仍有独立要求。 |
+| [ザムザ](../data/songs/samsa.json) | 3 | 4 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 切分短句与曲折旋律；发声和音准控制比速度更突出。 |
+| [サリシノハラ](../data/songs/sarishi-no-hara.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 低区主歌到副歌的音区变化；连贯换声和长句支撑需练习。 |
+| [聖槍爆裂ボーイ](../data/songs/seisou-bakuretsu-boy.json) | 3 | 3 | 4 | 4 | 5 | 5 | 5 | 4.14 | S | 集中音域内高速绕口词组连续；发音、换气和整曲衔接容错极低。 |
+| [セカイ](../data/songs/sekai.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 副歌音区与跳进为主；规律节奏和分句提供恢复机会。 |
+| [世界寿命と最後の一日](../data/songs/sekai-jumyou-to-saigo-no-ichinichi.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速连续叙述和高区副歌；咬字、气息与音区衔接需兼顾。 |
+| [千本桜](../data/songs/senbonzakura.json) | 3 | 2 | 3 | 3 | 3 | 3 | 3 | 2.86 | B | 重复旋律降低音准负担；快词组、句尾和节奏仍需控制。 |
+| [千年の独奏歌](../data/songs/sennen-no-dokusouka.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 低区长句和旋律转折；跨区连贯性比快速发音更关键。 |
+| [セツナトリップ](../data/songs/setsuna-trip.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快速语句和高区副歌持续；气息与发音衔接负担较高。 |
+| [shake it！](../data/songs/shake-it.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 舞曲切分与多人主线独唱接续；重复结构让难点较易预判。 |
+| [シェーマ](../data/songs/shamer.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 副歌高区和跳进较大；快速字句需维持声区与重音稳定。 |
+| [シャンティ](../data/songs/shanti.json) | 3 | 3 | 4 | 3 | 3 | 4 | 3 | 3.29 | A | 说唱感切分和音区转换；不用模仿特定沙哑音色也需清楚咬字。 |
+| [幸せになれる隠しコマンドがあるらしい](../data/songs/shiawase-ni-nareru-kakushi-command-ga-arurashii.json) | 3 | 3 | 5 | 4 | 5 | 4 | 5 | 4.14 | S | 长串快速指令式字句与节奏变化；发音和呼吸安排要求高。 |
+| [しかばねの踊り](../data/songs/shikabane-no-odori.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 跳动旋律和切分短句；音高转折与高区衔接需要控制。 |
+| [四季折の羽](../data/songs/shikiori-no-hane.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 独唱接续双人宽音区主线；长句和段落速度感变化需稳。 |
+| [深海少女](../data/songs/shinkai-shoujo.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 较宽音区与副歌跳进；连贯长句和节奏落点需中等控制。 |
+| [心拍数♯0822](../data/songs/shinpakusuu-0822.json) | 2 | 3 | 2 | 3 | 2 | 2 | 3 | 2.43 | B | 音域集中、节奏平缓；长音支撑和细微音高转折仍需注意。 |
+| [失敗作少女](../data/songs/shippaisaku-shoujo.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 快拍连续字句与高区副歌；整曲清晰发音和续航需兼顾。 |
+| [白い雪のプリンセスは](../data/songs/shiroi-yuki-no-princess-wa.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 快拍但主线较规则；副歌高音和连贯字句需稳定。 |
+| [少女A](../data/songs/shoujo-a.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 集中音域配密集词句与切分；咬字和换气比音域更难。 |
+| [少女レイ](../data/songs/shoujo-rei.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 轻快短句与副歌跳进；高区支撑和句尾音准为主要难点。 |
+| [祝福のメシアとアイの塔](../data/songs/shukufuku-no-messiah-to-ai-no-tou.json) | 5 | 4 | 4 | 4 | 4 | 4 | 5 | 4.29 | S | 独唱承接多角色主线；大幅音区转换和连续叙述增加衔接负担。 |
+| [春嵐](../data/songs/shunran.json) | 5 | 5 | 4 | 4 | 3 | 4 | 5 | 4.29 | S | 高区与曲折音高变化；切分起音和迅速换声容错较低。 |
+| [その一秒スローモーション](../data/songs/sono-ichibyou-slow-motion.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 规则旋律与高区副歌；连续字句的拍点和句尾支撑需注意。 |
+| [それがあなたの幸せとしても](../data/songs/sore-ga-anata-no-shiawase-to-shite-mo.json) | 3 | 3 | 2 | 4 | 3 | 3 | 3 | 3.00 | A | 慢速长句消耗气息；旋律和发音较从容但支撑不能松。 |
+| [SPiCa](../data/songs/spica.json) | 4 | 4 | 3 | 4 | 3 | 4 | 4 | 3.71 | A | 高区跳进和连贯副歌；长音、换声和后段支撑较突出。 |
+| [スターナイトスノウ](../data/songs/star-night-snow.json) | 4 | 3 | 4 | 3 | 3 | 4 | 4 | 3.57 | A | 音域不极宽但整体音区较高；快速短句与高区续航需协调。 |
+| [Star Story](../data/songs/star-story.json) | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2.00 | B | 重复主线、相对集中的音区；规则分句提供恢复空间。 |
+| [Starduster](../data/songs/starduster.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 缓慢长音和流畅主线；气息稳定和句尾音准比发音更难。 |
+| [スーサイドパレヱド](../data/songs/suicide-parade.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高区密集旋律与快字句；音高转换和连续支撑需协调。 |
+| [好き！雪！本気マジック](../data/songs/suki-yuki-maji-magic.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 跳动装饰性旋律与切分；快速字句中的起音精度较重要。 |
+| [サマータイムレコード](../data/songs/summertime-record.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 低区主歌到高区副歌；连续推进使后段声区与气息负担增加。 |
+| [砂の惑星](../data/songs/suna-no-wakusei.json) | 2 | 3 | 4 | 3 | 4 | 4 | 3 | 3.29 | A | 音区较低但切分词组密集；气息与快速清晰发音为主要难点。 |
+| [太陽系デスコ](../data/songs/taiyoukei-disco.json) | 5 | 3 | 3 | 4 | 3 | 4 | 4 | 3.71 | A | 旋律重复但整体音区很高；持续高区和副歌反复形成压力。 |
+| [帝国少女](../data/songs/teikoku-shoujo.json) | 3 | 4 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 细密切分与连串叙述；平稳音量下仍需精确音准和清晰字头。 |
+| [テレキャスタービーボーイ](../data/songs/telecaster-b-boy.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 篇幅较短但快字句和跳进密集；节奏及换声需迅速调整。 |
+| [Tell Your World](../data/songs/tell-your-world.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 重复副歌配高区跳进；连贯气息和拍点需中等控制。 |
+| [天樂](../data/songs/tengaku.json) | 4 | 3 | 4 | 4 | 3 | 4 | 4 | 3.71 | A | 快拍高区副歌和长音反复；不要求模仿吼腔，仍需持续支撑。 |
+| [転生林檎](../data/songs/tensei-ringo.json) | 3 | 3 | 4 | 3 | 4 | 4 | 4 | 3.57 | A | 长段叙述配快速切分；音域适中而发音和气息规划较难。 |
+| [テオ](../data/songs/teo.json) | 4 | 3 | 4 | 5 | 4 | 4 | 5 | 4.14 | S | 高区副歌长段反复且换气紧；声区稳定与耐力是主要限制。 |
+| [タイムマシン](../data/songs/time-machine.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 宽音区和高区副歌；旋律规则，换声与句尾支撑需练习。 |
+| [東京レトロ](../data/songs/tokyo-retro.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 轻快短句和副歌跳进；拍点与字头需准确但恢复空隙较充分。 |
+| [東京サマーセッション](../data/songs/tokyo-summer-session.json) | 4 | 3 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 独唱接续双人主线，音区变化增多；短句减轻长句耐力压力。 |
+| [東京テディベア](../data/songs/tokyo-teddy-bear.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 高区反复和快速词句；气息、换声与清晰度需保持到末段。 |
+| [トンデモワンダーズ](../data/songs/tondemo-wonderz.json) | 3 | 5 | 5 | 4 | 4 | 4 | 5 | 4.29 | S | 密集跳进、复杂分组与切分；音域有限也不降低旋律节奏难度。 |
+| [透明エレジー](../data/songs/toumei-elegy.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高区旋律和快速长段；清晰发音与换声续航需要协调。 |
+| [番凩](../data/songs/tsugai-kogarashi.json) | 5 | 4 | 4 | 4 | 3 | 4 | 4 | 4.00 | S | 独唱跨越双人高低主线；曲折旋律与长句需稳定换声。 |
+| [ツギハギスタッカート](../data/songs/tsugihagi-staccato.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 宽音区、装饰性转折和切分；短句起音与音准控制较细。 |
+| [罪の名前](../data/songs/tsumi-no-namae.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 多段旋律与速度感变化；高区和长句衔接需提前规划。 |
+| [積み木の人形](../data/songs/tsumiki-no-ningyou.json) | 5 | 4 | 4 | 4 | 4 | 4 | 4 | 4.14 | S | 高区跳进与快词句；紧凑分句需要迅速调整音准和气息。 |
+| [トゥインクル](../data/songs/twinkle.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 轻快重复旋律与副歌跳进；快词组和句尾支撑需练习。 |
+| [ウミユリ海底譚](../data/songs/umiyuri-kaitei-tan.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 宽音区和连续切分字句；主副歌衔接要稳定换声与换气。 |
+| [アンハッピーリフレイン](../data/songs/unhappy-refrain.json) | 5 | 4 | 4 | 4 | 5 | 5 | 5 | 4.57 | SS | 高区密集字句长段推进；呼吸、发音与疲劳造成连续失误风险。 |
+| [アンノウン・マザーグース](../data/songs/unknown-mother-goose.json) | 5 | 5 | 4 | 5 | 5 | 5 | 5 | 4.86 | SSS | 宽音区、密集跳进与高速连续字句；独唱长段的衔接和续航极难。 |
+| [裏表ラバーズ](../data/songs/uraomote-lovers.json) | 4 | 3 | 4 | 5 | 5 | 5 | 5 | 4.43 | S | 高区快速连串歌词几乎不停；旋律有规律但发音和呼吸容错很低。 |
+| [歌に形はないけれど](../data/songs/uta-ni-katachi-wa-nai-keredo.json) | 3 | 3 | 2 | 4 | 3 | 3 | 3 | 3.00 | A | 长句与高区延伸；发音从容，主要考验连贯气息和句尾控制。 |
+| [ヴァンパイア](../data/songs/vampire.json) | 4 | 4 | 4 | 4 | 3 | 4 | 4 | 3.86 | A | 高区跳进和快速副歌；换声及短句衔接需要稳定控制。 |
+| [ベノム](../data/songs/venom.json) | 4 | 3 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 密集短句和高区跳进；清晰起音和快速咬字需协调。 |
+| [ヴィラン](../data/songs/villain.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 音域集中但切分和音高转折较细；轻重与字头落点需控制。 |
+| [39](../data/songs/vocadb-14480.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 快拍重复副歌与高区；主线相对规律，需维持句尾支撑。 |
+| [惑星ループ](../data/songs/wakusei-loop.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 旋律重复但音区较高；连续副歌需保持稳定声区与气息。 |
+| [ホワイトハッピー](../data/songs/white-happy.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 曲折跳进与密集切分；音高、发音及段落转换负担同时存在。 |
+| [ワールドイズマイン](../data/songs/world-is-mine.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 重复旋律与说白感切分交替；副歌跳进和长音需控制。 |
+| [ワールズエンド・ダンスホール](../data/songs/world-s-end-dancehall.json) | 5 | 4 | 4 | 4 | 5 | 5 | 5 | 4.57 | SS | 独唱接续高区双人密集主线；长段发音与换气余量小。 |
+| [ヤンキーボーイ・ヤンキーガール](../data/songs/yankee-boy-yankee-girl.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 快速交接的双人主线与高区副歌；独唱衔接增加气息负担。 |
+| [Yellow](../data/songs/yellow.json) | 3 | 2 | 3 | 2 | 2 | 2 | 2 | 2.29 | B | 规则重复旋律和短句；高区支撑及少量切分需基本控制。 |
+| [いーあるふぁんくらぶ](../data/songs/yi-er-fanclub.json) | 2 | 3 | 3 | 3 | 3 | 3 | 3 | 2.86 | B | 音区较集中；独唱接续双人字句，短句节奏与发音需明确。 |
+| [夜明けと蛍](../data/songs/yoake-to-hotaru.json) | 4 | 4 | 2 | 4 | 3 | 4 | 4 | 3.57 | A | 低区到高区的明显反差；慢速长句与高区延伸需要稳定支撑。 |
+| [夜咄ディセイブ](../data/songs/yobanashi-deceive.json) | 3 | 4 | 4 | 3 | 4 | 4 | 4 | 3.71 | A | 快速切分、装饰性旋律与紧密词组；字头节奏和音准需兼顾。 |
+| [酔いどれ知らず](../data/songs/yoidore-shirazu.json) | 3 | 4 | 4 | 3 | 3 | 3 | 4 | 3.43 | A | 切分和曲折短句密集；需细致起音与声区连接。 |
+| [夜もすがら君想ふ](../data/songs/yomosugara-kimi-omou.json) | 3 | 3 | 4 | 3 | 3 | 3 | 3 | 3.14 | A | 音区较可控但切分活跃；快速词组和副歌持续性需练习。 |
+| [夜撫でるメノウ](../data/songs/yoru-naderu-menou.json) | 4 | 3 | 3 | 3 | 3 | 3 | 3 | 3.14 | A | 较宽主线音区与轻快切分；连贯换声和句尾音准较关键。 |
+| [夜に駆ける](../data/songs/yoru-ni-kakeru.json) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4.00 | S | 密集切分配频繁旋律跳进；后段发音、换气和音准要同步保持。 |
+| [吉原ラメント](../data/songs/yoshiwara-lament.json) | 2 | 3 | 3 | 2 | 3 | 3 | 3 | 2.71 | B | 音域较集中；叙事说白和切分短句需要清晰发音与连贯控制。 |
+| [弱虫モンブラン](../data/songs/yowamushi-mont-blanc.json) | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 2.14 | B | 主线集中、动机重复；切分和句末起伏需基本练习。 |
+| [夢と葉桜](../data/songs/yume-to-hazakura.json) | 2 | 3 | 2 | 3 | 2 | 2 | 3 | 2.43 | B | 音域集中且节奏舒缓；长句和细微旋律转折需稳定气息。 |
+| [夕日坂](../data/songs/yuuhizaka.json) | 3 | 3 | 2 | 3 | 3 | 3 | 3 | 2.86 | B | 舒缓长句与副歌抬升；气息和连贯音色是主要要求。 |
+| [夕景イエスタデイ](../data/songs/yuukei-yesterday.json) | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3.00 | A | 轻快跳动主线与副歌高音；切分和快词组需稳定跟随。 |
+| [幽霊東京](../data/songs/yuurei-tokyo.json) | 4 | 4 | 4 | 3 | 3 | 4 | 4 | 3.71 | A | 高区副歌与曲折切分；音准和声区转换比持续长句更突出。 |
+| [絶対敵対メチャキライヤー](../data/songs/zettai-tekitai-mecha-kirai-yaa.json) | 4 | 3 | 4 | 4 | 4 | 4 | 4 | 3.86 | A | 独唱快速接续双人主线；密集字句、音区变化和换气需协调。 |
+
+## 待评（102 首，七项均空白）
+
+这些歌曲已经存在于目录；此处只暂缓评分。缺少足够把握来同时判断主线音区、旋律、节奏、分句与技术要求，或仍需先复核所选版本。不能仅凭 BPM／最高音、同作者其他歌曲或标题补分。下列所有条目均需原版音源或主旋律乐谱的进一步复核，未声称其音源不存在。
+
+| id | 歌曲（JSON） | 状态 |
+| --- | --- | --- |
+| 1000-nen-ikiteru | [1000年生きてる](../data/songs/1000-nen-ikiteru.json) | 待原版主线复核，七项留空 |
+| ai-kotoba-v | [愛言葉Ⅴ](../data/songs/ai-kotoba-v.json) | 待原版主线复核，七项留空 |
+| ai-zokusei | [愛属性](../data/songs/ai-zokusei.json) | 待原版主线复核，七项留空 |
+| alice-blue | [アリスブルー](../data/songs/alice-blue.json) | 待原版主线复核，七项留空 |
+| ano-natsu-no-itsuka-wa | [あの夏のいつかは](../data/songs/ano-natsu-no-itsuka-wa.json) | 待原版主线复核，七项留空 |
+| ashura-shura | [あしゅらしゅら](../data/songs/ashura-shura.json) | 待原版主线复核，七项留空 |
+| bad-end-night | [Bad ∞ End ∞ Night](../data/songs/bad-end-night.json) | 待原版主线复核，七项留空 |
+| bless-your-breath | [ブレス・ユア・ブレス](../data/songs/bless-your-breath.json) | 待原版主线复核，七项留空 |
+| blue-planet | [ブループラネット](../data/songs/blue-planet.json) | 待原版主线复核，七项留空 |
+| blue-star | [Blue Star](../data/songs/blue-star.json) | 待原版主线复核，七项留空 |
+| boku-ga-yume-o-sutete-otona-ni-naru-made | [僕が夢を捨てて大人になるまで](../data/songs/boku-ga-yume-o-sutete-otona-ni-naru-made.json) | 待原版主线复核，七项留空 |
+| boku-no-sainou | [僕のサイノウ](../data/songs/boku-no-sainou.json) | 待原版主线复核，七项留空 |
+| boku-wa-hatsune-miku-to-kiss-o-shita | [僕は初音ミクとキスをした](../data/songs/boku-wa-hatsune-miku-to-kiss-o-shita.json) | 待原版主线复核，七项留空 |
+| bungakusha-no-koibumi | [文学者の恋文](../data/songs/bungakusha-no-koibumi.json) | 待原版主线复核，七项留空 |
+| cherry-pop | [チェリーポップ](../data/songs/cherry-pop.json) | 待原版主线复核，七项留空 |
+| chiccha-na-watashi | [ちっちゃな私](../data/songs/chiccha-na-watashi.json) | 待原版主线复核，七项留空 |
+| chikyuu-no-ura | [地球の裏](../data/songs/chikyuu-no-ura.json) | 待原版主线复核，七项留空 |
+| chikyuu-o-ageru | [地球をあげる](../data/songs/chikyuu-o-ageru.json) | 待原版主线复核，七项留空 |
+| cobalt-memories | [コバルトメモリーズ](../data/songs/cobalt-memories.json) | 待原版主线复核，七项留空 |
+| d-n-a | [D/N/A](../data/songs/d-n-a.json) | 待原版主线复核，七项留空 |
+| denpa-chuudoku-girl | [電波中毒ガール](../data/songs/denpa-chuudoku-girl.json) | 待原版主线复核，七项留空 |
+| dokuzu | [ド屑](../data/songs/dokuzu.json) | 待原版主线复核，七项留空 |
+| empurple | [エンパープル](../data/songs/empurple.json) | 待原版主线复核，七项留空 |
+| fascinator | [ファシネイター](../data/songs/fascinator.json) | 待原版主线复核，七项留空 |
+| from-voyager | [フロムヴォイジャー](../data/songs/from-voyager.json) | 待原版主线复核，七项留空 |
+| fuyuu-gekkougai | [浮遊月光街](../data/songs/fuyuu-gekkougai.json) | 待原版主线复核，七项留空 |
+| gekkou | [月光](../data/songs/gekkou.json) | 待原版主线复核，七项留空 |
+| gekkou-junshoku-girl | [月光潤色ガール](../data/songs/gekkou-junshoku-girl.json) | 待原版主线复核，七项留空 |
+| gunjou-sanka | [群青讃歌](../data/songs/gunjou-sanka.json) | 待原版主线复核，七项留空 |
+| hachi-juu-hachi-ken-no-uchuu | [八十八鍵の宇宙](../data/songs/hachi-juu-hachi-ken-no-uchuu.json) | 待原版主线复核，七项留空 |
+| hana-to-mizuame-saishuu-densha | [花と水飴、最終電車](../data/songs/hana-to-mizuame-saishuu-densha.json) | 待原版主线复核，七项留空 |
+| hanabira-aika | [花びら哀歌](../data/songs/hanabira-aika.json) | 待原版主线复核，七项留空 |
+| hanamezuru-kimi | [花めづる君](../data/songs/hanamezuru-kimi.json) | 待原版主线复核，七项留空 |
+| hanataba-to-suisou | [花束と水葬](../data/songs/hanataba-to-suisou.json) | 待原版主线复核，七项留空 |
+| hao | [ハオ](../data/songs/hao.json) | 待原版主线复核，七项留空 |
+| harinezumi | [針鼠](../data/songs/harinezumi.json) | 待原版主线复核，七项留空 |
+| haru-no-haruka | [はるのはるか](../data/songs/haru-no-haruka.json) | 待原版主线复核，七项留空 |
+| hello-sekai | [ハローセカイ](../data/songs/hello-sekai.json) | 待原版主线复核，七项留空 |
+| himitsu | [ヒミツ](../data/songs/himitsu.json) | 待原版主线复核，七项留空 |
+| hokorobi | [ほころび](../data/songs/hokorobi.json) | 待原版主线复核，七项留空 |
+| hyouri-ittai | [表裏一体](../data/songs/hyouri-ittai.json) | 待原版主线复核，七项留空 |
+| ii-ne-tte-yeah | [いいねってYEAH!](../data/songs/ii-ne-tte-yeah.json) | 待原版主线复核，七项留空 |
+| ima-o-kakeru-shoujo | [今をかける少女](../data/songs/ima-o-kakeru-shoujo.json) | 待原版主线复核，七项留空 |
+| imawanokiwa | [IMAWANOKIWA](../data/songs/imawanokiwa.json) | 待原版主线复核，七项留空 |
+| imitation-black | [IMITATION BLACK](../data/songs/imitation-black.json) | 待原版主线复核，七项留空 |
+| kaben-sore-ni-matsuwaru-onsei | [花弁、それにまつわる音声](../data/songs/kaben-sore-ni-matsuwaru-onsei.json) | 待原版主线复核，七项留空 |
+| kaitou-kubozono-chiyoko-wa-zettai-misuranai | [怪盗・窪園チヨコは絶対ミスらない](../data/songs/kaitou-kubozono-chiyoko-wa-zettai-misuranai.json) | 待原版主线复核，七项留空 |
+| kanchigai-seihan-kiboushou | [勘違い性反希望症](../data/songs/kanchigai-seihan-kiboushou.json) | 待原版主线复核，七项留空 |
+| kimi-ga-umareta-hi | [君が生まれた日](../data/songs/kimi-ga-umareta-hi.json) | 待原版主线复核，七项留空 |
+| kimi-koishi | [君恋し](../data/songs/kimi-koishi.json) | 待原版主线复核，七项留空 |
+| kimi-wa-dekinai-ko | [君はできない子](../data/songs/kimi-wa-dekinai-ko.json) | 待原版主线复核，七项留空 |
+| kinyoubi-no-ohayou-another-story | [金曜日のおはよう-another story-](../data/songs/kinyoubi-no-ohayou-another-story.json) | 待原版主线复核，七项留空 |
+| kirai-kirai-jiga-hidai | [キライ・キライ・ジガヒダイ！](../data/songs/kirai-kirai-jiga-hidai.json) | 待原版主线复核，七项留空 |
+| koi-no-koi-ni-yoru-koi-no-tame-no-koi | [恋の恋による恋のための恋](../data/songs/koi-no-koi-ni-yoru-koi-no-tame-no-koi.json) | 待原版主线复核，七项留空 |
+| kokoro-yohou | [心予報](../data/songs/kokoro-yohou.json) | 待原版主线复核，七项留空 |
+| last-score | [ラストスコア](../data/songs/last-score.json) | 待原版主线复核，七项留空 |
+| leia-remind | [Leia - Remind](../data/songs/leia-remind.json) | 待原版主线复核，七项留空 |
+| lustrous | [ラストラス](../data/songs/lustrous.json) | 待原版主线复核，七项留空 |
+| marry-no-kakuu-sekai | [マリーの架空世界](../data/songs/marry-no-kakuu-sekai.json) | 待原版主线复核，七项留空 |
+| meishou-romance | [明正ロマン](../data/songs/meishou-romance.json) | 待原版主线复核，七项留空 |
+| mental-chainsaw | [メンタルチェンソー](../data/songs/mental-chainsaw.json) | 待原版主线复核，七项留空 |
+| monitoring | [モニタリング](../data/songs/monitoring.json) | 待原版主线复核，七项留空 |
+| more-jump-more | [モア！ジャンプ！モア！](../data/songs/more-jump-more.json) | 待原版主线复核，七项留空 |
+| mou-jiki-natsu-ga-owaru-kara | [もうじき夏が終わるから](../data/songs/mou-jiki-natsu-ga-owaru-kara.json) | 待原版主线复核，七项留空 |
+| netsu-ijou | [熱異常](../data/songs/netsu-ijou.json) | 待原版主线复核，七项留空 |
+| nichijou-to-chikyuu-no-gakubuchi | [日常と地球の額縁](../data/songs/nichijou-to-chikyuu-no-gakubuchi.json) | 待原版主线复核，七项留空 |
+| night | [nuit](../data/songs/night.json) | 待原版主线复核，七项留空 |
+| nihil-to-suibotsu-toshi | [ニヒルと水没都市](../data/songs/nihil-to-suibotsu-toshi.json) | 待原版主线复核，七项留空 |
+| nijiiro-chouchou | [虹色蝶々](../data/songs/nijiiro-chouchou.json) | 待原版主线复核，七项留空 |
+| nisoku-hokou | [二息歩行](../data/songs/nisoku-hokou.json) | 待原版主线复核，七项留空 |
+| obeka | [おべか](../data/songs/obeka.json) | 待原版主线复核，七项留空 |
+| oborodzuki | [朧月](../data/songs/oborodzuki.json) | 待原版主线复核，七项留空 |
+| oetsu | [嗚咽](../data/songs/oetsu.json) | 待原版主线复核，七项留空 |
+| onomatopoeia-megane | [オノマトペメガネ](../data/songs/onomatopoeia-megane.json) | 待原版主线复核，七项留空 |
+| pale | [Pale](../data/songs/pale.json) | 待原版主线复核，七项留空 |
+| pico-luv-to-to-ai-no-uta | [PICO＠LUV (☆彡とvとAIのウタ。)](../data/songs/pico-luv-to-to-ai-no-uta.json) | 待原版主线复核，七项留空 |
+| red-purge | [レッド・パージ！！！](../data/songs/red-purge.json) | 待原版主线复核，七项留空 |
+| sangatsu-to-ookami-shounen | [三月と狼少年](../data/songs/sangatsu-to-ookami-shounen.json) | 待原版主线复核，七项留空 |
+| science | [サイエンス](../data/songs/science.json) | 待原版主线复核，七项留空 |
+| she | [she](../data/songs/she.json) | 待原版主线复核，七项留空 |
+| shibetsu | [死別](../data/songs/shibetsu.json) | 待原版主线复核，七项留空 |
+| shikakui-chikyuu-o-maruku-suru | [四角い地球を丸くする](../data/songs/shikakui-chikyuu-o-maruku-suru.json) | 待原版主线复核，七项留空 |
+| shinjinrui | [新人類](../data/songs/shinjinrui.json) | 待原版主线复核，七项留空 |
+| shinshou-shinkirou | [心象蜃気楼](../data/songs/shinshou-shinkirou.json) | 待原版主线复核，七项留空 |
+| shirayuki | [白ゆき](../data/songs/shirayuki.json) | 待原版主线复核，七项留空 |
+| shizumi-yuku-ai | [沈みゆく哀](../data/songs/shizumi-yuku-ai.json) | 待原版主线复核，七项留空 |
+| shoujo-keshigomu | [少女ケシゴム](../data/songs/shoujo-keshigomu.json) | 待原版主线复核，七项留空 |
+| shoujo-ningyou-no-mita-yume | [少女人形の見た夢](../data/songs/shoujo-ningyou-no-mita-yume.json) | 待原版主线复核，七项留空 |
+| snow-white | [白雪～shirayuki～](../data/songs/snow-white.json) | 待原版主线复核，七项留空 |
+| snowmix | [SnowMix♪](../data/songs/snowmix.json) | 待原版主线复核，七项留空 |
+| sora-ni-menjite | [空に免じて](../data/songs/sora-ni-menjite.json) | 待原版主线复核，七项留空 |
+| spot-late | [スポットレイト](../data/songs/spot-late.json) | 待原版主线复核，七项留空 |
+| t-shi-no-hanashi-o-shinjiru-na | [T氏の話を信じるな](../data/songs/t-shi-no-hanashi-o-shinjiru-na.json) | 待原版主线复核，七项留空 |
+| telepathy | [テレパシ](../data/songs/telepathy.json) | 待原版主线复核，七项留空 |
+| tetoris | [テトリス](../data/songs/tetoris.json) | 待原版主线复核，七项留空 |
+| ultra-trailer | [ウルトラトレーラー](../data/songs/ultra-trailer.json) | 待原版主线复核，七项留空 |
+| vocadb-252103 | [8.39](../data/songs/vocadb-252103.json) | 待原版主线复核，七项留空 |
+| vocadb-400359 | [88☆彡](../data/songs/vocadb-400359.json) | 待原版主线复核，七项留空 |
+| watashi-wa-ame | [私は雨](../data/songs/watashi-wa-ame.json) | 待原版主线复核，七项留空 |
+| white-landscape | [White Landscape](../data/songs/white-landscape.json) | 待原版主线复核，七项留空 |
+| wo-ai-maiden | [我愛メイデン](../data/songs/wo-ai-maiden.json) | 待原版主线复核，七项留空 |
+| zero-talking | [ゼロトーキング](../data/songs/zero-talking.json) | 待原版主线复核，七项留空 |

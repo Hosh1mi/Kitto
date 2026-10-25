@@ -10,13 +10,13 @@
     "max": "D#5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 5,
+    "technique": 5,
+    "stability": 5
   },
   "comments": "整首歌曲对气息控制和咬字清晰度都有很高的要求，而且节奏模式会随着段落不断变化。对于第一段主歌，最好以能够一口气唱完「自問自答～マカロン食べたい」为最终目标！副歌部分可以尝试每拍用手指画一个圆，同时配合演唱，这样会更容易掌握重音的位置。"
 }

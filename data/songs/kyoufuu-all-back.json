@@ -13,13 +13,13 @@
     "max": "B4"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 1,
+    "melody": 1,
+    "rhythm": 1,
+    "breath": 1,
+    "pronunciation": 1,
+    "technique": 1,
+    "stability": 1
   },
   "difficulty": "",
   "comments": "",

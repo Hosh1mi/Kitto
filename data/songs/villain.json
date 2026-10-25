@@ -10,13 +10,13 @@
     "max": "C#5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 3,
+    "pronunciation": 3,
+    "technique": 3,
+    "stability": 3
   },
   "comments": "整首歌要注意感受富有弹跳感的节奏，尤其是副歌部分，如果有意识地使用更加厚实的音色，会更贴合歌曲的风格。副歌中的「花弁」和「下さい」要注意三连音的重音处理。如果能将「だっらっしー」「ぼっくっはー」唱出富有变化的断句和节奏感，效果会更好！"
 }

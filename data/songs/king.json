@@ -10,13 +10,13 @@
     "max": "G5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 4,
+    "melody": 3,
+    "rhythm": 3,
+    "breath": 3,
+    "pronunciation": 3,
+    "technique": 3,
+    "stability": 3
   },
   "comments": "只要能够准确掌握换气的位置，这首歌就相对容易演唱。B段的难度稍高，需要特别注意配合鼓点的时机。副歌中「パッ」的部分，如果能像「パッ！」一样，将每个音清晰、短促地断开来唱，效果就会非常好！"
 }

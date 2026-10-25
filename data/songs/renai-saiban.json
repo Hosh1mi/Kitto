@@ -10,13 +10,13 @@
     "max": "E5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 3,
+    "breath": 3,
+    "pronunciation": 3,
+    "technique": 3,
+    "stability": 3
   },
   "comments": "虽然副歌的「涙の後に」会出现全曲最高音E5，但只要合理使用假声，就不需要勉强用真声完成，因此整体而言是一首比较容易演唱的歌曲。A段可以在「Oh！」和「そう」等位置进行短促的断句，并提前掌握鼓组军鼓的敲击时机。这样就能更轻松地跟上歌曲开头轻快的节奏！"
 }
