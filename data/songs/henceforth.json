@@ -13,16 +13,16 @@
     "max": "A#5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 F#3～A#5，最后一次副歌会升高两个半音。歌曲富有疾驰感，但音域跨度很大，连调整到合适的调本身都很困难。进入副歌时音区会突然升高，最后一次副歌又突然升高两个半音，因此副歌入口音的练习必不可少。其他段落的发展也稍有难度，如果还能顾及整首歌的体力与气息分配，就更理想。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/282574"

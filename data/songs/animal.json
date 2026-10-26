@@ -15,15 +15,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 3,
-    "rhythm": 3,
-    "breath": 3,
-    "pronunciation": 3,
+    "melody": 5,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "这首歌虽然只有约两分半，但结构很有趣，各不相同的乐句接连不断地向前推进。原曲音域为 F#3～G5，跨度较宽，因此不容易通过调整调高来适配。另外，副歌旋律线细密复杂，BPM 达到 188，速度相当快；起初学习旋律时，建议先放慢速度练习。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/371426"

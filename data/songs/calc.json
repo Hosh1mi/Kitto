@@ -13,16 +13,16 @@
     "max": "F#5"
   },
   "scores": {
-    "range": 3,
+    "range": 4,
     "melody": 3,
-    "rhythm": 3,
+    "rhythm": 2,
     "breath": 3,
-    "pronunciation": 3,
-    "technique": 3,
+    "pronunciation": 2,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 F#3～F#5，跨度有两个八度，低音也比较低，音域方面的难度相当于 A。速度从容，旋律也比较容易记住，因此容易把精力集中在表现上。高音不要勉强用真声硬顶，可以选择用优美的假声演唱。抬高视线，像望向远方一样演唱，会有更好的效果。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/7801"

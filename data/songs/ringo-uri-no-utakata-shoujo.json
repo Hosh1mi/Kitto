@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 5,
-    "melody": 4,
-    "rhythm": 4,
+    "melody": 3,
+    "rhythm": 5,
     "breath": 4,
     "pronunciation": 3,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 D#3～A#5。进入副歌时会转调，最后一次副歌还会升高一个半音。旋律比较容易记住，但节奏难度很高，三拍子会突然变成四拍子，四拍子也会突然变成三拍子。如果有难以演唱的地方，很可能就出在这些转换处，建议专门检查一下。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/12657"

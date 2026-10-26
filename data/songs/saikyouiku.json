@@ -14,16 +14,16 @@
     "max": "D#5"
   },
   "scores": {
-    "range": 4,
+    "range": 3,
     "melody": 3,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 3,
     "technique": 4,
-    "stability": 4
+    "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 F#3～D#5。在 VOCALOID 歌曲中，音域不算过宽，歌词也不太密集，因此比较容易演唱。不过，进入副歌时会转调，要注意第一个音。另外，歌曲中有不少各件乐器在同一节奏点整齐落下的「齐奏重音」，演唱时如果有意识地与这些落点对齐，就能让完成度更上一层。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/13728"

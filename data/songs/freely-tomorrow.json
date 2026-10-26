@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 3,
-    "melody": 4,
-    "rhythm": 4,
+    "melody": 3,
+    "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
     "technique": 3,
-    "stability": 4
+    "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "B",
+  "comments": "原曲音域为 G#3～C#5，即兴装饰音则可达到 F5。在 VOCALOID 歌曲中，这是一首比较容易演唱的歌，但其中包含呼吸声，也在富有律动的速度感里带着恰到好处的伤感，能感受到即使是 VOCALOID，也在追求富有人性的表达。带着想要再现歌曲世界观的心情反复聆听，是进步最快的途径。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/5364"

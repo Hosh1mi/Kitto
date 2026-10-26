@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 3,
-    "melody": 3,
+    "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 5,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 F#3～F5。进入副歌时会转调，最后一次副歌的转调时机又不同，需要特别注意。歌词用词的含义与发音整体都比较难，尤其 B 段歌词密集，要注意咬字。虽然是 VOCALOID 歌曲，原曲中仍包含呼吸声，建议先确认好换气位置再演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/348255"

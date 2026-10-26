@@ -14,16 +14,16 @@
     "max": ""
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 4,
-    "technique": 4,
-    "stability": 4
+    "breath": 5,
+    "pronunciation": 5,
+    "technique": 5,
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "音域为 A3～D#6，跨度相当宽，最高音以长音形式出现；除超高音区外，D5 附近的音也频繁出现。歌词密集的地方很多，其中还包括说唱段落，咬字已经不轻松，而换气的难度尤其高。建议每次只快速吸入少量气息，并让换气时机贴合节奏，这样更容易克服难点。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/354245"

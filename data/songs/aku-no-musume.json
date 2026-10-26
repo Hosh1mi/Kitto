@@ -16,13 +16,13 @@
     "range": 4,
     "melody": 3,
     "rhythm": 3,
-    "breath": 3,
+    "breath": 2,
     "pronunciation": 3,
-    "technique": 3,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 G3～A5，曲风让人联想到昭和时代特摄英雄的主题曲。歌词带有故事性，开头就有台词，可以想象自己正在舞台上表演。旋律比较容易记住，换气时机也不算难，但音域跨度很宽，要注意不要在最高音和最低音处过分用力。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1590"

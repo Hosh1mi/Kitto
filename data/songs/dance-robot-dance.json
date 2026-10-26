@@ -13,16 +13,16 @@
     "max": "A5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 3,
     "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 3,
-    "technique": 4,
-    "stability": 4
+    "breath": 5,
+    "pronunciation": 4,
+    "technique": 5,
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 A4～A5。最高音的难度相当于 S，不过低音端还有余地，因此可以降调进行调整。BPM 为 190，速度相当快，虽然希望唱得充满律动，但咬字与换气都没有太多余裕。虽然会稍微累一些，仍然推荐跟着歌曲每一拍左右迈步来演唱，这样能从整体上提升演唱表现。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/141649"

@@ -17,12 +17,12 @@
     "melody": 3,
     "rhythm": 2,
     "breath": 3,
-    "pronunciation": 3,
-    "technique": 3,
+    "pronunciation": 2,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 A3～F5，最后一次副歌会升高一个半音。只看歌词内容，也许会觉得整首歌只剩跌入谷底的意象；但最后一次副歌的转调，以及旋律上少许变化，也可以理解为：即使在绝望中不知道答案、仍在挣扎，也正试着向前迈出一步。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/12476"

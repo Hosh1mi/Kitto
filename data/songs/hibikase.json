@@ -17,12 +17,12 @@
     "melody": 4,
     "rhythm": 4,
     "breath": 3,
-    "pronunciation": 3,
-    "technique": 4,
+    "pronunciation": 4,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 C#4～A5，以副歌为代表，多处需要从真声高音切换到假声。尚未熟练时，建议先用唇颤音练习，做到能够顺畅地在两种声音之间往返。另外，虽然速度很快，但把每个词唱得清晰，反而会更有魅力，因此要有意识地突出字词的辅音。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/63276"

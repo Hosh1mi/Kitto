@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 4,
+    "melody": 3,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 G3～G5，如果包含即兴装饰音则会达到 E6，装饰音相当高，这一部分的难度相当于 S。旋律和整体结构比较清晰，是一首容易记住的歌曲。歌词有很多分隔开的地方，有意识地处理这些停顿，就能让演唱更有层次。另外，进入副歌前会有一段空拍，需要注意进入的时机。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/58632"

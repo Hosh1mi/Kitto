@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 3,
+    "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 G3～F5，最高音 F5 会在副歌频繁出现。另外，进入副歌时会转调，最后一次副歌的旋律也略有变化，需要注意。曲风给人舒展的感觉，但也是一首传达强烈信息的歌曲，因此可以反复尝试，找到既不过分清爽，也不过分热烈的微妙平衡。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/15662"

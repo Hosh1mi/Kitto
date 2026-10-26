@@ -13,16 +13,16 @@
     "max": "A5"
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
-    "rhythm": 4,
-    "breath": 3,
-    "pronunciation": 4,
+    "range": 5,
+    "melody": 4,
+    "rhythm": 5,
+    "breath": 4,
+    "pronunciation": 5,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 C#4～A5，整体音区偏高，音域方面的难度相当于 S。不过，低音端还有余地，如果觉得困难，可以调整演唱的调。歌词密集，节奏细碎，节奏型也不断变化。换气时要控制气量，避免因为害怕气息不够，反而吸入过多空气。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/298528"

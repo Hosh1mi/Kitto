@@ -13,16 +13,16 @@
     "max": "B5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 4,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 A3～B5。和风、轻快的节奏令人印象深刻，却与歌词内容形成反差，这种落差正是歌曲的魅力所在。第一段副歌进入时会转调，最后一次副歌又会升高一个半音，因此掌握歌曲的发展也很重要。跳进最高音时，很容易露出吃力的表情或让喉咙收紧，建议对着镜子检查。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/165658"

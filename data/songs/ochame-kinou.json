@@ -15,14 +15,14 @@
   "scores": {
     "range": 2,
     "melody": 2,
-    "rhythm": 3,
-    "breath": 2,
-    "pronunciation": 3,
+    "rhythm": 4,
+    "breath": 3,
+    "pronunciation": 4,
     "technique": 3,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 B3～C#5，在 VOCALOID 歌曲中比较容易演唱。不过，BPM 为 150，速度稍快，歌词又很密集，因此在注意咬字的同时，也要保证换气。左右迈步，或在原地踏步，一边这样做一边演唱，就更容易让换气的时机贴合歌曲节奏。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/4176"

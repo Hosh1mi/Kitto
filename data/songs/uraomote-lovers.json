@@ -13,16 +13,16 @@
     "max": "B5"
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
+    "range": 5,
+    "melody": 4,
     "rhythm": 4,
     "breath": 5,
     "pronunciation": 5,
     "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 E4～B5。最后一次副歌后半段会升高一个半音，但仍不会达到 A 段主歌那么高的音。由于最低音也偏高，如果高音难以应付，建议调整演唱的调。另外，A 段除了音域以外，咬字的难度也很高，旋律并非完全重复，而有些地方存在细微差异，因此首先要充分聆听原曲。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1508"

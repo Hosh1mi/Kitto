@@ -13,16 +13,16 @@
     "max": "A#5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 4,
+    "breath": 5,
+    "pronunciation": 3,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 G#3～A#5，后半段有一连串仿佛向前疾驰的鲜明转调。首先要反复聆听，理解歌曲结构。另外，第一段副歌就会出现 G#5，如果气息与体力分配失当，后半段就会变得吃力。既然歌名是「快晴」，进入最后一次副歌时，也要注意别让表情变得阴沉；抬起视线，想象自己舒展地演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/166707"

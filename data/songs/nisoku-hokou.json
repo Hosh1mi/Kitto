@@ -13,16 +13,16 @@
     "max": ""
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 3,
+    "melody": 3,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 3,
+    "technique": 4,
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 B3～C#5。在 VOCALOID 歌曲中，音域不算很宽，对女性来说也处于比较容易演唱的高度。不过，整首歌都会频繁出现高音，因此不要在副歌以外的段落消耗过多体力。另外，每次场景转换，节奏型都会发生明显变化；在贝斯与鼓暂时退出的地方，要注意不要丢失进入的时机。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/5859"

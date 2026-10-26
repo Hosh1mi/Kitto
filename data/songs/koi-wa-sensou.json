@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 3,
-    "melody": 3,
+    "melody": 4,
     "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 3,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "厚重的声音是这首歌令人印象深刻的特点。原曲音域为 A3～D5，在 VOCALOID 歌曲中比较容易演唱。A 段节奏从容，但旋律里有少数较难掌握的音，建议逐个仔细确认。另外，如果想唱出厚实、有冲击力的帅气歌声，可以有意识地让嘴巴向纵向张开。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1320"
