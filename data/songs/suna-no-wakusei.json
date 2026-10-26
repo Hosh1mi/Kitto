@@ -17,13 +17,12 @@
     "range": 2,
     "melody": 3,
     "rhythm": 4,
-    "breath": 3,
-    "pronunciation": 4,
-    "technique": 3,
-    "stability": 3
+    "breath": 4,
+    "pronunciation": 5,
+    "technique": 4,
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "comments": "音域的高低差并不算大，但整首歌的歌词都很密集，尤其是第二段「ぶっ飛んで～思い出は電子音」这一部分，局部难度达到 S。除了注意咬字清晰，还需要妥善调整换气的位置和吸气量。要注意，仅仅放慢速度练习，也很难完全攻克这些难点。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/157860"

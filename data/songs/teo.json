@@ -14,16 +14,16 @@
     "max": "A5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 3,
     "rhythm": 4,
     "breath": 5,
     "pronunciation": 4,
-    "technique": 4,
+    "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 D#4～A5，按原曲音区演唱时，难度相当于 S。整首歌能用来换气的时间相当有限，不要试图吸入过多空气，而要用少量气息把乐句顺畅地连接起来。副歌结尾的「手を！」如果能够完整地延长，就会很有表现力。尤其最后一次副歌中的「手を！」更长，如果能与前面的处理作出区别，效果会更好！",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/161199"

@@ -14,16 +14,16 @@
     "max": "A#5"
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
+    "range": 5,
+    "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "音域为 D4～A#5，整体音区相当高。如果原调唱起来勉强，建议降到适合自己演唱的调。另外，即使降了调，副歌中以「全能の言葉を」为代表的大幅度旋律跳进仍然很多，因此提前确认自己不擅长的地方，能提高演唱的成功率。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/555"

@@ -14,16 +14,16 @@
     "max": ""
   },
   "scores": {
-    "range": 3,
-    "melody": 3,
-    "rhythm": 3,
-    "breath": 3,
-    "pronunciation": 3,
-    "technique": 3,
-    "stability": 3
+    "range": 5,
+    "melody": 4,
+    "rhythm": 4,
+    "breath": 4,
+    "pronunciation": 4,
+    "technique": 5,
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "歌曲中有出人意料的转调，音域为 G3～A#5，音域方面的难度相当于 S。BPM 为 158，歌词密集，因此换气、节奏与咬字都比较费力；可以左右迈步，或原地踏步，让演唱更容易。在以「だっだっだ」为代表、需要唱得利落的地方，要善用腹式呼吸来带动，而不是靠喉咙用力。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/346457"

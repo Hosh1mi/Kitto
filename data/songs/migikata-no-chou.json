@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 4,
+    "melody": 3,
     "rhythm": 4,
-    "breath": 3,
+    "breath": 4,
     "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 G3～F5，约两个八度，跨度稍宽，但旋律线并不太难，比较容易理解。不过，这首歌有镜音铃版和镜音连版，两个版本在部分地方存在细微差异，需要注意。歌曲后半段副歌连续出现，最后一次副歌还会升高一个半音，因此建议安排好整首歌的体力与气息分配。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1952"

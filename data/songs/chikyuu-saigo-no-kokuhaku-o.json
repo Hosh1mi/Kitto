@@ -13,16 +13,16 @@
     "max": "G5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "音域为 F3～G5，跨度较宽，尾段会进行两次转调，每次升高一个半音。转调前的副歌为 D5～F5，第二次转调后的副歌则频繁出现 E5～G5；如果觉得困难，不必勉强，可以调整演唱的调。歌词描绘的世界宏大而伤感，但演唱高音时，可以像 MV 一样想象开阔、高远的景色，并保持清爽明朗的表情。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/13615"

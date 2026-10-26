@@ -16,13 +16,13 @@
     "range": 4,
     "melody": 3,
     "rhythm": 4,
-    "breath": 3,
-    "pronunciation": 4,
+    "breath": 2,
+    "pronunciation": 3,
     "technique": 4,
-    "stability": 4
+    "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 D#4～G#5，虽然偏向高音区，但整体旋律比较容易记住。部分段落的歌词稍显密集，不过换气时间比较容易安排，因此可以从容演唱。另外，副歌开头如果没有做好充分准备，不仅容易抓不准进入的时机，也会难以应对音程跳跃，需要特别注意！",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/233017"

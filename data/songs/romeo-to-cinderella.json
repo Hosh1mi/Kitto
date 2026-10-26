@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 3,
-    "melody": 3,
+    "melody": 4,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 G#3～F5，最后一次副歌比开头升高两个半音，因此选调时，要以能否完整唱完最后一次副歌为基准。另外，即使到了情绪高涨的 B 段和副歌，旋律中仍有不少低音。如果想提高演唱的稳定性，建议先用唇颤音练习，让旋律连接得平滑顺畅。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1032"

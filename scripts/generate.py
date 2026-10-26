@@ -242,11 +242,11 @@ def render_content(songs: list[dict], thresholds: dict[str, float], weights: dic
             song["title"],
             "、".join(song["producers"]),
             "、".join(song["vocalists"]),
-            song.get("difficulty") or (calculate_difficulty(overall, thresholds) if overall is not None else ""),
             song.get("bpm") or "",
             range_text,
             *(score.get(k) or "" for k in SCORE_FIELDS),
             f"{overall:.2f}" if overall is not None else "",
+            song.get("difficulty") or (calculate_difficulty(overall, thresholds) if overall is not None else ""),
         ]
         lines.append("| " + " | ".join(map(md_cell, values)) + " |")
 

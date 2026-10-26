@@ -13,16 +13,16 @@
     "max": "A5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 4,
     "breath": 5,
-    "pronunciation": 4,
-    "technique": 4,
+    "pronunciation": 5,
+    "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 G3～A5。歌词密集程度非同寻常，很容易在换气与咬字上遇到困难，建议先放慢速度，再逐步加快。另外，从副歌前进入副歌时，音区会突然升高；如果在升高之前没有提前想好之后的音高，一进入副歌就容易感到吃力，需要特别注意。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/141339"

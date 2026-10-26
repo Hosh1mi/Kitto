@@ -19,11 +19,11 @@
     "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 3,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "这是一首由初音未来与巡音流歌演唱的二重唱，原曲音域为 A3～F#5。两人配合时，最难的果然还是和声部分。如果能统一换气的气量与时机，以及句尾的处理方式，例如延长到哪里、如何收尾等，就能提高同步程度，让演唱更加融为一体，效果会更好！",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/5166"

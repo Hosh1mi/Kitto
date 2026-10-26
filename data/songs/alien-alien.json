@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 3,
-    "melody": 2,
-    "rhythm": 3,
+    "melody": 3,
+    "rhythm": 4,
     "breath": 3,
-    "pronunciation": 3,
-    "technique": 3,
-    "stability": 3
+    "pronunciation": 4,
+    "technique": 4,
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "由于 BPM 为 152，速度较快，第二段主歌（A 段）的说唱部分在尚未熟练时，需要先放慢速度练习。此外，细节中有即兴装饰音（フェイク）和尾音下滑（フォール），也有像「タ タ タ タイトロープ」「トキメキ」这样需要分隔演唱的地方。要运用好这些技巧，首先必须反复聆听、熟悉原曲。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/106773"

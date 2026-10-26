@@ -16,14 +16,14 @@
   "scores": {
     "range": 3,
     "melody": 3,
-    "rhythm": 4,
+    "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 3,
+    "technique": 4,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "B",
+  "comments": "最后一次副歌会升高一个半音。副歌的高音不必勉强，建议短暂地切换到轻盈的假声。另外，整首歌尤其需要注意随着节奏变化调整唱法。例如副歌的最后一部分，要从此前流畅连贯的感觉转为把每个词分隔开来演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/38916"

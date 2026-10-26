@@ -13,16 +13,16 @@
     "max": "D#5"
   },
   "scores": {
-    "range": 3,
+    "range": 2,
     "melody": 3,
-    "rhythm": 3,
-    "breath": 3,
+    "rhythm": 2,
+    "breath": 2,
     "pronunciation": 2,
     "technique": 3,
-    "stability": 3
+    "stability": 2
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "B",
+  "comments": "音域为 B3～D#5（不含尾奏），跨度并不极端，因此无论男女，都比较容易调整到适合自己的调。速度也并不快，整体比较容易演唱，但副歌会转调，尚未熟练时可能难以找准副歌进入时的第一个音。建议专门截取副歌前到进入副歌的部分，反复练习。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/18479"

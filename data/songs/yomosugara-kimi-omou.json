@@ -15,14 +15,14 @@
   "scores": {
     "range": 3,
     "melody": 3,
-    "rhythm": 4,
+    "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
     "technique": 3,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "B",
+  "comments": "原曲音域为 G#3～C#5。虽然最后一次副歌会升高一个半音，但在 VOCALOID 歌曲中，这仍是一首比较容易演唱的歌。包括转调部分在内的尾段，情绪会变得更加积极；尤其在这一部分，如果抬起嘴角，让上排牙齿露出来演唱，就能让字句更有明亮闪耀的感觉，因此在尾段不够热烈时，推荐试试这个方法。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/51262"

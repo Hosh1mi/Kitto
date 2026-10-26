@@ -13,16 +13,16 @@
     "max": "F#5"
   },
   "scores": {
-    "range": 3,
+    "range": 4,
     "melody": 3,
     "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 3,
-    "stability": 3
+    "technique": 4,
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 A3～F#5，旋律比较容易记住。最后一次副歌会升高两个半音，整体也偏向高音区；如果高音吃力，而最低音仍有余地，建议略微降调。歌曲后半段的情绪逐渐变得积极，希望演唱时也能抬起视线，带着明朗的表情来表现。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/8735"

@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 3,
+    "melody": 4,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "这首歌以轻快的速度为特点，但在副歌开头等位置，会顺着音乐的流动自然地转调。如果还没掌握进入这些段落时的第一个音，就要反复确认。副歌在几个关键位置存在旋律跳进；与其逐个音刻意去找音高，不如借助跟随节奏的冲劲，同时着重提高音准的准确度。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/199209"

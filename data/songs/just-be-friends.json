@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 4,
-    "melody": 3,
-    "rhythm": 4,
+    "melody": 4,
+    "rhythm": 3,
     "breath": 3,
     "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 A3～G5。副歌中有一个八度（12 个半音）的跳进，通常需要从真声切换到假声。跳进时，如果把低音唱得过于厚重，就会更难够到高音，需要特别注意。反复用唇颤音在高低音之间往返练习，更容易找到完成跳进的感觉。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1360"

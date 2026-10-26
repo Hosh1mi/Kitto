@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 5,
-    "melody": 4,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
-    "technique": 4,
+    "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 B3～F#6，跨度大得超出常规。男性演唱时，建议以低一个八度为基准；女性演唱时，调的选择也非常困难，可能需要在副歌中降低一个八度等处理。歌曲会随着不同段落多次转调，因此建议针对每次变化时进入旋律的第一个音，反复进行练习。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/14484"

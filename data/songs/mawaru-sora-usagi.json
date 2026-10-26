@@ -13,16 +13,16 @@
     "max": "A#5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 4,
     "rhythm": 2,
     "breath": 4,
-    "pronunciation": 3,
-    "technique": 4,
+    "pronunciation": 2,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 G#3～A#5，音域方面的难度相当于 S。简洁的钢琴编曲能够衬托人声，是这首歌令人印象深刻的特点。旋律比较容易记住，高音希望能用优美的假声来演唱。副歌跳进的部分要避免用力过度，建议先用唇颤音练习，从能够流畅地连接旋律开始。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/139902"

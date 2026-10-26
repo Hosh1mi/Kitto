@@ -17,13 +17,13 @@
     "range": 4,
     "melody": 4,
     "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 3,
+    "breath": 3,
+    "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "无论是歌词构建的世界观，还是突然变化的节奏，这首歌都在各个方面汇集了 VOCALOID 歌曲的魅力。建议事先仔细聆听，并记下节奏突然变化的时机、存在音程跳跃的位置，以及歌词密集的段落。这样就能不被突如其来的变化打乱，而是一边享受这些变化，一边演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/321205"

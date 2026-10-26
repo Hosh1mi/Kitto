@@ -15,15 +15,15 @@
   },
   "scores": {
     "range": 5,
-    "melody": 4,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 5,
     "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 C#4～C6，难度达到 S。如果原调演唱困难，不必勉强，可以降调。B 段的快速咬字需要练熟，但更难的地方在于旋律：第一段与第二段看似重复，实际上存在微妙差异，而且 C6、A5 等高音也会接连出现，因此建议先放慢速度，逐步提高演唱的准确度。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/20"

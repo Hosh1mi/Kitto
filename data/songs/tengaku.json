@@ -13,16 +13,16 @@
     "max": "A5"
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
+    "range": 5,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 B3～A5。这首歌富有疾驰感，节奏型也会随段落发生变化。副歌「ぐしゃぐしゃに割れた～」的音程跳跃很大，建议起初逐个音确认。另外，「天樂をー」的长音要延长几拍，最好提前明确，避免演唱时含糊不清。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/3269"

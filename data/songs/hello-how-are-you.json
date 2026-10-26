@@ -15,15 +15,14 @@
   "difficulty": "B",
   "scores": {
     "range": 3,
-    "melody": 1,
-    "rhythm": 1,
-    "breath": 1,
-    "pronunciation": 1,
-    "technique": 2,
-    "stability": 1
+    "melody": 2,
+    "rhythm": 2,
+    "breath": 2,
+    "pronunciation": 2,
+    "technique": 3,
+    "stability": 2
   },
-  "difficulty": "",
-  "comments": "",
+  "comments": "最后一次副歌出现主旋律最高音 E5（和声最高音为 G#5），不必勉强用力，可以用假声演唱；整首歌都用温柔的声音演唱，会更贴合歌曲的氛围。这是一首中速歌曲，若想自然地跟上节奏，可以原地踏步，或一边左右迈步一边唱，这样会更容易演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/1416"

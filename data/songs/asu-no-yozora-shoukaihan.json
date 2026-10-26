@@ -16,13 +16,13 @@
     "range": 4,
     "melody": 3,
     "rhythm": 4,
-    "breath": 5,
+    "breath": 4,
     "pronunciation": 3,
     "technique": 4,
-    "stability": 5
+    "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "音域为 E3～F#5，需要覆盖约两个八度。跨度虽稍宽，但高音部分不要只想用真声硬唱；事先安排好切换到假声的位置，会更容易完整唱到最后。不过，假声容易使歌词的咬字轮廓变得模糊，因此应保持充分的气流，同时避免用气过猛。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/65861"

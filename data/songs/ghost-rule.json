@@ -17,13 +17,13 @@
     "range": 4,
     "melody": 3,
     "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 4,
+    "breath": 5,
+    "pronunciation": 3,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 A3～F#5。最后一次副歌会连续转调两次，因此设定演唱的调时，最好以能够准确唱完最后一次副歌的音高为基准。旋律比较容易记住，但这首歌容易让人在换气上遇到困难。如果每次只快速吸入少量气息，并让换气时机也贴合节奏，就会明显更容易演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/112085"

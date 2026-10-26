@@ -16,14 +16,14 @@
   "scores": {
     "range": 5,
     "melody": 4,
-    "rhythm": 4,
+    "rhythm": 5,
     "breath": 4,
     "pronunciation": 5,
     "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "这是一首综合难度很高的歌曲，不仅考验音域，还离不开节奏、咬字、换气等多种演唱技巧。如果由两个人演唱，优先统一对节奏的感受，就更容易协调换气与开始演唱的时机。尚未熟练时，建议每一拍都用手指画一个圆，一边这样做一边演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/192291"

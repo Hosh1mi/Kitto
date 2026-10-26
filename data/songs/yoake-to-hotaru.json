@@ -17,12 +17,12 @@
     "melody": 4,
     "rhythm": 2,
     "breath": 4,
-    "pronunciation": 3,
+    "pronunciation": 2,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 F#3～G#5，跨度稍宽。速度不快，歌词也不密集；虽然最后一次副歌会升高一个半音，但如果音域不是问题，整体是比较容易演唱的歌曲。不过，副歌音区会突然升高，建议在进入之前把视线稍微抬高，作为发出高音的准备。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/71884"

@@ -16,15 +16,15 @@
   },
   "scores": {
     "range": 2,
-    "melody": 3,
-    "rhythm": 3,
-    "breath": 2,
+    "melody": 2,
+    "rhythm": 2,
+    "breath": 4,
     "pronunciation": 3,
     "technique": 3,
     "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "B",
+  "comments": "副歌不算很高，旋律起伏也不剧烈，因此推荐给不擅长高音的人。不过，整首歌的歌词都比较密集，而且可换气的时机有限。如果能尽量用较少的气量把乐句连贯地唱下去，就更容易以稳定的气息，从容地唱到最后。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/14435"

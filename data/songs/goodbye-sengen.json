@@ -18,11 +18,11 @@
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 3,
-    "technique": 4,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "这是一首需要覆盖 C4～C6 两个八度的难曲，因此也可以考虑降到自己能够完整唱下来的调。第二段省略了副歌，直接由 C 段（桥段）进入最后一次副歌；副歌旋律的上下起伏很大。如果音准始终不够稳定，建议先从唇颤音练习开始，把各个音平滑地连接起来。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/278267"

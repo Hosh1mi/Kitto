@@ -13,16 +13,16 @@
     "max": "B5"
   },
   "scores": {
-    "range": 4,
-    "melody": 4,
+    "range": 5,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 F3～B5，最后一次副歌会升高一个半音。音域跨度很宽，连调整到合适的调本身都很困难。歌词密集，旋律又是连续的跳进，要准确唱好极具挑战。不过，贝斯与鼓的节奏打得很清楚，因此建议仔细聆听，让演唱跟上它们的律动。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/49871"

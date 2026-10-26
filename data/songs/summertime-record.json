@@ -15,14 +15,14 @@
   "scores": {
     "range": 4,
     "melody": 3,
-    "rhythm": 4,
-    "breath": 4,
-    "pronunciation": 3,
-    "technique": 4,
-    "stability": 4
+    "rhythm": 3,
+    "breath": 3,
+    "pronunciation": 2,
+    "technique": 3,
+    "stability": 3
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 E3～F#5。副歌会频繁出现稍高的音，但副歌以外的部分比较容易演唱，也没有太多 VOCALOID 歌曲常见的换气与快速咬字难点，可以说是一首比较好唱的歌曲。建议一边想象能看见飞机云的开阔景色，一边保持视线向上演唱，这样更能增添青春感。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/28648"

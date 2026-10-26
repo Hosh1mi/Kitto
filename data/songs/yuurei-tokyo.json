@@ -18,11 +18,11 @@
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 3,
-    "technique": 4,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 A#3～G#5，整体音区偏高。最后一次副歌还会上升一个半音，因此设定演唱的调时，要注意不要让音高刚好卡在自己的极限。副歌基本上需要在真声与假声之间频繁切换，建议事先决定好各个切换的位置，这样更容易提高演唱的稳定性。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/262740"

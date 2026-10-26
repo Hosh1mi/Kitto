@@ -13,16 +13,16 @@
     "max": ""
   },
   "scores": {
-    "range": 4,
-    "melody": 3,
+    "range": 5,
+    "melody": 4,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
-    "technique": 4,
-    "stability": 4
+    "technique": 5,
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 F#4～C6，最后一次副歌会升高一个半音。音区偏高，不过比较容易调整演唱的调。另外，歌词密集，节奏也并非固定不变，而是随段落发生变化；如果没有一定的演唱技巧，很容易感到吃力。建议提前确认换气的位置，也要注意每次吸气的气量。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/293286"

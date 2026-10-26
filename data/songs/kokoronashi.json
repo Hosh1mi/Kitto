@@ -13,16 +13,16 @@
     "max": ""
   },
   "scores": {
-    "range": 4,
-    "melody": 4,
+    "range": 5,
+    "melody": 3,
     "rhythm": 2,
     "breath": 4,
-    "pronunciation": 3,
-    "technique": 4,
+    "pronunciation": 2,
+    "technique": 5,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "原曲音域为 A3～A5，使用原调演唱时，难度达到 S。除了能够唱出高音，如果还能运用各种音色表现「哭腔」，就能让演唱更上一层楼。从仿佛漏气般柔和的「哭腔」，到如同放声哭喊、倾诉情绪般的「哭腔」，试着有意识地拓宽表现的幅度吧！",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/46115"

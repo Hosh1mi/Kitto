@@ -13,16 +13,16 @@
     "max": ""
   },
   "scores": {
-    "range": 3,
-    "melody": 3,
+    "range": 5,
+    "melody": 4,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 4,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "A",
+  "comments": "原曲音域为 B3～B5，需要相当宽的音域。最高音 B5 只出现一次，但 F#5 和 G5 会出现多次；如果难以保持稳定，建议调整到适合自己演唱的调。A 段主歌的音符细密，旋律走向也比较复杂；如果有掌握不清楚的地方，建议先放慢速度，再逐步加快，直到能够熟练演唱。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/2978"

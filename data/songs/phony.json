@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 5,
-    "melody": 4,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
-    "pronunciation": 4,
+    "pronunciation": 5,
     "technique": 4,
     "stability": 4
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "音域为 A3～G#5。这是一首在许多地方都会转调的难曲，在掌握整体流动的感觉之前，必须反复聆听。有些段落的咬字速度相当快，因此建议起初不要勉强，先放慢速度练习。副歌演唱时，如果每一拍都用手指有力地画一个椭圆，就更容易与歌曲的律动同步。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/337578"

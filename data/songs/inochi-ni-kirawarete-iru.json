@@ -13,16 +13,16 @@
     "max": "G5"
   },
   "scores": {
-    "range": 4,
+    "range": 5,
     "melody": 3,
     "rhythm": 3,
     "breath": 4,
     "pronunciation": 3,
-    "technique": 4,
-    "stability": 4
+    "technique": 5,
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "进入副歌之前，音区一直不算很高；但一进入副歌，就会接连出现高音（最高音为 G5），很难保持稳定，因此也可以调整到能够完整唱完副歌的调。最后一次副歌之前，如果先使用假声等柔和的声音，进入最后一次副歌时就能形成更鲜明的对比。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/164273"

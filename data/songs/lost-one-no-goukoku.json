@@ -16,13 +16,13 @@
     "range": 5,
     "melody": 3,
     "rhythm": 4,
-    "breath": 5,
+    "breath": 4,
     "pronunciation": 4,
-    "technique": 4,
+    "technique": 5,
     "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "音域为 B3～B5，相当宽广。最高音 B5（「誰なんだよ・どうだって」）不仅要能够唱出来，结合歌词内容来看，还需要用有力、饱满的声音唱出。关键在于声带闭合与共鸣的控制；如果张嘴时能露出上排牙齿，就更容易发出有力量、轮廓清晰的声音。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/19094"

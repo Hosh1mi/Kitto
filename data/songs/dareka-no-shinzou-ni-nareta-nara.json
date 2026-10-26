@@ -14,15 +14,15 @@
   },
   "scores": {
     "range": 5,
-    "melody": 4,
+    "melody": 5,
     "rhythm": 4,
     "breath": 4,
     "pronunciation": 4,
     "technique": 4,
-    "stability": 4
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "S",
+  "comments": "使用原曲的音高演唱时，难度达到 S。最后一次副歌会升高一个半音。副歌从「こんな」到「世界」之间有大幅度跳进，而且会连续出现，需要注意保持稳定。B 段在「愛をください」之后进入下一句的时机非常难掌握；在找到准确时机之前，建议先放慢速度练习。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/184133"
