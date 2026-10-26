@@ -9,8 +9,8 @@
   ],
   "bpm": 170,
   "vocal_range": {
-    "min": "",
-    "max": ""
+    "min": "A3",
+    "max": "G#5"
   },
   "scores": {
     "range": 5,

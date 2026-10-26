@@ -227,7 +227,12 @@ def render_content(songs: list[dict], thresholds: dict[str, float], weights: dic
 
     def sort_key(song: dict) -> tuple:
         overall = overall_score(song, weights)
-        return (overall is None, overall if overall is not None else 0, song["id"])
+        difficulty = song.get("difficulty") or (
+            calculate_difficulty(overall, thresholds) if overall is not None else ""
+        )
+        rank = DIFFICULTY_LEVELS.index(difficulty) if difficulty else len(DIFFICULTY_LEVELS)
+        return (rank, overall is None, overall if overall is not None else 0,
+                song["title"], song["id"])
 
     songs = sorted(songs, key=sort_key)
     for song in songs:

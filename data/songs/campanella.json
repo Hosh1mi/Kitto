@@ -14,12 +14,12 @@
   },
   "scores": {
     "range": 3,
-    "melody": 4,
-    "rhythm": 4,
-    "breath": 3,
-    "pronunciation": 3,
-    "technique": 3,
-    "stability": 4
+    "melody": 1,
+    "rhythm": 2,
+    "breath": 1,
+    "pronunciation": 2,
+    "technique": 1,
+    "stability": 1
   },
   "difficulty": "",
   "comments": "",
