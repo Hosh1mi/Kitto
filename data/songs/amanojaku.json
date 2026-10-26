@@ -9,13 +9,14 @@
     "min": "A3",
     "max": "G#5"
   },
+  "difficulty": "A",
   "scores": {
     "range": 4,
-    "melody": 3,
-    "rhythm": 4,
-    "breath": 4,
+    "melody": 4,
+    "rhythm": 3,
+    "breath": 3,
     "pronunciation": 3,
-    "technique": 4,
+    "technique": 3,
     "stability": 4
   },
   "comments": "从开头的「今日はこっちの地方は」一直到歌曲结束，演唱几乎没有停歇的机会。由于整首歌缺少充分喘息的空间，而且最后一段副歌还会转调，因此建议提前规划好整首歌曲的气息与体力分配，确保能够完整唱到最后。另外，第一段B段从「メリーゴーランド」到「グルグルさ」附近，节奏会突然发生明显变化，需要特别注意。"

@@ -12,14 +12,15 @@
     "min": "G#3",
     "max": "E5"
   },
+  "difficulty": "B",
   "scores": {
     "range": 3,
-    "melody": 3,
-    "rhythm": 3,
-    "breath": 3,
-    "pronunciation": 2,
-    "technique": 3,
-    "stability": 3
+    "melody": 1,
+    "rhythm": 1,
+    "breath": 1,
+    "pronunciation": 1,
+    "technique": 2,
+    "stability": 1
   },
   "difficulty": "",
   "comments": "",

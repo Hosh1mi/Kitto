@@ -12,13 +12,14 @@
     "min": "F3",
     "max": "G#4"
   },
+  "difficulty": "A",
   "scores": {
     "range": 2,
     "melody": 3,
     "rhythm": 4,
     "breath": 3,
     "pronunciation": 4,
-    "technique": 4,
+    "technique": 3,
     "stability": 3
   },
   "difficulty": "",

@@ -9,14 +9,15 @@
     "min": "C4",
     "max": "D5"
   },
+  "difficulty": "B",
   "scores": {
     "range": 2,
-    "melody": 3,
-    "rhythm": 3,
-    "breath": 2,
+    "melody": 2,
+    "rhythm": 2,
+    "breath": 1,
     "pronunciation": 2,
     "technique": 2,
-    "stability": 2
+    "stability": 1
   },
   "comments": "虽然歌曲中存在B段到副歌、落副歌到最后副歌等转调变化，但整体音域并不宽广，因此非常推荐给刚开始接触VOCALOID歌曲的初学者。演唱副歌时，可以尝试每拍用手指画一个圆，配合歌曲的律动，这样会明显更容易唱出自然流畅的感觉。"
 }

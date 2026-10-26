@@ -9,12 +9,13 @@
     "min": "A#3",
     "max": "A#5"
   },
+  "difficulty": "A",
   "scores": {
     "range": 4,
     "melody": 4,
     "rhythm": 3,
     "breath": 4,
-    "pronunciation": 3,
+    "pronunciation": 2,
     "technique": 4,
     "stability": 4
   },
