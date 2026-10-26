@@ -217,13 +217,10 @@ def md_cell(value: object) -> str:
 
 def render_content(songs: list[dict], thresholds: dict[str, float], weights: dict[str, float]) -> str:
     headers = (
-        "歌曲", "制作人", "歌姬", "BPM", "音高范围",
-        "音域", "旋律", "节奏", "气息", "咬字", "技巧", "稳定性", "综合难度", "难度等级",
+        "歌曲", "制作人", "歌姬", "难度等级", "综合难度", "音高范围", "BPM",
+        "音域", "旋律", "节奏", "气息", "咬字", "技巧", "稳定性",
     )
     lines = [
-        "> 综合难度为七项评分的加权平均值（满分 5 分），权重见 `config.json`；七项全部填写后才计算。按综合难度升序排列，未评分歌曲按 id 排在最后。",
-        f"> 等级可由歌曲的 `difficulty` 手动指定，否则根据配置阈值自动计算（左闭右开）：{difficulty_ranges(thresholds)}。",
-        "",
         "| " + " | ".join(headers) + " |",
         "| " + " | ".join("---" for _ in headers) + " |",
     ]
@@ -242,11 +239,11 @@ def render_content(songs: list[dict], thresholds: dict[str, float], weights: dic
             song["title"],
             "、".join(song["producers"]),
             "、".join(song["vocalists"]),
-            song.get("bpm") or "",
-            range_text,
-            *(score.get(k) or "" for k in SCORE_FIELDS),
-            f"{overall:.2f}" if overall is not None else "",
             song.get("difficulty") or (calculate_difficulty(overall, thresholds) if overall is not None else ""),
+            f"{overall:.2f}" if overall is not None else "",
+            range_text,
+            song.get("bpm") or "",
+            *(score.get(k) or "" for k in SCORE_FIELDS),
         ]
         lines.append("| " + " | ".join(map(md_cell, values)) + " |")
 
