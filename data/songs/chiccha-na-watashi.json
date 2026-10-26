@@ -9,20 +9,20 @@
   ],
   "bpm": 143,
   "vocal_range": {
-    "min": "",
-    "max": ""
+    "min": "F#3",
+    "max": "F#5"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 4,
+    "melody": 1,
+    "rhythm": 2,
+    "breath": 4,
+    "pronunciation": 1,
+    "technique": 5,
+    "stability": 4
   },
   "difficulty": "",
-  "comments": "",
+  "comments": "单人演唱则为毫无争议的S难度（请不要这样做）。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/520602"
@@ -30,6 +30,8 @@
     "bpm": [
       "https://songbpm.com/%4044oe44k144op44oa/44gh44gj44gh44kd44gq56eb-vlrvw"
     ],
-    "vocal_range": []
+    "vocal_range": [
+      "https://keytube.net/song/detail/105202"
+    ]
   }
 }

@@ -115,6 +115,7 @@ python scripts/generate.py
 | rain stops, good-bye | におP | 初音ミク | B | 2.87 |  | 148 | 3 | 3 | 2 | 3 | 3 | 3 | 3 |
 | 上弦の月 | 黒うさP | KAITO | B | 2.87 |  | 82 | 3 | 3 | 2 | 3 | 3 | 3 | 3 |
 | 夕日坂 | doriko | 初音ミク | B | 2.87 |  | 87 | 3 | 3 | 2 | 3 | 3 | 3 | 3 |
+| ちっちゃな私 | マサラダ | 重音テト (Synthesizer V) | B | 2.96 | F#3～F#5 | 143 | 4 | 1 | 2 | 4 | 1 | 5 | 4 |
 | ルカルカ★ナイトフィーバー | samfree | 巡音ルカ | B | 2.97 | D#4～D#5 | 160 | 2 | 3 | 4 | 3 | 3 | 3 | 3 |
 | FREELY TOMORROW | Mitchie M | 初音ミク | B | 3.00 | G#3～C#5 | 129 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | 夜もすがら君想ふ | TOKOTOKO | GUMI | B | 3.00 | G#3～C#5 | 148 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
@@ -405,7 +406,6 @@ python scripts/generate.py
 | あの夏のいつかは | *Luna | 初音ミク |  |  |  |  |  |  |  |  |  |  |  |
 | いいねってYEAH! | じーざすP | 鏡音リン、鏡音レン |  |  |  |  |  |  |  |  |  |  |  |
 | おべか | すりぃ | 重音テト (Synthesizer V)、鏡音レン |  |  |  |  |  |  |  |  |  |  |  |
-| ちっちゃな私 | マサラダ | 重音テト (Synthesizer V) |  |  |  | 143 |  |  |  |  |  |  |  |
 | はるのはるか | sasakure.UK | 初音ミク |  |  |  | 85 |  |  |  |  |  |  |  |
 | ほころび | 40mP | 初音ミク、GUMI |  |  |  | 86 |  |  |  |  |  |  |  |
 | もうじき夏が終わるから | n-buna | 初音ミク |  |  |  | 120 |  |  |  |  |  |  |  |
@@ -515,6 +515,10 @@ python scripts/generate.py
 
 <details><summary>KING</summary>
 <p>只要能够准确掌握换气的位置，这首歌就相对容易演唱。B段的难度稍高，需要特别注意配合鼓点的时机。副歌中「パッ」的部分，如果能像「パッ！」一样，将每个音清晰、短促地断开来唱，效果就会非常好！</p>
+</details>
+
+<details><summary>ちっちゃな私</summary>
+<p>单人演唱则为毫无争议的S难度（请不要这样做）。</p>
 </details>
 
 <details><summary>FREELY TOMORROW</summary>
