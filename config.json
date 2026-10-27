@@ -7,11 +7,11 @@
     "SSS": 4.8
   },
   "score_weights": {
-    "range": 110,
-    "melody": 95,
+    "range": 60,
+    "melody": 85,
     "rhythm": 90,
-    "breath": 95,
-    "pronunciation": 110,
+    "breath": 120,
+    "pronunciation": 100,
     "technique": 80,
     "stability": 110
   }

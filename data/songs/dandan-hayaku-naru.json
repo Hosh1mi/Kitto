@@ -7,7 +7,7 @@
   "vocalists": [
     "初音ミク"
   ],
-  "bpm": "90~~160",
+  "bpm": "90-160",
   "vocal_range": {
     "min": "A#3",
     "max": "D5"
