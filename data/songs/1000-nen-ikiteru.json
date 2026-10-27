@@ -9,20 +9,20 @@
   ],
   "bpm": 100,
   "vocal_range": {
-    "min": "",
-    "max": ""
+    "min": "A3",
+    "max": "D#6"
   },
   "scores": {
-    "range": "",
-    "melody": "",
-    "rhythm": "",
-    "breath": "",
-    "pronunciation": "",
-    "technique": "",
-    "stability": ""
+    "range": 5,
+    "melody": 5,
+    "rhythm": 5,
+    "breath": 4,
+    "pronunciation": 4,
+    "technique": 5,
+    "stability": 5
   },
-  "difficulty": "",
-  "comments": "",
+  "difficulty": "SS",
+  "comments": "即便降调也很难演绎的一首歌，若想表达歌词的深意，推荐降调后专注于情感表达。",
   "sources": {
     "metadata": [
       "https://vocadb.net/S/306287"
@@ -30,6 +30,8 @@
     "bpm": [
       "https://music-chord.com/songs/1000%E5%B9%B4%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B-%E3%81%84%E3%82%88%E3%82%8F/"
     ],
-    "vocal_range": []
+    "vocal_range": [
+      "https://entertainment-holic.com/range-of-songs-composed-by-iyowa/"
+    ]
   }
 }
